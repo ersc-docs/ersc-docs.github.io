@@ -30,7 +30,7 @@ nav_order: 1
 3. Enter the `Game` folder.
   
 4. Extract the archive from Step 1 into this folder. A successful installation will look like this:
-<a href="/assets/img/sucessful_installation.png"><img src="/assets/img/sucessful_installation.png" width="720"></a>
+<a href="/assets/img/successful_installation.png"><img src="/assets/img/successful_installation.png" width="720"></a>
   
 5. Open the `SeamlessCoop` folder.
   
