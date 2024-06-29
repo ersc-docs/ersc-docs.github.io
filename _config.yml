@@ -1,5 +1,6 @@
 title: ER Seamless Coop
 description: Resources for the Elden Ring Seamless Coop mod.
+repository: ersc-docs/ersc-docs
 
 theme: just-the-docs
 
@@ -23,6 +24,7 @@ footer_content: "awoo!"
 
 plugins:  
   - jekyll-redirect-from
+  - jekyll-github-metadata
 
 exclude:
    - .sass-cache/
