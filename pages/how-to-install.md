@@ -8,20 +8,12 @@ nav_order: 1
 <summary>Table of Contents</summary>
 
 > * [**How to Install**](#how-to-Install)
->   *   [Video Guide](#video-guide-of-seamless-coop-151-by-layka)
->   *   [Text instructions](#video-guide-of-seamless-coop-151-by-layka)
->   *   [Linux/Steam Deck](#linuxsteam-deck-launch-script)
 > * [**How to Update**](#new-item-guide)
 > * [**New Item Guide**](#new-item-guide)
 >   * [For basic use](#for-basic-use)
 </details>
 
 # How to Install
-
-## Video guide of Seamless Coop 1.5.1, by Layka:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PMHcGmmhXN4" frameborder="0"></iframe>
-
-## Text instructions
 
 0. Purchase the game on Steam. Each player must have access to a unique copy.  
     
@@ -38,76 +30,78 @@ nav_order: 1
 3. Enter the `Game` folder.
   
 4. Extract the archive from Step 1 into this folder. A successful installation will look like this:
-<a href="/assets/img/sucessful_installation.png"><img src="/assets/img/sucessful_installation.png" width="720"></a>
+<a href="/assets/img/successful_installation.png"><img src="/assets/img/successful_installation.png" width="720"></a>
   
 5. Open the `SeamlessCoop` folder.
   
-6. Open `seamlesscoopsettings.ini` using any text editor - Notepad (Windows) or nano (Linux) is sufficient.
+6. Open `ersc_settings.ini` using any text editor - Notepad (Windows) or nano (Linux) is sufficient.
   
 7. Edit the settings to your personal liking - by editing the values after ` = `. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-deisgnated places.  
     An example of a properly configured ini:
 
 ```ini
+[GAMEPLAY]
+
+; Invaders are other players that will join your world uninvited and try to kill you and your party
+allow_invaders = 1
+
+; Defuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire
+death_debuffs = 1
+
+; Spirit summons can aid you in multiplayer
+allow_summons = 1
+
+; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level
+overhead_player_display = 3
+
+
+[SCALING]
+
+; Amount of health (%) per player for each enemy
+enemy_health_scaling = 10
+
+; Amount of damage (%) per player for each enemy
+enemy_damage_scaling = 20
+
+; Amount of posture absorption (%) per player for each enemy
+enemy_posture_scaling = 30
+
+; Amount of health (%) per player for bosses
+boss_health_scaling = 40
+
+; Amount of damage (%) per player for bosses
+boss_damage_scaling = 50
+
+; Amount of posture absorption (%) per player for bosses
+boss_posture_scaling = 60
+
 [PASSWORD]
 
-; Set your co-op password. This cannot be blank
-; You must set a secure and unique password, then share it with those who you'd like to play with
-; Simple passwords are not recommended, secure ones could be for example a random series of numbers and letters
-; You must have a space after the '=' (e.g. cooppassword = example)
-cooppassword = seamless
+; Session password
+cooppassword = bingusISreal
 
-[SETTINGS]
+[SAVE]
 
-; Replaces the 'Host of Fingers' text above players
-; 0 = Off (no text)
-; 1 = Generic ('Host of Fingers' displayed)
-; 2 = Ping view (player ping will be displayed instead (in ms))
-playerhud = 0
+;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
+save_file_extension = co2
 
-; Whether to dock the HUD which appears above players
-; 0 = Automatic
-; 1 = Permanently docked
-dockplayerhud = 1
+[LANGUAGE]
 
-; The file extension at the end of your seamless co-op saves you don't need to add a "."
-; (e.g. savefileext = mywarriorplayerthrough) will produce a save file named "ER0000.mywarriorplayerthrough"
-; A few rules:
-; - Only alphanumeric characters
-; - Don't use the game's default (sl2)
-savefileext = co2
+;Leave this blank unless you want to load a custom locale file. The mod will default to your game language.
+mod_language_override = hungarian
 ```
 **IMPORTANT**: There might be changes to the ini in the future, in the form of new features or field name changes. When updating, it is recommended to run over it and with the new ini and set your settings again.
   
-**If you are on Windows**, this is the end of the installation for you - return to the `Game` folder, and open `launch_elden_ring_seamlesscoop.exe`. If there is no EAC splash screen on launch, the mod was installed correctly!
+**If you are on Windows**, this is the end of the installation for you - return to the `Game` folder, and open `ersc_launcher.exe`. If there is no EAC splash screen on launch, the mod was installed correctly!
 
 **NOTE**: If you are getting `Inappropriate Activity Detected` after mod launch, that means that it failed to load. Some antiviruses can false flag and prevent the mod from hooking into the game - disable or uninstall them to resolve this.
 
 (Optional) Create a shortcut to `launch_elden_ring_seamlesscoop.exe` on your desktop - this can be done by right clicking the launcher and pressing Create shortcut (under More options in Windows 11). Drag and drop the resulting shortcut to your desktop.
-  
-## Linux/Steam Deck:
-There are multiple ways to make the mod work on Linux and Steam Deck. Here's a few ways we know work.
-### Solution 1 - Non-steam app
-1. Add `launch_elden_ring_seamlesscoop.exe` as non-steam app in Steam  
-  On Desktop (desktop mode for Steam Deck) this can be done from the "Add a game" button in the lower left corner of the Steam client, then find and select the the executable in the game folder.
+
+**If you are on Linux**, add `ersc_launcher.exe` to Steam as a Non-Steam game, and launch it from there:
+1. On Desktop (desktop mode for Steam Deck) this can be done from the "Add a game" button in the lower left corner of the Steam client, then find and select the the executable in the game folder.
 2. Open up the properties menu of the new `launch_elden_ring_seamlesscoop.exe` entry in Steam. Feel free to rename it to whatever you like
 3. On the "Compatibility" page, you'll want to set your preferred Proton version. If you don't know what to pick, Proton 8.0 or 7.0 should work fine.
-
-You should be able to launch the mod via this new entry now.  
-If important, it will have its own separate location for saves.
-
-### Solution 2 - Install script
-> [rentry.org/er-coop-deck](https://rentry.org/er-coop-deck)  
-> Credit to david2775 on Discord
-  
-Open Elden Ring's launch options, and paste the following:
-```ini
-DXVK_FRAME_RATE=58 PROTON_SET_GAME_DRIVE=1 VKD3D_FEATURE_LEVEL=12_0 DXVK_STATE_CACHE=1 DXVK_ASYNC=1 /bin/bash ./launch_elden_ring_seamlesscoop.sh %command%
-```
-
-A selection box will now appear whenever trying to launch Elden Ring, allowing you to choose whether to play Seamless Coop (default) or Vanilla.
-
-Video guide for Linux:  
-<video controls src="/assets/vid/er-seamless-deck.mp4" width=720 title="Linux video guide"></video>
 
 # How to Update
 
