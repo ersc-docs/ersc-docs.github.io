@@ -133,12 +133,6 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
-
-> Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen) - will be fixed in the next version.
-</details>
-
-<details markdown="block">
 <summary>I get a long loading screen when entering an NPC invasion!</summary>
 
 > Known bug, cause unknown - for now, just wait it out (around 30 seconds).
