@@ -7,10 +7,13 @@ nav_order: 3
 # FAQ
 
 ## General use
+<details markdown="block">
 <summary>Why am I not getting the Seamless Coop items?</summary>
 
 >You need to rest at a grace to obtain the Seamless Coop items.    
->If you didn't get them - please try verifying your game files through Steam and trying again: Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
+>If you didn't get them - please try verifying your game files through Steam and trying again:
+>Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
+</details>
 <details markdown="block">
 <summary>Can I get achievements when playing this mod?</summary>
 
