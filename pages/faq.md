@@ -168,6 +168,12 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, unique NPC invasion. For now, cannot be done in Seamless Coop.
 </details>
 
+<details markdown="block">
+<summary>I'm infinitely falling after fighting Radahn!</summary>
+
+> Known bug - for now, use [The Grand Archives cheat table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/) to warp to a grace.
+</details>
+
 ## Invasion bugs
 
 <details markdown="block">
