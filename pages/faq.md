@@ -80,10 +80,61 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
+
+<details markdown="block">
+<summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
+
+> Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen).
+</details>
+
+<details markdown="block">
+<summary>I get a long loading screen when entering an NPC invasion!</summary>
+
+> Known bug, cause unknown - for now, just wait it out (around 30 seconds).
+</details>
+
+<details markdown="block">
+<summary>Whenever my partner mounts Torrent, they're flickering/invisible!</summary>
+
+> Visual bug.
+> Torrent tends to go to (0,0,0) in some areas. Reloading the areas (through warping to the local grace) should fix it.
+</details>
+
+<details markdown="block">
+<summary>I entered an evergaol and now I'm stuck as a spectator!</summary>
+
+> Known bug, for now - don't die in evergaols.
+> Evergaol completion makes your camera stay on the original player. Cause hasn't been narrowed down yet.
+</details>
+
+<details markdown="block">
+<summary>I'm infinitely falling after fighting Radahn!</summary>
+
+> Known bug - for now, use [The Grand Archives cheat table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/) to warp to a grace.
+</details>
+
 <summary>I can't lock on!</summary>
 
 > Reloading the character should fix it.
-> This is due to torrent sharing the same lock-on list as the player - and when it's despawned, it sometimes messes the entity entry list.
+> This is due to Torrent sharing the same lock-on list as the player - and when it's despawned, it sometimes messes the entity entry list.
+</details>
+
+<details markdown="block">
+<summary>Active Graces don't synchronize to far away players!</summary>
+
+> Known bug, due to interacting with graces being limited to loaded chunks. For now, activate graces individually, or play close to each other.
+</details>
+
+<details markdown="block">
+<summary>I completed an NPC invasion, but it didn't count! I can still see the sign!</summary>
+
+> Known bug, NPC invasions currently only work when in session with other players. Play Seamless **Coop** together.
+</details>
+
+<details markdown="block">
+<summary>The ensnaring chest at Agheel Lake doesn't teleport me to Caelid!</summary>
+
+> Known bug, for now - doesn't work.
 </details>
 
 <details markdown="block">
@@ -100,60 +151,9 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>Millicent's invasion doesn't complete!</summary>
-
-> Known bug, due to unique invasion completion state.
-> For now, cannot be done in Seamless Coop.
-</details>
-
-<details markdown="block">
-<summary>I entered an evergaol and now I'm stuck as a spectator!</summary>
-
-> Known bug, for now - don't die in evergaols.
-> Evergaol completion makes your camera stay on the original player. Cause hasn't been narrowed down yet.
-</details>
-
-<details markdown="block">
-<summary>Whenever my partner mounts Torrent, they're flickering/invisible!</summary>
-
-> Visual bug.
-> Torrent tends to go to (0,0,0) in some areas. Reloading the areas (through warping to the local grace) should fix it.
-</details>
-
-<details markdown="block">
-<summary>The ensnaring chest at Agheel Lake doesn't teleport me to Caelid!</summary>
-
-> Known bug, for now - doesn't work.
-</details>
-
-<details markdown="block">
-<summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
-
-> Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen).
-</details>
-
-<details markdown="block">
-<summary>I get a long loading screen when entering an NPC invasion!</summary>
-
-> Known bug, cause unknown - for now, just wait it out (around 30 seconds).
-</details>
-
-<details markdown="block">
 <summary>I cannot enter Evergaols that have Stonesword Keys!</summary>
 
 > Known bug, for now - cannot be done.
-</details>
-
-<details markdown="block">
-<summary>Active Graces don't synchronize to far away players!</summary>
-
-> Known bug, due to interacting with graces being limited to loaded chunks. For now, activate graces individually, or play close to each other.
-</details>
-
-<details markdown="block">
-<summary>I completed an NPC invasion, but it didn't count! I can still see the sign!</summary>
-
-> Known bug, NPC invasions currently only work when in session with other players. Play Seamless **Coop** together.
 </details>
 
 <details markdown="block">
@@ -163,10 +163,12 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>I'm infinitely falling after fighting Radahn!</summary>
+<summary>Millicent's invasion doesn't complete!</summary>
 
-> Known bug - for now, use [The Grand Archives cheat table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/) to warp to a grace.
+> Known bug, due to unique invasion completion state.
+> For now, cannot be done in Seamless Coop.
 </details>
+
 
 ## Invasion bugs
 
