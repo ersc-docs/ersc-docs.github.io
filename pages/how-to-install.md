@@ -48,7 +48,7 @@ nav_order: 1
 ; Invaders are other players that will join your world uninvited and try to kill you and your party
 allow_invaders = 1
 
-; Defuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire
+; Debuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire
 death_debuffs = 1
 
 ; Spirit summons can aid you in multiplayer
@@ -108,7 +108,7 @@ mod_language_override = hungarian
 
 # How to Update
 
-To update the mod, simply repeat steps 1-8 of the installation instructions.  
+To update the mod, simply repeat steps 1-9 of the installation instructions.  
 
 Keep in mind, every Elden Ring update (by FromSoftware) is expected to break all the mods, including Seamless Coop, until they're updated. Since the game is still actively supported, updating the mod is a regular practice.  
 
