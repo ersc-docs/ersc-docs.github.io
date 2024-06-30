@@ -57,7 +57,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>How can I set the deathcount to be the player banner?</summary>
 
-> in the ini, put 4 as your overhead_palyer_display:
+> In the ini, put 4 as your overhead_palyer_display:
 > `overhead_player_display = 4`
 
 </details>
