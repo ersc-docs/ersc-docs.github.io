@@ -116,7 +116,7 @@ Keep in mind, every Elden Ring update (by FromSoftware) is expected to break all
    
 # New Item Guide
 
-**IMPORTANT**: Seamless Coop adds new items to the game. They're added automatically to any character that doesn't have them upon load. **They all have item descriptions detailing their use**.
+**IMPORTANT**: Seamless Coop adds new items to the game. They're added automatically to any character that doesn't have them upon resting at a grace. **They all have item descriptions detailing their use**.
 
 ## For basic use
 * One player must use the `Tiny Great Pot` to start a session.
