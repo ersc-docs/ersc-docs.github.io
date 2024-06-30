@@ -106,6 +106,12 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
+<summary>My friend disconnected in a bossfight, and now I'm stuck as a spectator!</summary>
+
+> Known bug, for now - either win the bossfight or Alt+F4 if that happens.
+</details>
+
+<details markdown="block">
 <summary>I'm infinitely falling after fighting Radahn!</summary>
 
 > Known bug - for now, use [The Grand Archives cheat table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/) to warp to a grace.
