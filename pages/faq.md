@@ -80,8 +80,6 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-
-<details markdown="block">
 <summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
 
 > Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen).
