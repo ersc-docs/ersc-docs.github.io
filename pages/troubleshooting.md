@@ -162,6 +162,12 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, NPC invasions currently only work when in session with other players. Play Seamless **Coop** together.
 </details>
 
+<details markdown="block">
+<summary>I cannot complete Ansbach's quest!</summary>
+
+> Known bug, unique NPC invasion. For now, cannot be done in Seamless Coop.
+</details>
+
 ## Invasion bugs
 
 <details markdown="block">
