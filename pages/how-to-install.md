@@ -28,15 +28,18 @@ nav_order: 1
 2. In Steam, right click `Elden Ring`. Then click `Manage`, and `Browse local files`.
   
 3. Enter the `Game` folder.
+
+4. If you have installed Seamless Coop in the past, delete both `launch_elden_ring_seamlesscoop.exe` and the `SeamlessCoop` folder:
+<a href="/assets/img/legacy_installation.png"><img src="/assets/img/legacy_installation.png" width="720"></a>
   
-4. Extract the archive from Step 1 into this folder. A successful installation will look like this:
+6. Extract the archive from Step 1 into this folder. A successful installation will look like this:
 <a href="/assets/img/successful_installation.png"><img src="/assets/img/successful_installation.png" width="720"></a>
   
-5. Open the `SeamlessCoop` folder.
+7. Open the `SeamlessCoop` folder.
   
-6. Open `ersc_settings.ini` using any text editor - Notepad (Windows) or nano (Linux) is sufficient.
+8. Open `ersc_settings.ini` using any text editor - Notepad (Windows) or nano (Linux) is sufficient.
   
-7. Edit the settings to your personal liking - by editing the values after ` = `. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-deisgnated places.  
+9. Edit the settings to your personal liking - by editing the values after ` = `. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-deisgnated places.  
     An example of a properly configured ini:
 
 ```ini
@@ -105,7 +108,7 @@ mod_language_override = hungarian
 
 # How to Update
 
-To update the mod, simply repeat steps 1-7 of the installation instructions.  
+To update the mod, simply repeat steps 1-8 of the installation instructions.  
 
 Keep in mind, every Elden Ring update (by FromSoftware) is expected to break all the mods, including Seamless Coop, until they're updated. Since the game is still actively supported, updating the mod is a regular practice.  
 
