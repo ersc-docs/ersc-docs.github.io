@@ -1,4 +1,4 @@
 ---
 layout: home
-permalink: /
+permalink: /how-to-install/
 ---
