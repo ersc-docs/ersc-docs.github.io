@@ -55,139 +55,26 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>How do I vote or accept a vote being made?</summary>
+<summary>How can I set the deathcount to be the player banner?</summary>
 
-> As of v1.3.0, per message in [(Discord) #updates](https://discord.com/channels/979042878091329587/979709115116969994/995015898454835241), Players can vote from the map and use the following key to press to move their cursor to the voted location:
->  
->  - Controller - `L1/LB`
->  - Keyboard - `Z`
+> in the ini, put 4 as your overhead_palyer_display:
+> `overhead_player_display = 4`
 
 </details>
 
-## Category 2
+## Known bugs
 
 <details markdown="block">
-<summary>What about invasions?</summary>
+<summary>I'm stuck in an infinite loading screen!</summary>
 
-
-</details>
-
-<details markdown="block">
-<summary>Is there anything I should do before starting with friends?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>What is Rot Essence?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Is there a globla password to use for Seamless?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>If I uninstall Elden Ring and/or Seamless mod, will my save for that mod be affected?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Is the mod open source?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>[Windows/Linux] Can I use my vanilla save/character in Seamless?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>What is the scaling in this mod?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>What are the Seamless Coop items and what do they do?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can I use my Seamless Coop save/character in vanilla?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>How does White Mask Varre's quest work now with the mandatory invasions?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can this mod get me banned?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can I play on a cracked/pirated copy?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can I use other mods?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can I play the vanilla game in parallel to the mod?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>I think the game's difficulty is wrong, can I change it?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>How many people can play together?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can I use Spirit Ashes?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Someone who isn't in my group is interrupting me, what can I do?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>How can I interact with a bot in the server?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>How can I help development?</summary>
-
-
+> Download Nordgaren's [Debug Tool](https://cdn.discordapp.com/attachments/979043448491491332/1253885339022524529/Elden_Ring_Debug_Tool_0.8.6.0_Preview.7z?ex=6682aff8&is=66815e78&hm=540d0182d3a91d01ade1917ded13b4f9e1a51c236e3b7b643a16b16de5262a65&)
+> 1. Launch Seamless Coop
+> 2. While in the loading screen, launch the Debug Tool as Administrator.
+> 3. Check that on the bottom, it says: `Loaded: Yes`
+> 4. Go to the Misc tab.
+> 5. Enable flags: 105, 115.
+> 6. Wait for the infinite loading screen to start again. This time, it should complete.
+> 7. Go to the Grace tab.
+> 8. Under Manage Graces, type Table of Lost Grace.
+> 9. Press the Set button.
 </details>
