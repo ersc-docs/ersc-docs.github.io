@@ -113,6 +113,7 @@ e in Weeping Penninsula to get respective drops).
 > Known bug - for now, use [The Grand Archives cheat table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/) to warp to a grace.
 </details>
 
+<details markdown="block">
 <summary>I can't lock on!</summary>
 
 > Reloading the character should fix it.
