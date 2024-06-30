@@ -6,7 +6,14 @@ nav_order: 4
 ---
 # FAQ
 
-## Category 1
+## General use
+<details markdown="block">
+<summary>Why am I not getting the Seamless Coop items?</summary>
+
+>You need to rest at a grace to obtain the Seamless Coop items.    
+>If you didn't get them - please try verifying your game files through Steam and trying again:
+>Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
+</details>
 <details markdown="block">
 <summary>Can I get achievements when playing this mod?</summary>
 
@@ -48,139 +55,129 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>How do I vote or accept a vote being made?</summary>
+<summary>How can I set the deathcount to be the player banner?</summary>
 
-> As of v1.3.0, per message in [(Discord) #updates](https://discord.com/channels/979042878091329587/979709115116969994/995015898454835241), Players can vote from the map and use the following key to press to move their cursor to the voted location:
->  
->  - Controller - `L1/LB`
->  - Keyboard - `Z`
+> in the ini, put 4 as your overhead_palyer_display:
+> `overhead_player_display = 4`
 
 </details>
 
-## Category 2
+## Known bugs
 
 <details markdown="block">
-<summary>What about invasions?</summary>
+<summary>I'm stuck in an infinite loading screen!</summary>
 
-
+> Download Nordgaren's [Debug Tool](https://cdn.discordapp.com/attachments/979043448491491332/1253885339022524529/Elden_Ring_Debug_Tool_0.8.6.0_Preview.7z?ex=6682aff8&is=66815e78&hm=540d0182d3a91d01ade1917ded13b4f9e1a51c236e3b7b643a16b16de5262a65&)
+> 1. Launch Seamless Coop
+> 2. While in the loading screen, launch the Debug Tool as Administrator.
+> 3. Check that on the bottom, it says: `Loaded: Yes`
+> 4. Go to the Misc tab.
+> 5. Enable flags: 105, 115.
+> 6. Wait for the infinite loading screen to start again. This time, it should complete.
+> 7. Go to the Grace tab.
+> 8. Under Manage Graces, type Table of Lost Grace.
+> 9. Press the Set button.
 </details>
 
 <details markdown="block">
-<summary>Is there anything I should do before starting with friends?</summary>
+<summary>I can't lock on!</summary>
 
-
+> Reloading the character should fix it.
+> This is due to torrent sharing the same lock-on list as the player - and when it's despawned, it sometimes messes the entity entry list.
 </details>
 
 <details markdown="block">
-  <summary>What is Rot Essence?</summary>
+<summary>I crash while on moving carriages!</summary>
 
-
+> Known bug, for now - don't do it.
 </details>
 
 <details markdown="block">
-  <summary>Is there a globla password to use for Seamless?</summary>
+<summary>Rold's Lift disconnects everyone!</summary>
 
-
+> Known bug, for now - don't do it, or reconnect after doing it.
+> Happens due to the area movement script having a disconnect event, which will have to be disabled.
 </details>
 
 <details markdown="block">
-  <summary>If I uninstall Elden Ring and/or Seamless mod, will my save for that mod be affected?</summary>
+<summary>Millicent's invasion doesn't complete!</summary>
 
-
+> Known bug, due to unique invasion completion state.
+> For now, cannot be done in Seamless Coop.
 </details>
 
 <details markdown="block">
-  <summary>Is the mod open source?</summary>
+<summary>I entered an evergaol and now I'm stuck as a spectator!</summary>
 
-
+> Known bug, for now - don't die in evergaols.
+> Evergaol completion makes your camera stay on the original player. Cause hasn't been narrowed down yet.
 </details>
 
 <details markdown="block">
-  <summary>[Windows/Linux] Can I use my vanilla save/character in Seamless?</summary>
+<summary>Whenever my partner mounts Torrent, they're flickering/invisible!</summary>
 
-
+> Visual bug.
+> Torrent tends to go to (0,0,0) in some areas. Reloading the areas (through warping to the local grace) should fix it.
 </details>
 
 <details markdown="block">
-  <summary>What is the scaling in this mod?</summary>
+<summary>The ensnaring chest at Agheel Lake doesn't teleport me to Caelid!</summary>
 
-
+> Known bug, for now - doesn't work.
 </details>
 
 <details markdown="block">
-  <summary>What are the Seamless Coop items and what do they do?</summary>
+<summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
 
-
+> Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen).
 </details>
 
 <details markdown="block">
-  <summary>Can I use my Seamless Coop save/character in vanilla?</summary>
+<summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
 
-
+> Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen) - will be fixed in the next version.
 </details>
 
 <details markdown="block">
-  <summary>How does White Mask Varre's quest work now with the mandatory invasions?</summary>
+<summary>I get a long loading screen when entering an NPC invasion!</summary>
 
-
+> Known bug, cause unknown - for now, just wait it out (around 30 seconds).
 </details>
 
 <details markdown="block">
-  <summary>Can this mod get me banned?</summary>
+<summary>I cannot enter Evergaols that have Stonesword Keys!</summary>
 
-
+> Known bug, for now - cannot be done.
 </details>
 
 <details markdown="block">
-  <summary>Can I play on a cracked/pirated copy?</summary>
+<summary>Active Graces don't synchronize to far away players!</summary>
 
-
+> Known bug, due to interacting with graces being limited to loaded chunks. For now, activate graces individually, or play close to each other.
 </details>
 
 <details markdown="block">
-  <summary>Can I use other mods?</summary>
+<summary>I completed an NPC invasion, but it didn't count! I can still see the sign!</summary>
 
-
+> Known bug, NPC invasions currently only work when in session with other players. Play Seamless **Coop** together.
 </details>
 
 <details markdown="block">
-  <summary>Can I play the vanilla game in parallel to the mod?</summary>
+<summary>I cannot complete Ansbach's quest!</summary>
 
+> Known bug, unique NPC invasion. For now, cannot be done in Seamless Coop.
+</details>
 
+## Invasion bugs
+
+<details markdown="block">
+<summary>I get the host's world state! Graces, cookbooks and all!</summary>
+
+> Known bug. For now - use dedicated invasion characters for that purpose.
 </details>
 
 <details markdown="block">
-  <summary>I think the game's difficulty is wrong, can I change it?</summary>
+<summary>I can invade mid boss-fight!</summary>
 
-
-</details>
-
-<details markdown="block">
-  <summary>How many people can play together?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Can I use Spirit Ashes?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>Someone who isn't in my group is interrupting me, what can I do?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>How can I interact with a bot in the server?</summary>
-
-
-</details>
-
-<details markdown="block">
-  <summary>How can I help development?</summary>
-
-
+> Known bug.
 </details>
