@@ -42,9 +42,10 @@ Seamless Coop will also not be able to start from the standalone launcher.
 5\. Extract `Seamless Coop` (file 1.ii) into your `Game` folder:  
 <a href="https://i.imgur.com/z7p8cRT.png"><img src="https://i.imgur.com/z7p8cRT.png" width="600"></a>
   
-6\. Enter the `SeamlessCoop` folder, and select `ersc.dll` and `ersc_settings.ini`:  
+6\. Enter the `SeamlessCoop` folder, and select `ersc.dll`, `ersc_settings.ini` and the `locale` folder:  
 <a href="https://i.imgur.com/wLRTgWN.png"><img src="https://i.imgur.com/wLRTgWN.png" width="600"></a>
-  
+  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/531629d7-504f-497f-9792-a4645e0638f4)
+
 7\. Copy and paste them into the `mods` folder:  
 <a href="https://i.imgur.com/EFmxOBC.png"><img src="https://i.imgur.com/EFmxOBC.png" width="600"></a>
   
