@@ -29,7 +29,7 @@ Seamless Coop will also not be able to start from the standalone launcher.
    3. [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases)
    4. Latest versions of the mods of your choosing.
 
-> <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.
+> <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.  
 > <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
   
 2. In Steam, right click `Elden Ring`. Then click `Manage`, and `Browse local files`.
