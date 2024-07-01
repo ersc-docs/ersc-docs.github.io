@@ -27,6 +27,8 @@ nav_order: 4
 4. Copy `ER0000.sl2`, and paste it.  
 5. Rename the pasted file `ER0000.co2`  
 6. Your vanilla characters will now show in Seamless Coop!
+</details>
+
 <details markdown="block">
 <summary>I'm using Linux</summary>
 
