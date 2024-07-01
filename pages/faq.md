@@ -11,7 +11,7 @@ nav_order: 4
 <summary>Why am I not getting the Seamless Coop items?</summary>
 
 >You need to rest at a grace to obtain the Seamless Coop items.    
->If you didn't get them - please try verifying your game files through Steam and trying again:
+>If you didn't get them - please try verifying your game files through Steam and trying again:  
 >Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
 </details>
 <details markdown="block">
@@ -57,7 +57,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>How can I set the deathcount to be the player banner?</summary>
 
-> In the ini, put 4 as your overhead_palyer_display:
+> In the ini, put 4 as your overhead_palyer_display:  
 > `overhead_player_display = 4`
 
 </details>
@@ -67,7 +67,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I'm stuck in an infinite loading screen!</summary>
 
-> Download Nordgaren's [Debug Tool](https://cdn.discordapp.com/attachments/979043448491491332/1253885339022524529/Elden_Ring_Debug_Tool_0.8.6.0_Preview.7z?ex=6682aff8&is=66815e78&hm=540d0182d3a91d01ade1917ded13b4f9e1a51c236e3b7b643a16b16de5262a65&)
+> Download Nordgaren's [Debug Tool](https://cdn.discordapp.com/attachments/979043448491491332/1253885339022524529/Elden_Ring_Debug_Tool_0.8.6.0_Preview.7z?ex=6682aff8&is=66815e78&hm=540d0182d3a91d01ade1917ded13b4f9e1a51c236e3b7b643a16b16de5262a65&)  
 > 1. Launch Seamless Coop
 > 2. While in the loading screen, launch the Debug Tool as Administrator.
 > 3. Check that on the bottom, it says: `Loaded: Yes`
@@ -94,14 +94,14 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>Whenever my partner mounts Torrent, they're flickering/invisible!</summary>
 
-> Visual bug.
+> Visual bug.  
 > Torrent tends to go to (0,0,0) in some areas. Reloading the areas (through warping to the local grace) should fix it.
 </details>
 
 <details markdown="block">
 <summary>I entered an evergaol and now I'm stuck as a spectator!</summary>
 
-> Known bug, for now - don't die in evergaols.
+> Known bug, for now - don't die in evergaols.  
 > Evergaol completion makes your camera stay on the original player. Cause hasn't been narrowed down yet.
 </details>
 
@@ -120,7 +120,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I can't lock on!</summary>
 
-> Reloading the character should fix it.
+> Reloading the character should fix it.  
 > This is due to Torrent sharing the same lock-on list as the player - and when it's despawned, it sometimes messes the entity entry list.
 </details>
 
@@ -151,7 +151,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>Rold's Lift disconnects everyone!</summary>
 
-> Known bug, for now - don't do it, or reconnect after doing it.
+> Known bug, for now - don't do it, or reconnect after doing it.  
 > Happens due to the area movement script having a disconnect event, which will have to be disabled.
 </details>
 
@@ -170,7 +170,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>Millicent's invasion doesn't complete!</summary>
 
-> Known bug, due to unique invasion completion state.
+> Known bug, due to unique invasion completion state.  
 > For now, cannot be done in Seamless Coop.
 </details>
 
