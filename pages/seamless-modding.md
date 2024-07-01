@@ -43,12 +43,13 @@ Seamless Coop will also not be able to start from the standalone launcher.
 <a href="https://i.imgur.com/z7p8cRT.png"><img src="https://i.imgur.com/z7p8cRT.png" width="600"></a>
   
 6\. Enter the `SeamlessCoop` folder, and select `ersc.dll`, `ersc_settings.ini` and the `locale` folder:  
-<a href="https://i.imgur.com/wLRTgWN.png"><img src="https://i.imgur.com/wLRTgWN.png" width="600"></a>
+# <a href="https://i.imgur.com/wLRTgWN.png"><img src="https://i.imgur.com/wLRTgWN.png" width="600"></a>
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/531629d7-504f-497f-9792-a4645e0638f4)
 
 7\. Copy and paste them into the `mods` folder:  
-<a href="https://i.imgur.com/EFmxOBC.png"><img src="https://i.imgur.com/EFmxOBC.png" width="600"></a>
-  
+# <a href="https://i.imgur.com/EFmxOBC.png"><img src="https://i.imgur.com/EFmxOBC.png" width="600"></a>
+  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/bff6984a-de72-460e-a4a5-225c6f770511)
+
 8\. Edit the settings to your personal liking - by editing the values after `=`. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-designated places.
     An example of a properly configured ini:
 
