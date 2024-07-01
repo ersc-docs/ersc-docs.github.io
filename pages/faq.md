@@ -77,6 +77,7 @@ e in Weeping Penninsula to get respective drops).
 > 7. Go to the Grace tab.
 > 8. Under Manage Graces, type Table of Lost Grace.
 > 9. Press the Set button.
+> If above does not work try verify your game files in steam before trying again.
 </details>
 
 <details markdown="block">
