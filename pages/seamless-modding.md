@@ -52,33 +52,55 @@ Seamless Coop will also not be able to start from the standalone launcher.
     An example of a properly configured ini:
 
 ```ini
+[GAMEPLAY]
+
+; Invaders are other players that will join your world uninvited and try to kill you and your party
+allow_invaders = 1
+
+; Debuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire
+death_debuffs = 1
+
+; Spirit summons can aid you in multiplayer
+allow_summons = 0
+
+; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level | 4 = Display death count
+overhead_player_display = 4
+
+
+[SCALING]
+
+; Amount of health (%) per player for each enemy
+enemy_health_scaling = 10
+
+; Amount of damage (%) per player for each enemy
+enemy_damage_scaling = 20
+
+; Amount of posture absorption (%) per player for each enemy
+enemy_posture_scaling = 30
+
+; Amount of health (%) per player for bosses
+boss_health_scaling = 40
+
+; Amount of damage (%) per player for bosses
+boss_damage_scaling = 50
+
+; Amount of posture absorption (%) per player for bosses
+boss_posture_scaling = 60
+
 [PASSWORD]
 
-; Set your co-op password. This cannot be blank
-; You must set a secure and unique password, then share it with those who you'd like to play with
-; Simple passwords are not recommended, secure ones could be for example a random series of numbers and letters
-; You must have a space after the '=' (e.g. cooppassword = example)
-cooppassword = seamless
+; Session password
+cooppassword = reforgedfloppa
 
-[SETTINGS]
+[SAVE]
 
-; Replaces the 'Host of Fingers' text above players
-; 0 = Off (no text)
-; 1 = Generic ('Host of Fingers' displayed)
-; 2 = Ping view (player ping will be displayed instead (in ms))
-playerhud = 0
+;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
+save_file_extension = err
 
-; Whether to dock the HUD which appears above players
-; 0 = Automatic
-; 1 = Permanently docked
-dockplayerhud = 1
+[LANGUAGE]
 
-; The file extension at the end of your seamless co-op saves you don't need to add a "."
-; (e.g. savefileext = mywarriorplayerthrough) will produce a save file named "ER0000.mywarriorplayerthrough"
-; A few rules:
-; - Only alphanumeric characters
-; - Don't use the game's default (sl2)
-savefileext = reforgedco2
+;Leave this blank unless you want to load a custom locale file. The mod will default to your game language.
+mod_language_override = japanese
 ```
 > <b><u>IMPORTANT NOTE</u></b>: There might be changes to the ini in the future, in the form of new features or field name changes. When updating Seamless Coop, it is recommended to overwrite it with the new ini and configure your settings again.
 
