@@ -130,8 +130,8 @@ To install each of your mods (files 1d), follow the steps as follows:
 <details markdown="block">
   <summary>My mod contains many files and folders</summary>
 
-> 1. Enter your `ModEngine2` folder.
-> 2. Enter the `mod` folder.
+> 1. Enter your `ModEngine2` folder.  
+> 2. Enter the `mod` folder.  
 > 3. Extract your mod to this folder, as shown:  
 > <a href="https://i.imgur.com/uLvLBsJ.png"><img src="https://i.imgur.com/uLvLBsJ.png" width="600"></a>
 > 
@@ -146,7 +146,7 @@ To install each of your mods (files 1d), follow the steps as follows:
 <details markdown="block">
   <summary>My mod contains a DLL file!</summary>
 
-> 1. Enter your `mods` folder.
+> 1. Enter your `mods` folder.  
 > 2. Extract your mod to this folder, as shown:  
 > <a href="https://i.imgur.com/bT6X7Fd.png"><img src="https://i.imgur.com/bT6X7Fd.png" width="600"></a>
 > 
@@ -159,7 +159,7 @@ To install each of your mods (files 1d), follow the steps as follows:
 > 
 > Since you will not be using the original launcher, pay no attention to it - and instead look at the other files that come with your mod - and choose one of the previous methods.
 > 
-> <u>Example 1</u>: Elden Ring Ascended comes pre-packed with ModEngine 2. It's best to take the contents of the `mod` folder of it, and install it as shown in "⁠My mod contains many files and folders"
+> <u>Example 1</u>: Elden Ring Ascended comes pre-packed with ModEngine 2. It's best to take the contents of the `mod` folder of it, and install it as shown in "⁠My mod contains many files and folders"  
 > <u>Example 2</u>: Elden Ring FPS comes with a dll injector launcher. For it, you will have to take the contents of `Elden_Ring_FPS` and install it as shown in "My mod contains a DLL file!⁠"
 </details>
 <details markdown="block">
