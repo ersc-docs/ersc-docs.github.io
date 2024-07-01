@@ -105,24 +105,24 @@ mod_language_override = japanese
 > <b><u>IMPORTANT NOTE</u></b>: There might be changes to the ini in the future, in the form of new features or field name changes. When updating Seamless Coop, it is recommended to overwrite it with the new ini and configure your settings again.
 
   
-9. Go back to the `Game` folder.
+9\. Go back to the `Game` folder.
 
-10. Open `mod_loader_config.ini`
+10\. Open `mod_loader_config.ini`
 
-11. Change `exmaple.dll = 1` to `ersc.dll = 0`
+11\. Change `exmaple.dll = 1` to `ersc.dll = 0`
 
-12. Save the file.
+12\. Save the file.
    
-13. Create a folder named `ModEngine2`:  
+13\. Create a folder named `ModEngine2`:  
 <a href="https://i.imgur.com/4f9l8it.png"><img src="https://i.imgur.com/4f9l8it.png" width="600"></a>
   
-14. Extract `Mod Engine 2` (file 1.iii) into the `ModEngine2` folder:  
+14\. Extract `Mod Engine 2` (file 1.iii) into the `ModEngine2` folder:  
 <a href="https://i.imgur.com/od0fvlU.png"><img src="https://i.imgur.com/od0fvlU.png" width="600"></a>
   
 (Optional) Create a shortcut to `launchmod_eldenring.bat` on your desktop - this can be done by right clicking the file and pressing `Create shortcut` (under `More options` in Windows 11). Drag and drop the resulting shortcut to your desktop.
 
   
-15. Run `launchmod_eldenring.bat` once and get to the main menu. This will create a save file compatible with your current Elden Ring version.
+15\. Run `launchmod_eldenring.bat` once and get to the main menu. This will create a save file compatible with your current Elden Ring version.
 
    
 To install each of your mods (files 1d), follow the steps as follows:
