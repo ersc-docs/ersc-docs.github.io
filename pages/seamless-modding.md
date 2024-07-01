@@ -25,19 +25,16 @@ Seamless Coop will also not be able to start from the standalone launcher.
   
 1. Download the following:
    1. [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117)
-   2. [Seamless Coop, version 1.5.1](https://www.nexusmods.com/eldenring/mods/510)  
-       ><b><u>NOTE:</u></b> Version 2.0.0 is currently incompatible with other mods.
+   2. [Seamless Coop, version 1.7.2](https://www.nexusmods.com/eldenring/mods/510)  
    3. [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases)
    4. Latest versions of the mods of your choosing.
 
 > <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.
-
+> <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
   
-2. On Steam, right click `Elden Ring`. Then click `Manage`, and `Browse local files`.
-
+2. In Steam, right click `Elden Ring`. Then click `Manage`, and `Browse local files`.
   
 3. Enter the `Game` folder.
-
   
 4. Extract `Elden Mod Loader` (file 1.i) into your `Game` folder:  
 <a href="https://i.imgur.com/ZTnDDdj.png"><img src="https://i.imgur.com/ZTnDDdj.png" width="600"></a>
@@ -45,7 +42,7 @@ Seamless Coop will also not be able to start from the standalone launcher.
 5. Extract `Seamless Coop` (file 1.ii) into your `Game` folder:  
 <a href="https://i.imgur.com/z7p8cRT.png"><img src="https://i.imgur.com/z7p8cRT.png" width="600"></a>
   
-6. Enter the `SeamlessCoop` folder, and select `elden_ring_seamless_coop.dll` and `seamlesscoopsettings.ini`:  
+6. Enter the `SeamlessCoop` folder, and select `ersc.dll` and `ersc_settings.ini`:  
 <a href="https://i.imgur.com/wLRTgWN.png"><img src="https://i.imgur.com/wLRTgWN.png" width="600"></a>
   
 7. Copy and paste them into the `mods` folder:  
