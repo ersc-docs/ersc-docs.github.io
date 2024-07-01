@@ -14,6 +14,38 @@ nav_order: 4
 >If you didn't get them - please try verifying your game files through Steam and trying again:  
 >Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
 </details>
+
+<details markdown="block">
+<summary>How can I use my Elden Ring characters in Seamless Coop?</summary>
+
+<details markdown="block">
+<summary>I'm using Windows</summary>
+
+1. Open File Explorer.  
+2. Click the address line, and enter: `%appdata%/EldenRing/`  
+3. Enter the folder that corresponds to your SteamID. It will have a lot of numbers.  
+4. Copy `ER0000.sl2`, and paste it.  
+5. Rename the pasted file `ER0000.co2`  
+6. Your vanilla characters will now show in Seamless Coop!
+<details markdown="block">
+<summary>I'm using Linux</summary>
+
+1. Start Seamless Coop and get to the main menu.
+2. Exit the game.
+3. Go to `~/.local/share/Steam/steamapps/compatdata/1245620/pfx/drive_c/`  
+4. Copy `ER0000.sl2`  
+5. Enter the following command: `cd ~/.local/share/Steam/steamapps/compatdata find | grep ER0000.co2`  
+6. Go to the found directory.  
+7. `rm ER0000.co2`  
+8. Paste the file from step 4.  
+9. `mv ER0000.sl2 ER0000.co2`
+10. Your vanilla characters will now show in Seamless Coop!
+</details>
+
+<details markdown="block">
+
+<details markdown="block">
+
 <details markdown="block">
 <summary>Can I get achievements when playing this mod?</summary>
 
