@@ -23,7 +23,7 @@ Seamless Coop will also not be able to start from the standalone launcher.
 > <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**. If some file names do not match what you're seeing, please turn this setting on in File Explorer:  
 <a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
   
-1. Download the following:
+1\. Download the following:
    1. [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117)
    2. [Seamless Coop, version 1.7.2](https://www.nexusmods.com/eldenring/mods/510)  
    3. [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases)
@@ -32,23 +32,23 @@ Seamless Coop will also not be able to start from the standalone launcher.
 > <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.  
 > <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
   
-2. In Steam, right click `Elden Ring`. Then click `Manage`, and `Browse local files`.
+2\. In Steam, right click `Elden Ring`. Then click `Manage`, and `Browse local files`.
   
-3. Enter the `Game` folder.
+3\. Enter the `Game` folder.
   
-4. Extract `Elden Mod Loader` (file 1.i) into your `Game` folder:  
+4\. Extract `Elden Mod Loader` (file 1.i) into your `Game` folder:  
 <a href="https://i.imgur.com/ZTnDDdj.png"><img src="https://i.imgur.com/ZTnDDdj.png" width="600"></a>
   
-5. Extract `Seamless Coop` (file 1.ii) into your `Game` folder:  
+5\. Extract `Seamless Coop` (file 1.ii) into your `Game` folder:  
 <a href="https://i.imgur.com/z7p8cRT.png"><img src="https://i.imgur.com/z7p8cRT.png" width="600"></a>
   
-6. Enter the `SeamlessCoop` folder, and select `ersc.dll` and `ersc_settings.ini`:  
+6\. Enter the `SeamlessCoop` folder, and select `ersc.dll` and `ersc_settings.ini`:  
 <a href="https://i.imgur.com/wLRTgWN.png"><img src="https://i.imgur.com/wLRTgWN.png" width="600"></a>
   
-7. Copy and paste them into the `mods` folder:  
+7\. Copy and paste them into the `mods` folder:  
 <a href="https://i.imgur.com/EFmxOBC.png"><img src="https://i.imgur.com/EFmxOBC.png" width="600"></a>
   
-8. Edit the settings to your personal liking - by editing the values after `=`. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-designated places.
+8\. Edit the settings to your personal liking - by editing the values after `=`. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-designated places.
     An example of a properly configured ini:
 
 ```ini
