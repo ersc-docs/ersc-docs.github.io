@@ -47,10 +47,6 @@ nav_order: 4
 </details>
 
 <details markdown="block">
-
-<details markdown="block">
-
-<details markdown="block">
 <summary>Can I get achievements when playing this mod?</summary>
 
 >Yes, you can.  
