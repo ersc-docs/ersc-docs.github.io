@@ -54,7 +54,7 @@ death_debuffs = 1
 ; Spirit summons can aid you in multiplayer
 allow_summons = 1
 
-; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level
+; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level | 4 = Display death count
 overhead_player_display = 3
 
 
