@@ -158,7 +158,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I cannot enter Evergaols that have Stonesword Keys!</summary>
 
-> Known bug, for now - cannot be done.
+> Known bug, for now - can be done solo, but not in session with other people.
 </details>
 
 <details markdown="block">
