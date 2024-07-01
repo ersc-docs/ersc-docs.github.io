@@ -99,7 +99,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I'm stuck in an infinite loading screen!</summary>
 
-> Download Nordgaren's [Debug Tool](https://cdn.discordapp.com/attachments/979043448491491332/1253885339022524529/Elden_Ring_Debug_Tool_0.8.6.0_Preview.7z?ex=6682aff8&is=66815e78&hm=540d0182d3a91d01ade1917ded13b4f9e1a51c236e3b7b643a16b16de5262a65&)  
+> Download Nordgaren's [Debug Tool](https://cdn.discordapp.com/attachments/979043448491491332/1253885339022524529/Elden_Ring_Debug_Tool_0.8.6.0_Preview.7z?ex=66840178&is=6682aff8&hm=ed4aac8a4bead7a960da5923c869448651dcc6453b2e8eff87d1a458b86e043e&)  
 > 1. Launch Seamless Coop
 > 2. While in the loading screen, launch the Debug Tool as Administrator.
 > 3. Check that on the bottom, it says: `Loaded: Yes`
