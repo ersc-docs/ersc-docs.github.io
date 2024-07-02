@@ -54,6 +54,22 @@ nav_order: 5
 >Steam must be open and connected online.
 </details>
 
+<details markdown="block">
+<summary> Cooperator was (Unable to join session) </summary>
+
+>You are able to find the session but something is blocking/hindering you from joining the session. 
+>
+>1. Make sure no one has blocked anyone in the session on Steam.
+>
+>2. Make sure neither Steam or Elden Ring is blocked by your firewall/s or antivirus.
+>
+>3. Try without/with VPN enabled
+>
+>4. Try restarting your router.
+>
+>5. Steam must be open and in online mode.
+</details>
+
 ## General connection issues
 
 <details markdown="block">
