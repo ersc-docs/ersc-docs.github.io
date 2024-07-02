@@ -71,7 +71,7 @@ nav_order: 5
 </details>
 
 <details markdown="block">
-<summary> You must own Shadow of the Erdtree to join thi session </summary>
+<summary> You must own Shadow of the Erdtree to join this session. </summary>
 
 >This means you must own the DLC and have it installed to join this session, because the host is in the DLC area.
 >
