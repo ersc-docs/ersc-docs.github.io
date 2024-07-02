@@ -102,7 +102,7 @@ e in Weeping Penninsula to get respective drops).
 >
 >In order to help preserve the version of ER you are using to be compatible with the respective version of Seamless
 >and not have it broken everytime an update is released, do the following:
-
+>
 >1. In Steam application, right click Elden Ring.
 >2. Select "Properties".
 >3. Click "Updates" on the left panel.
