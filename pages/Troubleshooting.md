@@ -54,7 +54,7 @@ nav_order: 5
 >Steam must be open and connected online.
 </details>
 
-## Errors that can occur upon launching Seamless Coop
+## Errors and Crashes that can occur upon launching Seamless Coop
 
 <details markdown="block">
 <summary> <b>"Inappropriate Activity Detected"</b> after game launch </summary>
@@ -68,3 +68,57 @@ nav_order: 5
 >NOTE: Seamless Coop, by itself, can run in parallel to vanilla playthroughs without any file renaming.
 >The moment a dll hook without a launcher is add, switching between vanilla and modded playthroughs becomes more complicated. Consult ⁠[Seamless Modding](https://ersc-docs.github.io/seamless-modding/) for more info.
 </details>
+
+<details markdown="block">
+<summary> Failed to launch Elden Ring.exe error 740 </summary>
+
+>Run <b>ersc_launcher.exe</b> as admin
+</details>
+
+<details markdown="block">
+<summary> Failed to find "SeamlessCoop//ersc.dll" </summary>
+
+>Use the latest launcher bundled with the game.
+>
+>White list the game folder in your antivirus. If you are using anything other than Windows Defender as an antivirus try disabling it. 
+>
+>Make sure ersc.dll  is present within the SeamlesCoop folder. Right click it and click on Properties. Press Unblock, if that option is visible.
+>
+>Make sure you've correctly installed the mod by following ⁠⁠⁠[How to install](https://ersc-docs.github.io/how-to-install/).
+</details>
+
+<details markdown="block">
+<summary> I am getting crashes </summary>
+>Most likely, not a Seamless Coop bug.
+>Due to how Elden Ring applies its updates, it will often result in corrupted files.
+>Please verify files through Steam first.
+>
+>The current version of raytracing in Elden Ring isn't very stable.
+>Please turn it off in the ingame settings before submitting a report.
+>
+>Some software hooks into Elden Ring, which interferes with Seamless Coop's hooks and can cause a white screen hang, or crashes.
+>
+>As a rule of thumb, these are usually overlays and tuners.
+>These are including, but not limited to:
+>AMD Ryzen Master
+>AMD Adrenaline
+>Rivia Tuner
+>MSI Afterburner
+>Medal
+>Overwolf
+>Process Lasso
+>System Explorer
+>And might also include Discord and GeForce overlays.
+>Run <b>ersc_launcher.exe</b> as admin
+</details>
+
+<details markdown="block">
+<summary> This version of seamless co-op(1.7.2) is depreciated and requires an update. The application will now exit.  </summary>
+
+>It means this version is no longer supported and a new version is avaliable.
+>
+>You can download the latest version of Seamless Coop from it's nexus mods page here. [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files)
+>and follow the instalation steps in [How to install](https://ersc-docs.github.io/how-to-install/) to update to the new version.
+</details>
+
+
