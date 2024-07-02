@@ -59,12 +59,12 @@ nav_order: 5
 <details markdown="block">
 <summary> General Connection issues </summary>
 
->Try restarting your routers and PCs
->Try using ethernet instead of WiFi
->Try turning your VPN off/on
->As a last resort try another network entirely and make sure your internet provider is not having any disturbances.
+>1. Try restarting your routers and PCs
+>2. Try using ethernet instead of WiFi
+>3. Try turning your VPN off/on
+>4. As a last resort try another network entirely and make sure your internet provider is not having any disturbances.
 >
->In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Chose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
+><b><u>NOTE:</u></b> In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Chose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
 </details>
 
 ## Errors and Crashes that can occur upon launching Seamless Coop
