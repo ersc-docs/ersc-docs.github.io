@@ -109,6 +109,7 @@ e in Weeping Penninsula to get respective drops).
 > 7. Go to the Grace tab.
 > 8. Under Manage Graces, type Table of Lost Grace.
 > 9. Press the Set button.
+>10. If Enabeling 105 with the debug tool does not work try Verifying game files in steam. Should verify roughly 450 - 600+ files. See if enabling the flag works now.
 </details>
 
 <details markdown="block">
