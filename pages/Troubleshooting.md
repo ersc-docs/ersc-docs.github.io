@@ -6,10 +6,10 @@ nav_order: 5
 ---
 # Troubleshooting
 
-## Messages and solutions when trying to use the Seamless Coop items
+## Messages,issues and solutions when using the Seamless Coop items
 
 <details markdown="block">
-<summary> Failed, nosession found </summary>
+<summary> Failed, no session found </summary>
 
 >To connect, one player must use the Tiny Great Pot. After that, all other players must use the Effigy of Malenia.
 >
@@ -42,7 +42,7 @@ nav_order: 5
 </details>
 
 <details markdown="block">
-<summary> Failed,Steam timed out </summary>
+<summary> Failed, Steam timed out </summary>
 
 >This is nothing to do with the mod - there is just no connection to Steam. Remember that the steam servers go down for maintenance <b><u>every Tuesday</u></b>. The mod can't fix poor internet connections that may cause this error.
 >Steam Server Check: https://steamstat.us/
@@ -52,6 +52,19 @@ nav_order: 5
 <summary> Failed: Search request timed out </summary>
 
 >Steam must be open and connected online.
+</details>
+
+## General connection issues
+
+<details markdown="block">
+<summary> General Connection issues </summary>
+
+>Try restarting your routers and PCs
+>Try using ethernet instead of WiFi
+>Try turning your VPN off/on
+>As a last resort try another network entirely and make sure your internet provider is not having any disturbances.
+>
+>In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Chose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
 </details>
 
 ## Errors and Crashes that can occur upon launching Seamless Coop
@@ -131,7 +144,5 @@ nav_order: 5
 >Redownload the mod again to make sure nothing went wrong with the download. You can down load it from the [Nexus page](https://www.nexusmods.com/eldenring/mods/510/?tab=files).
 >Install it like suggested in [How to install](https://ersc-docs.github.io/how-to-install/)  
 </details>
-
-
 
 
