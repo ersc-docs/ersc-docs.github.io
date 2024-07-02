@@ -94,23 +94,6 @@ e in Weeping Penninsula to get respective drops).
 
 </details>
 
-<details markdown="block">
-<summary>Elden Ring received an official update, what to do?</summary>
-
->Get the latest version of the mod, and launch it without using any other mods on top - at least at first.
->Beware that both Seamless Coop and other mods will take time to update and guarantee compatibility with the latest version.
->
->In order to help preserve the version of ER you are using to be compatible with the respective version of Seamless
->and not have it broken everytime an update is released, do the following:
->
->1. In Steam application, right click Elden Ring.
->2. Select "Properties".
->3. Click "Updates" on the left panel.
->4. Select under the option of "Automatic Updates" to be "Only update this game when I launch it".
->   This option will cause ER to only update when you launch the vanilla launcher. Using the Seamless launcher will not cause it to update.
-</details>
-
-
 ## Known bugs
 
 <details markdown="block">
