@@ -83,7 +83,7 @@ nav_order: 5
 ><b><u>NOTE:</u></b> In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Chose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
 </details>
 
-## Errors and Crashes that can occur upon launching Seamless Coop
+## Errors and Crashes
 
 <details markdown="block">
 <summary> <b>"Inappropriate Activity Detected"</b> after game launch </summary>
