@@ -41,13 +41,13 @@ Seamless Coop will also not be able to start from the standalone launcher.
   
 5\. Extract `Seamless Coop` (file 1.ii) into your `Game` folder:  
 <a href="https://i.imgur.com/36jlAo9.png"><img src="https://i.imgur.com/36jlAo9.png" width="600"></a>
-  
+
 6\. Enter the `SeamlessCoop` folder, and select `ersc.dll` and `ersc_settings.ini`:  
 <a href="https://i.imgur.com/TIRjBIm.png"><img src="https://i.imgur.com/TIRjBIm.png" width="600"></a>
   
 7\. Copy and paste them into the `mods` folder:  
 <a href="https://i.imgur.com/284ygz5.png"><img src="https://i.imgur.com/284ygz5.png" width="600"></a>
-  
+
 8\. Edit the settings to your personal liking - by editing the values after `=`. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-designated places.
     An example of a properly configured ini:
 
