@@ -81,7 +81,7 @@ nav_order: 5
 ><u>If this happens when launchg the game through Mod Engine 2.1's launchmod_eldenring.bat</u>
 >It means you have not followed the instructions in [Seamless Modding](https://ersc-docs.github.io/seamless-modding/) to use seamless coop with other mods.
 >
->NOTE: Seamless Coop, by itself, can run in parallel to vanilla playthroughs without any file renaming.
+><b>NOTE:</b> Seamless Coop, by itself, can run in parallel to vanilla playthroughs without any file renaming.
 >The moment a dll hook without a launcher is add, switching between vanilla and modded playthroughs becomes more complicated. Consult ⁠[Seamless Modding](https://ersc-docs.github.io/seamless-modding/) for more info.
 </details>
 
