@@ -25,7 +25,7 @@ Seamless Coop will also not be able to start from the standalone launcher.
   
 1\. Download the following:
    1. [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117)
-   2. [Seamless Coop, version 1.7.2](https://www.nexusmods.com/eldenring/mods/510)  
+   2. [Seamless Coop, version 1.7.4](https://www.nexusmods.com/eldenring/mods/510)  
    3. [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases)
    4. Latest versions of the mods of your choosing.
 
@@ -37,18 +37,16 @@ Seamless Coop will also not be able to start from the standalone launcher.
 3\. Enter the `Game` folder.
   
 4\. Extract `Elden Mod Loader` (file 1.i) into your `Game` folder:  
-<a href="https://i.imgur.com/ZTnDDdj.png"><img src="https://i.imgur.com/ZTnDDdj.png" width="600"></a>
+<a href="https://i.imgur.com/w5kRQZG.png"><img src="https://i.imgur.com/w5kRQZG.png" width="600"></a>
   
 5\. Extract `Seamless Coop` (file 1.ii) into your `Game` folder:  
-<a href="https://i.imgur.com/z7p8cRT.png"><img src="https://i.imgur.com/z7p8cRT.png" width="600"></a>
-  
-6\. Enter the `SeamlessCoop` folder, and select `ersc.dll`, `ersc_settings.ini` and the `locale` folder:  
-<!--- <a href="https://i.imgur.com/wLRTgWN.png"><img src="https://i.imgur.com/wLRTgWN.png" width="600"></a> --->
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/531629d7-504f-497f-9792-a4645e0638f4)
+<a href="https://i.imgur.com/36jlAo9.png"><img src="https://i.imgur.com/36jlAo9.png" width="600"></a>
 
+6\. Enter the `SeamlessCoop` folder, and select `ersc.dll`, `ersc_settings.ini` and `locale`:  
+<a href="https://i.imgur.com/oldyGqd.png"><img src="https://i.imgur.com/oldyGqd.png" width="600"></a>
+  
 7\. Copy and paste them into the `mods` folder:  
- <!--- <a href="https://i.imgur.com/EFmxOBC.png"><img src="https://i.imgur.com/EFmxOBC.png" width="600"></a> --->
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/bff6984a-de72-460e-a4a5-225c6f770511)
+<a href="https://i.imgur.com/jQptOXU.png"><img src="https://i.imgur.com/jQptOXU.png" width="600"></a>
 
 8\. Edit the settings to your personal liking - by editing the values after `=`. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-designated places.
     An example of a properly configured ini:
@@ -56,75 +54,75 @@ Seamless Coop will also not be able to start from the standalone launcher.
 ```ini
 [GAMEPLAY]
 
-; Invaders are other players that will join your world uninvited and try to kill you and your party
+; Invaders are other players that will join your world uninvited and try to kill you and your party.  0=FALSE  1=TRUE
 allow_invaders = 1
 
-; Debuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire
+; Debuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire.  0=FALSE  1=TRUE
 death_debuffs = 1
 
-; Spirit summons can aid you in multiplayer
-allow_summons = 0
+; Spirit summons can aid you in multiplayer.  0=FALSE  1=TRUE
+allow_summons = 1
 
-; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level | 4 = Display death count
-overhead_player_display = 4
+; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level | 4 = Display player death count
+overhead_player_display = 0
 
 
 [SCALING]
 
-; Amount of health (%) per player for each enemy
-enemy_health_scaling = 10
+; Amount of enemy health (%) per player for each enemy. (Default: 35 = 35% more enemy health per player)
+enemy_health_scaling = 35
 
-; Amount of damage (%) per player for each enemy
-enemy_damage_scaling = 20
+; Amount of enemy damage (%) per player for each enemy. (Default: 0 = 0% more enemy damage per player)
+enemy_damage_scaling = 0
 
-; Amount of posture absorption (%) per player for each enemy
-enemy_posture_scaling = 30
+; Amount of enemy posture absorption (%) per player for each enemy. (Default: 15 = 15% more per player)
+enemy_posture_scaling = 15
 
-; Amount of health (%) per player for bosses
-boss_health_scaling = 40
+; Amount of boss health (%) per player for bosses. (Default: 100 = 100% more boss health per player)
+boss_health_scaling = 100
 
-; Amount of damage (%) per player for bosses
-boss_damage_scaling = 50
+; Amount of enemy damage (%) per player for bosses. (Default: 0 = 0% more enemy damage towards players, per player)
+boss_damage_scaling = 0
 
-; Amount of posture absorption (%) per player for bosses
-boss_posture_scaling = 60
+; Amount of boss posture absorption (%) per player for bosses. (Default: 20 = 20% more boss posture per player)
+boss_posture_scaling = 20
 
 [PASSWORD]
 
 ; Session password
-cooppassword = reforgedfloppa
+cooppassword = eldencrew99
 
 [SAVE]
 
 ;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
-save_file_extension = err
+save_file_extension = co2
 
 [LANGUAGE]
 
 ;Leave this blank unless you want to load a custom locale file. The mod will default to your game language.
-mod_language_override = japanese
+mod_language_override = 
 ```
 > <b><u>IMPORTANT NOTE</u></b>: There might be changes to the ini in the future, in the form of new features or field name changes. When updating Seamless Coop, it is recommended to overwrite it with the new ini and configure your settings again.
 
   
-9\. Go back to the `Game` folder.
+9. Go back to the `Game` folder.
 
-10\. Open `mod_loader_config.ini`
+10. Open `mod_loader_config.ini`
 
-11\. Change `exmaple.dll = 1` to `ersc.dll = 0`
+11. Change `exmaple.dll = 1` to `ersc.dll = 0`
 
-12\. Save the file.
+12. Save the file.
    
-13\. Create a folder named `ModEngine2`:  
-<a href="https://i.imgur.com/4f9l8it.png"><img src="https://i.imgur.com/4f9l8it.png" width="600"></a>
+13. Create a folder named `ModEngine2`:  
+<a href="https://i.imgur.com/g1swl8H.png"><img src="https://i.imgur.com/g1swl8H.png" width="600"></a>
   
-14\. Extract `Mod Engine 2` (file 1.iii) into the `ModEngine2` folder:  
-<a href="https://i.imgur.com/od0fvlU.png"><img src="https://i.imgur.com/od0fvlU.png" width="600"></a>
+14. Extract `Mod Engine 2` (file 1.iii) into the `ModEngine2` folder:  
+<a href="https://i.imgur.com/brtG7Z2.png"><img src="https://i.imgur.com/brtG7Z2.png" width="600"></a>
   
 (Optional) Create a shortcut to `launchmod_eldenring.bat` on your desktop - this can be done by right clicking the file and pressing `Create shortcut` (under `More options` in Windows 11). Drag and drop the resulting shortcut to your desktop.
 
   
-15\. Run `launchmod_eldenring.bat` once and get to the main menu. This will create a save file compatible with your current Elden Ring version.
+15. Run `launchmod_eldenring.bat` once and get to the main menu. This will create a save file compatible with your current Elden Ring version.
 
    
 To install each of your mods (files 1d), follow the steps as follows:
