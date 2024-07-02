@@ -113,7 +113,7 @@ nav_order: 5
 </details>
 
 <details markdown="block">
-<summary> This version of seamless co-op(1.7.x) is depreciated and requires an update. The application will now exit.  </summary>
+<summary> This version of seamless co-op(1.7.x) is depreciated and requires an update.  </summary>
 
 >It means this version is no longer supported and a new version is avaliable.
 >
