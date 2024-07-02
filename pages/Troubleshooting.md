@@ -113,12 +113,25 @@ nav_order: 5
 </details>
 
 <details markdown="block">
-<summary> This version of seamless co-op(1.7.2) is depreciated and requires an update. The application will now exit.  </summary>
+<summary> This version of seamless co-op(1.7.x) is depreciated and requires an update. The application will now exit.  </summary>
 
 >It means this version is no longer supported and a new version is avaliable.
 >
 >You can download the latest version of Seamless Coop from it's nexus mods page here. [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files)
 >and follow the instalation steps in [How to install](https://ersc-docs.github.io/how-to-install/) to update to the new version.
 </details>
+
+<details markdown="block">
+<summary> Game closes on launch with no messages.  </summary>
+
+>Start by making sure steam is open in online mode.
+>
+>Try verifying game files in steam. Should verify rougly 450-600 files.
+>
+>Redownload the mod again to make sure nothing went wrong with the download. You can down load it from the [Nexus page](https://www.nexusmods.com/eldenring/mods/510/?tab=files).
+>Install it like suggested in [How to install](https://ersc-docs.github.io/how-to-install/)  
+</details>
+
+
 
 
