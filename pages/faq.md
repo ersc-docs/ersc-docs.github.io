@@ -103,11 +103,11 @@ e in Weeping Penninsula to get respective drops).
 >In order to help preserve the version of ER you are using to be compatible with the respective version of Seamless
 >and not have it broken everytime an update is released, do the following:
 
->  In Steam application, right click Elden Ring.
->  Select "Properties".
->  Click "Updates" on the left panel.
->  Select under the option of "Automatic Updates" to be "Only update this game when I launch it".
->  This option will cause ER to only update when you launch the vanilla launcher. Using the Seamless launcher will not cause it to update.
+>In Steam application, right click Elden Ring.
+>Select "Properties".
+>Click "Updates" on the left panel.
+>Select under the option of "Automatic Updates" to be "Only update this game when I launch it".
+>This option will cause ER to only update when you launch the vanilla launcher. Using the Seamless launcher will not cause it to update.
 </details>
 
 
