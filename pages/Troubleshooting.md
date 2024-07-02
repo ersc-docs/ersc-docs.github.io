@@ -70,6 +70,15 @@ nav_order: 5
 >5. Steam must be open and in online mode.
 </details>
 
+<details markdown="block">
+<summary> You must own Shadow of the Erdtree to join thi session </summary>
+
+>This means you must own the DLC and have it installed to join this session, because the host is in the DLC area.
+>
+>If you are trying to join someone not in the DLC area your password is most likely in use by other people.
+>Change your password into something better and try again.
+</details>
+
 ## General connection issues
 
 <details markdown="block">
