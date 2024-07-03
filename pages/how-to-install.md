@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to install
-permalink: /how-to-install/
+title: How to install and update
+permalink: /how-to-install-and-update/
 nav_order: 1
 ---
 <details markdown="block">
