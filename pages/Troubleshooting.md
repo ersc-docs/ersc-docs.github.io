@@ -67,7 +67,7 @@ nav_order: 5
 >
 >4. Try restarting your router.
 >
->5. Steam must be open and in online mode.
+>5. If you have installed Riot's Vanguard installed try turning it off.
 </details>
 
 <details markdown="block">
