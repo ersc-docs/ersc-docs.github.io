@@ -17,7 +17,7 @@ nav_order: 4
 
 <details markdown="block">
 <summary>How can I use my Elden Ring characters in Seamless Coop?</summary>
-
+<a id="how-can-i-use-my-elden-ring-characters-in-seamless-coop?"></a>
 <details markdown="block">
 <summary>I'm using Windows</summary>
 
@@ -96,7 +96,7 @@ e in Weeping Penninsula to get respective drops).
 >Seamless Coop save files are not synced to Steams could. <b>Make manuall backups regularly</b>.
 >
 >To use your Seamless Coop save on another PC you will need to manually transfer the save file to your other PC. You can do so through cloud services like Google Drive or through the use of a USB storage device.
->Please refer to [How can I use my Elden Ring characters in Seamless Coop?](https://github.com/ersc-docs/ersc-docs.github.io/blob/main/pages/faq.md?plain=1#L19)
+>Please refer to [How can I use my Elden Ring characters in Seamless Coop?](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?)
 </details>
 
 
