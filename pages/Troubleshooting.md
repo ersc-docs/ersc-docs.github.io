@@ -106,7 +106,7 @@ nav_order: 5
 ><u>If this happens when launchg the game through Mod Engine 2.1's launchmod_eldenring.bat</u>.
 >It means you have not followed the instructions in [Seamless Modding](https://ersc-docs.github.io/seamless-modding/) to use seamless coop with other mods.
 >
-><u>If it happens when launching the game throgh the <b<Randomizer</b>.</u>
+><u>If it happens when launching the game throgh the <b>Randomizer</b>.</u>
 >It means your version of Seamless Coop is no longer up to date, make sure you have the latest version of Seamless Coop installed in your <b>mods</b> folder. You can find the latest version of Seamless Coop here: [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files).
 >
 ><b>NOTE:</b> Seamless Coop, by itself, can run in parallel to vanilla playthroughs without any file renaming.
