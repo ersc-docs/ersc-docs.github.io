@@ -17,10 +17,10 @@ nav_order: 4
 
 <details markdown="block">
 <summary>How can I use my Elden Ring characters in Seamless Coop?</summary>
-<a id="how-can-i-use-my-elden-ring-characters-in-seamless-coop?"></a>
+
 <details markdown="block">
 <summary>I'm using Windows</summary>
-
+<a id="how-can-i-use-my-elden-ring-characters-in-seamless-coop?-windows"></a>
 1. Open File Explorer.  
 2. Click the address line, and enter: `%appdata%/EldenRing/`  
 3. Enter the folder that corresponds to your SteamID. It will have a lot of numbers.  
@@ -31,7 +31,7 @@ nav_order: 4
 
 <details markdown="block">
 <summary>I'm using Linux</summary>
-
+<a id="how-can-i-use-my-elden-ring-characters-in-seamless-coop?-linux"></a>
 1. Start Seamless Coop and get to the main menu.
 2. Exit the game.
 3. Go to `~/.local/share/Steam/steamapps/compatdata/1245620/pfx/drive_c/`  
@@ -95,8 +95,11 @@ e in Weeping Penninsula to get respective drops).
 >
 >Seamless Coop save files are not synced to Steams could. <b>Make manuall backups regularly</b>.
 >
+>Elden Ring and Seamless Coop save files are tied to your <b>Steam ID</b>. To find your Steam ID, in the Steam desktop application, select your Steam username in the top right corner of the screen. Select ''Account details''. Your Steam ID can be found below your Steam username.  
+>
 >To use your Seamless Coop save on another PC you will need to manually transfer the save file to your other PC. You can do so through cloud services like Google Drive or through the use of a USB storage device.
->Please refer to [How can I use my Elden Ring characters in Seamless Coop?](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?)
+>
+>Please refer to [Windows Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-windows) or [Linux Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-linux), for your save file location and how to transfer a vanilla Elden Ring Character to Seamless Coop.
 </details>
 
 
