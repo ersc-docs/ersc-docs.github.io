@@ -97,14 +97,17 @@ nav_order: 5
 <details markdown="block">
 <summary> <b>"Inappropriate Activity Detected"</b> after game launch </summary>
 
-><u>If it happens during Seamless Coop launch</u>
+><u>If it happens during Seamless Coop launch</u>.
 > It means that the mod failed to hook into the game after being loaded. This is due to antiviruses false flagging and preventing it from working. Please disable or uninstall them.
 >
-><u>If it happens during vanilla launch</u>
+><u>If it happens during vanilla launch</u>.
 > It means that you have disabled EAC by using other mods/bypasses, such as Mod Engine 2 and Mod Loader. The most common hook is Mod Loader, which is done through dinput8.dll - renaming or moving it to another folder will let you run vanilla Elden Ring.
 >
-><u>If this happens when launchg the game through Mod Engine 2.1's launchmod_eldenring.bat</u>
+><u>If this happens when launchg the game through Mod Engine 2.1's launchmod_eldenring.bat</u>.
 >It means you have not followed the instructions in [Seamless Modding](https://ersc-docs.github.io/seamless-modding/) to use seamless coop with other mods.
+>
+><u>If it happens when launching the game throgh the <b<Randomizer</b>.</u>
+>It means your version of Seamless Coop is no longer up to date, make sure you have the latest version of Seamless Coop installed in your <b>mods</b> folder. You can find the latest version of Seamless Coop here: [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files).
 >
 ><b>NOTE:</b> Seamless Coop, by itself, can run in parallel to vanilla playthroughs without any file renaming.
 >The moment a dll hook without a launcher is add, switching between vanilla and modded playthroughs becomes more complicated. Consult ⁠[Seamless Modding](https://ersc-docs.github.io/seamless-modding/) for more info.
