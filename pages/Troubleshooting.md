@@ -67,7 +67,7 @@ nav_order: 5
 >
 >4. Try restarting your router.
 >
->5. If you have installed Riot's Vanguard installed try turning it off.
+>5. If you have installed Riot's Vanguard installed try turning it off. If you have any other games anti cheat that is known to be intrusive torn them off as well.
 </details>
 
 <details markdown="block">
