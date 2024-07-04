@@ -119,6 +119,11 @@ e in Weeping Penninsula to get respective drops).
 > 8. Under Manage Graces, type Table of Lost Grace.
 > 9. Press the Set button.
 >10. If Enabeling 105 with the debug tool does not work try Verifying game files in steam. Should verify roughly 450 - 600+ files. See if enabling the flag works now.
+>
+> <b>Please Note:</b> If the infinite loading screen loop happened while you were being warped to the round table for the first time, you might need too unlock the Grace with the Debug tool.
+>
+>Too unlock the grace go to the Debug tool -> Grace tab -> under Manage Graces -> type Table of lost grace (in the text field) -> click set or the power button so it turns green.
+
 </details>
 
 <details markdown="block">
