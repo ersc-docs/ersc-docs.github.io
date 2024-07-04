@@ -86,14 +86,6 @@ e in Weeping Penninsula to get respective drops).
 > **Note**:  Major updates like DLC tend to break the mod due to changes done to provide content (changes in regulation.bin file cause seamless to break if something major is adjusted). Hot fixes on the other hand could only be minor changes that won't change much and still allow mods to be compatible, if it's small parameter changes.
 </details>
 
-<details markdown="block">
-<summary>How can I set the deathcount to be the player banner?</summary>
-
-> In the ini, put 4 as your overhead_palyer_display:  
-> `overhead_player_display = 4`
-
-</details>
-
 ## Known bugs
 
 <details markdown="block">
@@ -110,12 +102,6 @@ e in Weeping Penninsula to get respective drops).
 > 8. Under Manage Graces, type Table of Lost Grace.
 > 9. Press the Set button.
 >10. If Enabeling 105 with the debug tool does not work try Verifying game files in steam. Should verify roughly 450 - 600+ files. See if enabling the flag works now.
-</details>
-
-<details markdown="block">
-<summary>I'm getting a long blackscreen when I sit at a grace/use an evergaol!</summary>
-
-> Known bug, known cause (waits for all the enemies to properly load for all clients before exiting the blackscreen).
 </details>
 
 <details markdown="block">
@@ -158,12 +144,6 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>Active Graces don't synchronize to far away players!</summary>
-
-> Known bug, due to interacting with graces being limited to loaded chunks. For now, activate graces individually, or play close to each other.
-</details>
-
-<details markdown="block">
 <summary>I completed an NPC invasion, but it didn't count! I can still see the sign!</summary>
 
 > Known bug, NPC invasions currently only work when in session with other players. Play Seamless **Coop** together.
@@ -173,12 +153,6 @@ e in Weeping Penninsula to get respective drops).
 <summary>The ensnaring chest at Agheel Lake doesn't teleport me to Caelid!</summary>
 
 > Known bug, for now - doesn't work.
-</details>
-
-<details markdown="block">
-<summary>I crash while on moving carriages!</summary>
-
-> Known bug, for now - don't do it.
 </details>
 
 <details markdown="block">
