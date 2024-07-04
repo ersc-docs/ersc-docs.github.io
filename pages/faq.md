@@ -99,7 +99,7 @@ e in Weeping Penninsula to get respective drops).
 >
 >To use your Seamless Coop save on another PC you will need to manually transfer the save file to your other PC. You can do so through cloud services like Google Drive or through the use of a USB storage device.
 >
->Please refer to [Windows Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-windows) or [Linux Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-linux), for your save file location and how to transfer a vanilla Elden Ring Character to Seamless Coop.
+>Please refer to [Windows Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-windows) or [Linux Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-linux), for your save file location and how to transfer a vanilla Elden Ring character to Seamless Coop.
 </details>
 
 
