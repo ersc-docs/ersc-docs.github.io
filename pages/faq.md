@@ -86,6 +86,20 @@ e in Weeping Penninsula to get respective drops).
 > **Note**:  Major updates like DLC tend to break the mod due to changes done to provide content (changes in regulation.bin file cause seamless to break if something major is adjusted). Hot fixes on the other hand could only be minor changes that won't change much and still allow mods to be compatible, if it's small parameter changes.
 </details>
 
+<details markdown="block">
+<summary>General save file questions.</summary>
+
+><b>Transfering a modded ccharacter to non-modded Elden Ring will result in a ban. Do at your own risk.</b>
+>
+>Save files are not touched by updating or reinstalling Seamless Coop, Elden Ring or verifying game files in steam.
+>
+>Seamless Coop save files are not synced to Steams could. <b>Make manuall backups regularly</b>.
+>
+>To use your Seamless Coop save on another PC you will need to manually transfer the save file to your other PC. You can do so through cloud services like Google Drive or through the use of a USB storage device.
+>Please refer to [How can I use my Elden Ring characters in Seamless Coop?](https://ersc-docs.github.io/faq/plain=1#L25)
+</details>
+
+
 ## Known bugs
 
 <details markdown="block">
