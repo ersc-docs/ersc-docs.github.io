@@ -25,7 +25,7 @@ Seamless Coop will also not be able to start from the standalone launcher.
   
 1\. Download the following:
    1. [Elden Mod Loader](https://www.nexusmods.com/eldenring/mods/117)
-   2. [Seamless Coop, version 1.7.2](https://www.nexusmods.com/eldenring/mods/510)  
+   2. [Seamless Coop, version 1.7.6](https://www.nexusmods.com/eldenring/mods/510)  
    3. [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases)
    4. Latest versions of the mods of your choosing.
 
