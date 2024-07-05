@@ -215,8 +215,8 @@ e in Weeping Penninsula to get respective drops).
 >
 ><b><u>DO AT YOUR OWN RISK</u></b>
 >
-><b><u>NOTE:</u></b> You can <a id="raw-url" href="https://github.com/ersc-docs/ersc-docs.github.io/tree/main/assets/txt/steam_appid.txt">Download FILE</a>
- file into your game folder and launch the game from `eldenring.exe` to start vanilla in offline mode. 
+><b><u>NOTE:</u></b> You can <a id="raw-url" href="https://github.com/ersc-docs/ersc-docs.github.io/tree/main/assets/txt/steam_appid.txt">click here to take you to the steam_appid.txt download.</a>.
+> Then put the `steam_appid.txt` file into your game folder and launch the game from `eldenring.exe` to start vanilla in offline mode. 
 >
 >
 >1. go to appdata > roaming > elden ring
@@ -226,6 +226,27 @@ e in Weeping Penninsula to get respective drops).
 >5. <b><u>Launch the vanilla game in offline mode (read NOTE above)</u></b>, and complete the battle.
 >6. Once the battle is over, close the game, change the converted file type back into .co2, and put the vanilla saves back in
 >7. Continue seamless coop normally
+</details>
+
+<details markdown="block">
+<summary>Assisting Sellen Workaround.</summary>
+
+ Known bug, due to unique invasion location.  
+ For now, cannot be done in Seamless Coop.
+
+ Temporary warkaround provided by NeoDim + friends.
+
+<b>Make a manual backup before attempting since it involved alt+F4ing out.</b>
+
+
+1. Assisting Sellen after killing Rennala, Queen of the Full Moon, with these steps:
+2. Use the gold summon sign with a full party of 3 players. You should see a Site of Grace and won't be able to fight after joining Sellen.
+3. Use Mimic Tear Ashes to kill Witch-Hunter Jerren. Sellen must survive.
+4. Everyone, except the host, disconnects using the Finger Severer.
+5. The host quits using ALT+F4.
+6. Upon loading back, you should still be a gold summon, but Sellen will be standing in the center of the room. You should be able to walk out of the arena now.
+7. Fast travel back to the Raya Lucaria Grand Library Site of Grace. Now you won't be a gold summon and can talk to her.
+
 </details>
 
 
