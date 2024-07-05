@@ -50,7 +50,7 @@ nav_order: 5
 > 6. Upon loading back, you should still be a gold summon, but Sellen will be standing in the center of the room. You should be able to walk out of the arena now.
 > 7. Fast travel back to the Raya Lucaria Grand Library Site of Grace. Now you won't be a gold summon and can talk to her.
 >
-> <b>NOTE 2:</b> You could alternatively use the [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest/) or [Cheat Engine](https://www.cheatengine.org/downloads.php) + the [TGA table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/latest/) to give yourself > the items you are missing out on.
+> <b>NOTE 2:</b> You could alternatively use the [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest/) or [Cheat Engine](https://www.cheatengine.org/downloads.php) + the [TGA table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/latest/) to give yourself the items you are missing out on.
 </details>
 
 
