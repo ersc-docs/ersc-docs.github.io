@@ -35,7 +35,7 @@ nav_order: 5
 </details>
 
 <details markdown="block">
-<summary> Sellen's Assisting sign.  </summary>
+<summary> Workaround Sellen's Assisting sign.  </summary>
 
 > Temporary warkaround provided by NeoDim + friends. Done as a party of 3
 >
