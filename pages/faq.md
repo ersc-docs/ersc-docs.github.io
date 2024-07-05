@@ -248,9 +248,9 @@ e in Weeping Penninsula to get respective drops).
 >7. Continue seamless coop normally
 >
 >
-> You could alternatively use the debug tool and warp yourself to Divine Gate Front Staircase 
+> You could alternatively use the [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases) and warp yourself to `Divine Gate Front Staircase`. 
 >
-> But as always when things like this is done. Make a back up before hand.
+> But as always when doing things like this. Make a backup before hand.
 </details>
 
 <details markdown="block">
