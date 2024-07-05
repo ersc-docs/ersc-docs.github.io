@@ -224,7 +224,7 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>DLC Needle knight Leda's Invasion sign can not  be done.</summary>
+<summary>DLC Needle knight Leda's Invasion sign cannot be done.</summary>
 
 > Known bug, due to unique invasion completion state.  
 > For now, cannot be done in Seamless Coop.
