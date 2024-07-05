@@ -246,6 +246,11 @@ e in Weeping Penninsula to get respective drops).
 >5. <b><u>Launch the vanilla game in offline mode (read NOTE above)</u></b>, and complete the battle.
 >6. Once the battle is over, close the game, change the converted file type back into .co2, and put the vanilla saves back in
 >7. Continue seamless coop normally
+>
+>
+> You could alternatively use the debug tool and warp yourself to Divine Gate Front Staircase 
+>
+> But as always when things like this is done. Make a back up before hand.
 </details>
 
 <details markdown="block">
