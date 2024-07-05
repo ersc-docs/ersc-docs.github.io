@@ -141,6 +141,19 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
+<summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
+NPC invasions only work in a session with other people at the moment. Moreover, specific encounters are currently non-functional:
+<details markdown="block">
+<summary>
+* Needle Knight Leda
+* Sorceress Sellen/Witch-Hunter Jerren
+* Millicent
+</summary>
+Refer to [bug workarounds](https://ersc-docs.github.io/workarounds/) if you'd like to get them working, while solo.
+</details>
+</details>
+
+<details markdown="block">
 <summary>I get a long loading screen when entering an NPC invasion!</summary>
 
 > Known bug, cause unknown - for now, just wait it out (around 30 seconds).
