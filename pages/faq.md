@@ -141,7 +141,8 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
 
-> NPC invasions only work in a session with other people at the moment. Moreover, specific encounters are currently non-functional:  
+> NPC invasions only work in a session with other people at the moment.  
+> Moreover, specific encounters are currently non-functional:  
 > * Needle Knight Leda  
 > * Sorceress Sellen/Witch-Hunter Jerren  
 > * Millicent  
