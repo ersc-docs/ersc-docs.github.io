@@ -262,6 +262,13 @@ e in Weeping Penninsula to get respective drops).
 > Should not hamper gameplay for now - ignore if you can.
 </details>
 
+<details markdown="block">
+<summary>Player on Torrent is flickering.</summary>
+
+> Kown bug.
+> Warp to a grace and it should correct itself.
+</details>
+
 
 
 
