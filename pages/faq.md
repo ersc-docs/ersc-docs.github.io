@@ -391,7 +391,7 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>DLC Needle knight Leda's Invasion sign cannot be done.</summary>
+<summary>Milicent's and DLC Needle knight Leda's Invasion sign cannot be done.</summary>
 
 > Known bug, due to unique invasion completion state.  
 > For now, cannot be done in Seamless Coop.
@@ -400,24 +400,12 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>Assisting Sellen Workaround.</summary>
+<summary> Sellen's Assisting sign. </summary>
 
 > Known bug, due to unique invasion location.  
 > For now, cannot be done in Seamless Coop.
 >
-> Temporary warkaround provided by NeoDim + friends.
->
-> <b>Make a manual backup before attempting since it involved alt+F4ing out.</b>
->
->
-> 1. Assisting Sellen after killing Rennala, Queen of the Full Moon, with these steps:
-> 2. Use the gold summon sign with a full party of 3 players. You should see a Site of Grace and won't be able to fight after joining Sellen.
-> 3. Use Mimic Tear Ashes to kill Witch-Hunter Jerren. Sellen must survive.
-> 4. Everyone, except the host, disconnects using the Finger Severer.
-> 5. The host quits using ALT+F4.
-> 6. Upon loading back, you should still be a gold summon, but Sellen will be standing in the center of the room. You should be able to walk out of the arena now.
-> 7. Fast travel back to the Raya Lucaria Grand Library Site of Grace. Now you won't be a gold summon and can talk to her.
-
+> If you can not wait for a fix [Workaround Sellen's Assisting sign.](https://github.com/ersc-docs/ersc-docs.github.io/blob/main/pages/Workaround.md)
 </details>
 
 <details markdown="block">
