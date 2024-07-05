@@ -111,9 +111,10 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>Can i play with a friend that does not own the DLC?</summary>
+<summary>Can I play the base game, or with a friend that does not own the DLC?</summary>
 
-> Yes, but not in the DLC areas.
+> Yes, but you will only be able to play the base game together.
+> Attempts to enter the DLC despite that can result in destroyed characters and infinite loading screens.
 </details>
 
 
