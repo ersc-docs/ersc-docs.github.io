@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Troubleshooting
-permalink: /troubleshooting/
+title: Workaround
+permalink: /workaround/
 nav_order: 5
 ---
-# Troubleshooting
+# Workaround
 
 ## Messages,issues and solutions when using the Seamless Coop items
 
