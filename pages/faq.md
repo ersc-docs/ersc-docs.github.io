@@ -215,7 +215,8 @@ e in Weeping Penninsula to get respective drops).
 >
 ><b><u>DO AT YOUR OWN RISK</u></b>
 >
-><b><u>NOTE:</u></b> You can put the provided [steam_appid.txt]() file into your game folder and launch the game from `eldenring.exe` to start vanilla in offline mode. 
+><b><u>NOTE:</u></b> You can <a id="raw-url" href="https://github.com/ersc-docs/ersc-docs.github.io/tree/main/assets/txt/steam_appid.txt">Download FILE</a>
+ file into your game folder and launch the game from `eldenring.exe` to start vanilla in offline mode. 
 >
 >
 >1. go to appdata > roaming > elden ring
