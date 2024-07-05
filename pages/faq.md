@@ -122,7 +122,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I'm stuck in an infinite loading screen!</summary>
 
-> Download Nordgaren's [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases)  
+> Download Nordgaren's [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest)  
 > 1. Launch Seamless Coop
 > 2. While in the loading screen, launch the Debug Tool as Administrator.
 > 3. Check that on the bottom, it says: `Loaded: Yes`
@@ -142,15 +142,12 @@ e in Weeping Penninsula to get respective drops).
 
 <details markdown="block">
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
-NPC invasions only work in a session with other people at the moment. Moreover, specific encounters are currently non-functional:
-<details markdown="block">
-<summary>
-* Needle Knight Leda
-* Sorceress Sellen/Witch-Hunter Jerren
-* Millicent
-</summary>
-Refer to [bug workarounds](https://ersc-docs.github.io/workarounds/) if you'd like to get them working, while solo.
-</details>
+
+NPC invasions only work in a session with other people at the moment. Moreover, specific encounters are currently non-functional:  
+* Needle Knight Leda  
+* Sorceress Sellen/Witch-Hunter Jerren  
+* Millicent  
+Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd like to get them working, while solo.
 </details>
 
 <details markdown="block">
