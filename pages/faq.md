@@ -202,9 +202,15 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>Dectus Lift has no interact promps</summary>
+<summary>Dectus Lift has no interact prompt!</summary>
 
 > Known bug, do it solo and reconnect after doing it.  
+</details>
+
+<details markdown="block">
+<summary>Shadow enemies don't become regular enemies when exposed to light!</summary>
+
+> Known bug. Currently they only become regular enemies for the host.
 </details>
 
 <details markdown="block">
