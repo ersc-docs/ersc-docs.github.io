@@ -276,7 +276,19 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>I can invade mid boss-fight!</summary>
+<summary>I can't get to the other players!</summary>
 
-> Known bug.
+> Known bug. Currently spawnpoints don't follow all the checks they do in vanilla.
+</details>
+
+<details markdown="block">
+<summary>I can pick up items during an invasion</summary>
+
+> These are your own world items. Not a bug.
+</details>
+
+<details markdown="block">
+<summary>I get boss drops during an invasion!</summary>
+
+> Known bug. Cause unknown.
 </details>
