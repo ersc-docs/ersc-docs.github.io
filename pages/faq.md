@@ -49,7 +49,7 @@ nav_order: 4
 <details markdown="block">
 <summary>Can I do White mask Varre's Quest in Coop?</summary>
 
-><b><u>Invasion Signs</u> can currently only be compleated if you havean open session and a <u>Wanderer</u> with you (another friendly player)</b>.
+><b><u>Invasion Signs</u> can currently only be compleated if you have an open session and a <u>Wanderer</u> with you (another friendly player)</b>.
 >
 >As of Elden Ring 1.06, an NPC was added to be able to complete this requirement. <b>His invasion sign is in the Writheblood Ruins</b>.
 </details>
