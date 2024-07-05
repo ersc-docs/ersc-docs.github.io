@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Workaround
-permalink: /workaround/
+title: Workarounds
+permalink: /workarounds/
 nav_order: 5
 ---
-# Workaround
+# Workarounds
 
 
 <details markdown="block">
