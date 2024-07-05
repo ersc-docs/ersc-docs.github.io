@@ -396,28 +396,7 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, due to unique invasion completion state.  
 > For now, cannot be done in Seamless Coop.
 >
-> If you can't wait for a fix.
-> 
-> <b><u>Make backups of your save files before attempting</u></b>
->
-><b><u>DO AT YOUR OWN RISK</u></b>
->
-><b><u>NOTE:</u></b> You can <a id="raw-url" href="https://github.com/ersc-docs/ersc-docs.github.io/tree/main/assets/txt/steam_appid.txt">click here to take you to the steam_appid.txt download.</a>.
-> Then put the `steam_appid.txt` file into your game folder and launch the game from `eldenring.exe` to start vanilla in offline mode. 
->
->
->1. go to appdata > roaming > elden ring
->2. There will be 2 sets of files in these folders, one set named .co2 and one .sl2 (co2 is seamless coop and sl2 is vanilla)
->3. Cut, not copy, the vanilla .sl2 files somewhere else, like a documents folder
->4. Rename the .co2 files to .sl2, this will convert them into vanilla characters
->5. <b><u>Launch the vanilla game in offline mode (read NOTE above)</u></b>, and complete the battle.
->6. Once the battle is over, close the game, change the converted file type back into .co2, and put the vanilla saves back in
->7. Continue seamless coop normally
->
->
-> You could alternatively use the [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases) and warp yourself to `Divine Gate Front Staircase`. 
->
-> But as always when doing things like this. Make a backup before hand.
+> If you can't wait for a fix. [Workaround for Milicent's and DLC Needle Knight Leda's Invasion signs.](https://github.com/ersc-docs/ersc-docs.github.io/blob/main/pages/Workaround.md)
 </details>
 
 <details markdown="block">
