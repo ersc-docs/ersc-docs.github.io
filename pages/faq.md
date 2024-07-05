@@ -244,7 +244,7 @@ e in Weeping Penninsula to get respective drops).
 >
 >Make sure ersc.dll  is present within the SeamlesCoop folder. Right click it and click on Properties. Press Unblock, if that option is visible.
 >
->Make sure you've correctly installed the mod by following ⁠⁠⁠[How to install](https://ersc-docs.github.io/how-to-install/).
+>Make sure you've correctly installed the mod by following ⁠⁠⁠[How to install and update]([https://ersc-docs.github.io/how-to-install/](https://ersc-docs.github.io/how-to-install-and-update/)).
 </details>
 
 <details markdown="block">
@@ -278,7 +278,7 @@ e in Weeping Penninsula to get respective drops).
 >It means this version is no longer supported and a new version is avaliable.
 >
 >You can download the latest version of Seamless Coop from it's nexus mods page here. [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files)
->and follow the instalation steps in [How to install](https://ersc-docs.github.io/how-to-install/) to update to the new version.
+>and follow the instalation steps in [How to install](https://ersc-docs.github.io/how-to-install-and-update/) to update to the new version.
 </details>
 
 <details markdown="block">
@@ -289,7 +289,7 @@ e in Weeping Penninsula to get respective drops).
 >Try verifying game files in steam. Should verify rougly 450-600 files.
 >
 >Redownload the mod again to make sure nothing went wrong with the download. You can down load it from the [Nexus page](https://www.nexusmods.com/eldenring/mods/510/?tab=files).
->Install it like suggested in [How to install](https://ersc-docs.github.io/how-to-install/)  
+>Install it like suggested in [How to install](https://ersc-docs.github.io/how-to-install-and-update/)  
 </details>
 
 ## Known bugs
@@ -323,7 +323,7 @@ e in Weeping Penninsula to get respective drops).
 > * Needle Knight Leda  
 > * Sorceress Sellen/Witch-Hunter Jerren  
 > * Millicent  
-> Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd like to get them working, while solo.
+> Refer to [bug workarounds](https://ersc-docs.github.io/workaround/) if you'd like to get them working, while solo.
 </details>
 
 <details markdown="block">
