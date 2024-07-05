@@ -183,9 +183,9 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>I completed an NPC invasion, but it didn't count! I can still see the sign!</summary>
+<summary>Elevator or another moving object doesn't work!</summary>
 
-> Known bug, NPC invasions currently only work when in session with other players. Play Seamless **Coop** together.
+> Known bug. Currently moving objects tend to not work, or reset to their original state on their own.
 </details>
 
 <details markdown="block">
