@@ -102,6 +102,12 @@ e in Weeping Penninsula to get respective drops).
 >Please refer to [Windows Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-windows) or [Linux Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-linux), for your save file location and how to transfer a vanilla Elden Ring character to Seamless Coop.
 </details>
 
+<details markdown="block">
+<summary>Can i play with a friend that does not own the DLC?</summary>
+
+> Yes, but not in the DLC areas.
+</details>
+
 
 ## Known bugs
 
