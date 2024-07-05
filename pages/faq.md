@@ -282,7 +282,7 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>I can pick up items during an invasion</summary>
+<summary>I can pick up items during an invasion!</summary>
 
 > These are your own world items. Not a bug.
 </details>
