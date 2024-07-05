@@ -269,6 +269,13 @@ e in Weeping Penninsula to get respective drops).
 > Warp to a grace and it should correct itself.
 </details>
 
+<details markdown="block">
+<summary>Can't enter the capital with 2 or more great runes.</summary>
+
+> Kown bug.
+> Mist out and warp to the `Outer Wall Battleground` site of grace and sit at it and speak to Melina if available, afterwards you should be able to enter the capital.
+</details>
+
 
 
 
