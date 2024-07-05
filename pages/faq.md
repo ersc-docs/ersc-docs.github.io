@@ -255,6 +255,14 @@ e in Weeping Penninsula to get respective drops).
 
 </details>
 
+<details markdown="block">
+<summary>When Other Players Are Very Far Away, They Also Appear Close To Me</summary>
+
+> Kown bug, Cause known. 
+> Should not hamper gameplay for now - ignore if you can.
+</details>
+
+
 
 
 ## Invasion bugs
