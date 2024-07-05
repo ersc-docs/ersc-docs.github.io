@@ -323,7 +323,7 @@ e in Weeping Penninsula to get respective drops).
 > * Needle Knight Leda  
 > * Sorceress Sellen/Witch-Hunter Jerren  
 > * Millicent  
-> Refer to [bug workarounds](https://ersc-docs.github.io/workarounds/) if you'd like to get them working, while solo.
+> Refer to [bug workarounds](https://ersc-docs.github.io/workaround/) if you'd like to get them working, while solo.
 </details>
 
 <details markdown="block">
@@ -396,7 +396,7 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, due to unique invasion completion state.  
 > For now, cannot be done in Seamless Coop.
 >
-> If you can't wait for a fix. [Workaround for Milicent's and DLC Needle Knight Leda's Invasion signs.](https://ersc-docs.github.io/workarounds/)
+> If you can't wait for a fix. [Workaround for Milicent's and DLC Needle Knight Leda's Invasion signs.](https://ersc-docs.github.io/workaround/)
 </details>
 
 <details markdown="block">
@@ -405,7 +405,7 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, due to unique invasion location.  
 > For now, cannot be done in Seamless Coop.
 >
-> If you can not wait for a fix [Workaround Sellen's Assisting sign.](https://ersc-docs.github.io/workarounds/)
+> If you can not wait for a fix [Workaround Sellen's Assisting sign.](https://ersc-docs.github.io/workaround/)
 </details>
 
 <details markdown="block">
