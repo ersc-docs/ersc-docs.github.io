@@ -190,6 +190,11 @@ e in Weeping Penninsula to get respective drops).
 > Happens due to the area movement script having a disconnect event, which will have to be disabled.
 </details>
 
+<summary>Dectus Lift has no interact promps</summary>
+
+> Known bug, do it solo and reconnect after doing it.  
+</details>
+
 <details markdown="block">
 <summary>I cannot enter Evergaols that have Stonesword Keys!</summary>
 
