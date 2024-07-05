@@ -8,7 +8,7 @@ nav_order: 5
 
 
 <details markdown="block">
-<summary> Workaround for Milicent and DLC Needle Knight Leda.  </summary>
+<summary> Workaround for Milicent's and DLC Needle Knight Leda's invasion signs.  </summary>
 
 > <b><u>Make backups of your save files before attempting</u></b>
 >
