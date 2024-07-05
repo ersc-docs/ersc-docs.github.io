@@ -143,11 +143,11 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
 
-NPC invasions only work in a session with other people at the moment. Moreover, specific encounters are currently non-functional:  
-* Needle Knight Leda  
-* Sorceress Sellen/Witch-Hunter Jerren  
-* Millicent  
-Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd like to get them working, while solo.
+> NPC invasions only work in a session with other people at the moment. Moreover, specific encounters are currently non-functional:  
+> * Needle Knight Leda  
+> * Sorceress Sellen/Witch-Hunter Jerren  
+> * Millicent  
+> Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd like to get them working, while solo.
 </details>
 
 <details markdown="block">
@@ -174,12 +174,6 @@ Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd lik
 <summary>My friend disconnected in a bossfight, and now I'm stuck as a spectator!</summary>
 
 > Known bug, for now - either win the bossfight or Alt+F4 if that happens.
-</details>
-
-<details markdown="block">
-<summary>I'm infinitely falling after fighting Radahn!</summary>
-
-> Known bug - for now, use [The Grand Archives cheat table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/releases/) to warp to a grace.
 </details>
 
 <details markdown="block">
@@ -212,25 +206,6 @@ Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd lik
 <summary>Dectus Lift has no interact promps</summary>
 
 > Known bug, do it solo and reconnect after doing it.  
-</details>
-
-<details markdown="block">
-<summary>I cannot enter Evergaols that have Stonesword Keys!</summary>
-
-> Known bug, for now - can be done solo, but not in session with other people.
-</details>
-
-<details markdown="block">
-<summary>I cannot complete Ansbach's quest!</summary>
-
-> Known bug, unique NPC invasion. For now, cannot be done in Seamless Coop.
-</details>
-
-<details markdown="block">
-<summary>Millicent's invasion doesn't complete!</summary>
-
-> Known bug, due to unique invasion completion state.  
-> For now, cannot be done in Seamless Coop.
 </details>
 
 <details markdown="block">
@@ -285,23 +260,9 @@ Refer to [bug workarounds](https://ersc-docs.github.io/workarounds) if you'd lik
 </details>
 
 <details markdown="block">
-<summary>When Other Players Are Very Far Away, They Also Appear Close To Me</summary>
-
-> Kown bug, Cause known. 
-> Should not hamper gameplay for now - ignore if you can.
-</details>
-
-<details markdown="block">
-<summary>Player on Torrent is flickering.</summary>
-
-> Kown bug.
-> Warp to a grace and it should correct itself.
-</details>
-
-<details markdown="block">
 <summary>Can't enter the capital with 2 or more great runes.</summary>
 
-> Kown bug.
+> Known bug.
 > Mist out and warp to the `Outer Wall Battleground` site of grace and sit at it and speak to Melina if available, afterwards you should be able to enter the capital.
 </details>
 
