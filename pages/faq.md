@@ -47,7 +47,7 @@ nav_order: 4
 </details>
 
 <details markdown="block">
-<summary>Can I do White mask Varre's Quest in Coop?</summary>
+<summary>Can I do White Mask Varre's Quest in Coop?</summary>
 
 ><b><u>Invasion Signs</u> can currently only be compleated if you have an open session and a <u>Wanderer</u> with you (another friendly player)</b>.
 >
