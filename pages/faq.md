@@ -396,7 +396,7 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, due to unique invasion completion state.  
 > For now, cannot be done in Seamless Coop.
 >
-> If you can't wait for a fix. [Workaround for Milicent's and DLC Needle Knight Leda's Invasion signs.](https://github.com/ersc-docs/ersc-docs.github.io/blob/main/pages/Workaround.md)
+> If you can't wait for a fix. [Workaround for Milicent's and DLC Needle Knight Leda's Invasion signs.](https://ersc-docs.github.io/workaround/)
 </details>
 
 <details markdown="block">
@@ -405,7 +405,7 @@ e in Weeping Penninsula to get respective drops).
 > Known bug, due to unique invasion location.  
 > For now, cannot be done in Seamless Coop.
 >
-> If you can not wait for a fix [Workaround Sellen's Assisting sign.](https://github.com/ersc-docs/ersc-docs.github.io/blob/main/pages/Workaround.md)
+> If you can not wait for a fix [Workaround Sellen's Assisting sign.](https://ersc-docs.github.io/workaround/)
 </details>
 
 <details markdown="block">
