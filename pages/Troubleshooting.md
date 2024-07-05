@@ -92,6 +92,14 @@ nav_order: 5
 ><b><u>NOTE:</u></b> In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Chose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
 </details>
 
+<details markdown="block">
+<summary> Desynced/Invisible enemies </summary>
+
+>Rest at a grace.
+>
+>Do the Steps above in "Geeral Connection Issues".
+</details>
+
 ## Errors and Crashes
 
 <details markdown="block">
