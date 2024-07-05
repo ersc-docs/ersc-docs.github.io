@@ -187,6 +187,12 @@ e in Weeping Penninsula to get respective drops).
 >Change your password into something better and try again.
 </details>
 
+<details markdown="block">
+<summary> How many players can be in a session. </summary>
+
+>You can be a total of 6 players in total. Aka host + 5.
+</details>
+
 ## General connection issues
 
 <details markdown="block">
