@@ -89,15 +89,14 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>What happens if the game receives an update? Will the mod break?</summary>
 
-> Refer to [(Discord) Elden Ring received an official update, what to do?](https://discord.com/channels/979042878091329587/1097350937573593160).  
->  
-> **Note**:  Major updates like DLC tend to break the mod due to changes done to provide content (changes in regulation.bin file cause seamless to break if something major is adjusted). Hot fixes on the other hand could only be minor changes that won't change much and still allow mods to be compatible, if it's small parameter changes.
+> Get the latest version of the mod, and launch it without using any other mods on top - at least at first. Beware that both Seamless Coop and other mods will take time to update and guarantee compatibility with the latest version.  
+> Small changes (like changes to `regulation.bin`) will not break Seamless Coop. However, everyone has to be on the same game and mod version in order to connect to each other.
 </details>
 
 <details markdown="block">
 <summary>General save file questions.</summary>
 
-><b>Transfering a modded ccharacter to non-modded Elden Ring will result in a ban. Do at your own risk.</b>
+><b>Transfering a modded character to non-modded Elden Ring will result in a ban. Do at your own risk.</b>
 >
 >Save files are not touched by updating or reinstalling Seamless Coop, Elden Ring or verifying game files in steam.
 >
@@ -113,7 +112,7 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary>Can I play the base game, or with a friend that does not own the DLC?</summary>
 
-> Yes, but you will only be able to play the base game together.
+> Yes, but you will only be able to play the base game together.  
 > Attempts to enter the DLC despite that can result in destroyed characters and infinite loading screens.
 </details>
 
