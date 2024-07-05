@@ -97,7 +97,7 @@ nav_order: 5
 
 >Rest at a grace.
 >
->Do the Steps above in "Geeral Connection Issues".
+>Do the Steps above in "<b>General Connection Issues</b>".
 </details>
 
 ## Errors and Crashes
