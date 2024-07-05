@@ -11,8 +11,8 @@ nav_order: 4
 <summary>Why am I not getting the Seamless Coop items?</summary>
 
 >You need to rest at a grace to obtain the Seamless Coop items.    
->If you didn't get them - please try verifying your game files through Steam and trying again:  
->Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
+> If you didn't get them - please try verifying your game files through Steam and trying again:  
+> Right click Elden Ring in Steam => Properties => Installed Files => Verify integrity of game files
 </details>
 
 <details markdown="block">
@@ -49,8 +49,7 @@ nav_order: 4
 <details markdown="block">
 <summary>Can I do White Mask Varre's Quest in Coop?</summary>
 
-><b><u>Invasion Signs</u> can currently only be compleated if you have an open session and a <u>Wanderer</u> with you (another friendly player)</b>.
->
+><b><u>Invasion Signs</u> can currently only be completed if you have an open session and another friendly player with you</b>.  
 >As of Elden Ring 1.06, an NPC was added to be able to complete this requirement. <b>His invasion sign is in the Writheblood Ruins</b>.
 </details>
 
@@ -65,7 +64,6 @@ nav_order: 4
 
 <details markdown="block">
 <summary>How is progress saved for gameplay and items?</summary>
-
 
 > **GAMEPLAY PROGRESS:**
 > - Progress is saved based on Host progression. Wanderer's progression will not sync if Host has progressed less than the Wanderers.
