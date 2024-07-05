@@ -244,7 +244,7 @@ e in Weeping Penninsula to get respective drops).
 >
 >Make sure ersc.dll  is present within the SeamlesCoop folder. Right click it and click on Properties. Press Unblock, if that option is visible.
 >
->Make sure you've correctly installed the mod by following ⁠⁠⁠[How to install and update]([https://ersc-docs.github.io/how-to-install/](https://ersc-docs.github.io/how-to-install-and-update/)).
+>Make sure you've correctly installed the mod by following ⁠⁠⁠[How to install and update](https://ersc-docs.github.io/how-to-install-and-update/).
 </details>
 
 <details markdown="block">
