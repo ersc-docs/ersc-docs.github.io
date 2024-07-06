@@ -3,6 +3,8 @@ layout: page
 title: How to install and update
 permalink: /how-to-install-and-update/
 nav_order: 1
+redirect_from:
+- /
 ---
 <details markdown="block">
 <summary>Table of Contents</summary>

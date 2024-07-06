@@ -2,7 +2,7 @@
 layout: page
 title: Seamless Modding
 permalink: /seamless-modding/
-nav_order: 2
+nav_order: 4
 ---
 <details markdown="block">
 <summary>Table of Contents</summary>
