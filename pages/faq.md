@@ -92,19 +92,39 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>General save file questions.</summary>
+<summary>If I update Seamless Coop, what happens to my save?</summary>
+> Save files are not affected by updating or reinstalling Seamless Coop, Elden Ring or verifying game files in steam.
+</details>
 
-><b>Transfering a modded character to non-modded Elden Ring will result in a ban. Do at your own risk.</b>
->
->Save files are not touched by updating or reinstalling Seamless Coop, Elden Ring or verifying game files in steam.
->
->Seamless Coop save files are not synced to Steams could. <b>Make manuall backups regularly</b>.
->
->Elden Ring and Seamless Coop save files are tied to your <b>Steam ID</b>. To find your Steam ID, in the Steam desktop application, select your Steam username in the top right corner of the screen. Select ''Account details''. Your Steam ID can be found below your Steam username.  
->
->To use your Seamless Coop save on another PC you will need to manually transfer the save file to your other PC. You can do so through cloud services like Google Drive or through the use of a USB storage device.
->
->Please refer to [Windows Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-windows) or [Linux Save file location](#how-can-i-use-my-elden-ring-characters-in-seamless-coop?-linux), for your save file location and how to transfer a vanilla Elden Ring character to Seamless Coop.
+<details markdown="block">
+<summary>I want to move to another PC when playing, what do I need to do?</summary>
+> They'll have to be copied manually:
+
+<details markdown="block">
+<summary>I'm using Windows</summary>
+1. Open File Explorer.  
+2. Click the address line, and enter: `%appdata%/EldenRing/`  
+3. Enter the folder that corresponds to your SteamID. It will have a lot of numbers.  
+4. Copy `ER0000.co2`.  
+5. Paste it in your new machine, in the same path.  
+</details>
+
+<details markdown="block">
+<summary>I'm using Linux</summary>
+> On your old PC:  
+1. Enter the following command: `cd ~/.local/share/Steam/steamapps/compatdata find | grep ER0000.co2`  
+2. Go to the found directory.  
+3. Copy `ER0000.co2`  
+
+> On your new PC:
+1. Start Seamless Coop and get to the main menu.
+2. Exit the game.
+3. Enter the following command: `cd ~/.local/share/Steam/steamapps/compatdata find | grep ER0000.co2`  
+4. Go to the found directory.  
+5. `rm ER0000.co2`  
+6. Paste the backed up save file from your old PC.  
+</details>
+
 </details>
 
 <details markdown="block">
