@@ -98,7 +98,7 @@ e in Weeping Penninsula to get respective drops).
 
 <details markdown="block">
 <summary>I want to move to another PC when playing, what do I need to do?</summary>
-> They'll have to be copied manually:
+> Seamless Coop saves will have to be copied manually:
 
 <details markdown="block">
 <summary>I'm using Windows</summary>
