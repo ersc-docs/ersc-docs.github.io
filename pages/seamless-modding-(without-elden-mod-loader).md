@@ -6,8 +6,8 @@ A guide on how to setup ModEngine 2 with Seamless Coop
 >
 > You MUST launch Seamless Coop with either the launcher or ModEngine2. DLL injectors like Elden Mod Loader and Lazy Loader
 > won't work.
->
-{style="warning"}
+> 
+
 
 ## Files you need
 Seamless Coop and ModEngine2.
