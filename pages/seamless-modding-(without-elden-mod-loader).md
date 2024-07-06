@@ -49,6 +49,15 @@ Make sure that you have:
     [modengine]
     # If set to true the debug console will appear while the game is running
     debug = false
+    
+    # List of files that will be loaded into the game as DLL mods.
+    # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod.dll, you must enter
+    # the path in the config as "E:\\coolstuff\\coolmod.dll".
+    # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod.dll" will tell
+    # Mod Engine 2 to look for the directory mod inside the Mod Engine 2 directory with the launcher.
+    #
+    # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
+    # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
     external_dlls = [ "mod/ersc.dll" ]
     ```
 
