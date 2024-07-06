@@ -1,6 +1,9 @@
 title: ER Seamless Coop
 description: Resources for the Elden Ring Seamless Coop mod.
 repository: ersc-docs/ersc-docs
+domain: ersc-docs.github.io
+url: https://ersc-docs.github.io
+baseurl: /
 
 theme: just-the-docs
 
