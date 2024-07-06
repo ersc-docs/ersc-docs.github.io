@@ -1,4 +1,4 @@
-# How to play Seamless Coop with ModEngine2
+# Seamless Modding (using only ModEngine2)
 
 A guide on how to setup ModEngine 2 with Seamless Coop
 
