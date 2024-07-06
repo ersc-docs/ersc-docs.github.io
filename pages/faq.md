@@ -321,27 +321,6 @@ e in Weeping Penninsula to get respective drops).
 ## Known bugs
 
 <details markdown="block">
-<summary>I'm stuck in an infinite loading screen!</summary>
-
-> Download Nordgaren's [Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest)  
-> 1. Launch Seamless Coop
-> 2. While in the loading screen, launch the Debug Tool as Administrator.
-> 3. Check that on the bottom, it says: `Loaded: Yes`
-> 4. Go to the Misc tab.
-> 5. Enable flags: 105, 115.
-> 6. Wait for the infinite loading screen to start again. This time, it should complete.
-> 7. Go to the Grace tab.
-> 8. Under Manage Graces, type Table of Lost Grace.
-> 9. Press the Set button.
->10. If Enabeling 105 with the debug tool does not work try Verifying game files in steam. Should verify roughly 450 - 600+ files. See if enabling the flag works now.
->
-> <b>Please Note:</b> If the infinite loading screen loop happened while you were being warped to the round table for the first time, you might need too unlock the Grace with the Debug tool.
->
->Too unlock the grace go to the Debug tool -> Grace tab -> under Manage Graces -> type Table of lost grace (in the text field) -> click set or the power button so it turns green.
-
-</details>
-
-<details markdown="block">
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
 
 > NPC invasions only work in a session with other people at the moment.  
@@ -383,12 +362,6 @@ e in Weeping Penninsula to get respective drops).
 
 > Reloading the character should fix it.  
 > This is due to Torrent sharing the same lock-on list as the player - and when it's despawned, it sometimes messes the entity entry list.
-</details>
-
-<details markdown="block">
-<summary>Elevator or another moving object doesn't work!</summary>
-
-> Known bug. Currently moving objects tend to not work, or reset to their original state on their own.
 </details>
 
 <details markdown="block">
