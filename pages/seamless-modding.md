@@ -4,7 +4,7 @@ title: Seamless Modding
 permalink: /seamless-modding/
 nav_order: 4
 ---
-# Seamless Modding (using only ModEngine2)
+# Seamless Modding
 
 A guide on how to setup ModEngine 2 with Seamless Coop
 
