@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Seamless Modding (using only ModEngine2)
-permalink: /seamless-modding-me2/
-nav_order: 5
+title: Seamless Modding
+permalink: /seamless-modding/
+nav_order: 4
 ---
 # Seamless Modding (using only ModEngine2)
 
