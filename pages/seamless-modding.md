@@ -33,15 +33,12 @@ Make sure that you have:
     Paste the copies of the files from `SeamlessCoop` into this folder. Then go back one folder to whatever folder you put 
     `ModEngine2` in.
 
+
 2. Setup ModEngine2.  
 
-    In the main `ModEngine2` folder, you should see a `config_eldenring.toml`. Open this file, and past this right below your
+    In the main `ModEngine2` folder, you should see a `config_eldenring.toml`. Open this file, and update the `external_dlls` variable right below your
     `[modengine]` section.
-
-    ```toml
-    external_dlls = [ "mod/ersc.dll" ]
-    ```
-
+   
     Your config toml should now start like this:
 
     ```toml
@@ -60,6 +57,7 @@ Make sure that you have:
     # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
     external_dlls = [ "mod/ersc.dll" ]
     ```
+
 
 3. Additional mods.  
 
