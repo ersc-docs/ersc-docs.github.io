@@ -39,7 +39,7 @@ nav_order: 1
   
 8. Open `ersc_settings.ini` using any text editor - Notepad (Windows) or nano (Linux) is sufficient.
   
-9. Edit the settings to your personal liking - by editing the values after ` = `. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-deisgnated places.  
+9. Edit the settings to your personal liking - by editing the values after ` = `. the only setting that has to be the same for everyone in the play group is the password. Do not delete any lines or write stuff in non-designated places.  
     An example of a properly configured ini:
 
 ```ini
