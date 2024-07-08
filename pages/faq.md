@@ -275,6 +275,7 @@ e in Weeping Penninsula to get respective drops).
 
 <details markdown="block">
 <summary> I am getting crashes </summary>
+
 >Most likely, not a Seamless Coop bug.
 >Due to how Elden Ring applies its updates, it will often result in corrupted files.
 >Please verify files through Steam first.
