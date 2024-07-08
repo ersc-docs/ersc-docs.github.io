@@ -134,6 +134,12 @@ e in Weeping Penninsula to get respective drops).
 > Attempts to enter the DLC despite that can result in destroyed characters and infinite loading screens.
 </details>
 
+<details markdown="block">
+<summary> How many players can be in a session. </summary>
+
+>You can be a total of 6 players in total. Aka host + 5.
+</details>
+
 ## Messages,issues and solutions when using the Seamless Coop items
 
 <details markdown="block">
@@ -207,12 +213,6 @@ e in Weeping Penninsula to get respective drops).
 >Change your password into something better and try again.
 </details>
 
-<details markdown="block">
-<summary> How many players can be in a session. </summary>
-
->You can be a total of 6 players in total. Aka host + 5.
-</details>
-
 ## General connection issues
 
 <details markdown="block">
@@ -275,27 +275,27 @@ e in Weeping Penninsula to get respective drops).
 
 <details markdown="block">
 <summary> I am getting crashes </summary>
->Most likely, not a Seamless Coop bug.
->Due to how Elden Ring applies its updates, it will often result in corrupted files.
->Please verify files through Steam first.
+> Most likely, not a Seamless Coop bug.
+> Due to how Elden Ring applies its updates, it will often result in corrupted files.
+> Please verify files through Steam first.
 >
->The current version of raytracing in Elden Ring isn't very stable.
->Please turn it off in the ingame settings before submitting a report.
+> The current version of raytracing in Elden Ring isn't very stable.
+> Please turn it off in the ingame settings before submitting a report.
 >
->Some software hooks into Elden Ring, which interferes with Seamless Coop's hooks and can cause a white screen hang, or crashes.
+> Some software hooks into Elden Ring, which interferes with Seamless Coop's hooks and can cause a white screen hang, or crashes.
 >
->As a rule of thumb, these are usually overlays and tuners.
->These are including, but not limited to:
->AMD Ryzen Master
->AMD Adrenaline
->Rivia Tuner
->MSI Afterburner
->Medal
->Overwolf
->Process Lasso
->System Explorer
->And might also include Discord and GeForce overlays.
->Run <b>ersc_launcher.exe</b> as admin
+> As a rule of thumb, these are usually overlays and tuners.
+> These are including, but not limited to:
+> AMD Ryzen Master
+> AMD Adrenaline
+> Rivia Tuner
+> MSI Afterburner
+> Medal
+> Overwolf
+> Process Lasso
+> System Explorer
+> And might also include Discord and GeForce overlays.
+> Run <b>ersc_launcher.exe</b> as admin
 </details>
 
 <details markdown="block">
