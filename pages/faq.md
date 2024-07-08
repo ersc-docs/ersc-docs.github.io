@@ -163,7 +163,9 @@ e in Weeping Penninsula to get respective drops).
 >
 >6. Everyone must be connected to Steam's Friends network.
 >
->7. Verify game files in steam. It should verify rougly 450-600 files else try again.
+>7. If you have installed Riot's Vanguard installed try turning it off. If you have any other games anti cheat that is known to be intrusive turn them off as well.
+>
+>8. Verify game files in steam. It should verify rougly 450-600 files else try again.
 >
 > <b><u>NOTE:</u></b> During Steam maintenance, connectivity will go offline. This usually doesn't last more than a few minutes.
 >
@@ -205,6 +207,22 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
+<summary> k_ESteamNetworkingAvailability_Failed </summary>
+
+> Something is blocking connection with steam 
+>
+> Make sure neither Steam or Elden Ring is blocked by your firewall/s or antivirus.
+>
+> If you are using an antivirus other than Windows defender that might be your issue.
+>
+> Try making exclusions in your antivirus for your `game` folder and `ersc.dll`
+>
+> Try restarting your router.
+>
+> If you have installed Riot's Vanguard installed try turning it off. If you have any other games anti cheat that is known to be intrusive turn them off as well.
+</details>
+
+<details markdown="block">
 <summary> You must own Shadow of the Erdtree to join this session. </summary>
 
 >This means you must own the DLC and have it installed to join this session, because the host is in the DLC area.
@@ -218,10 +236,10 @@ e in Weeping Penninsula to get respective drops).
 <details markdown="block">
 <summary> General Connection issues </summary>
 
->1. Try restarting your routers and PCs
->2. Try using ethernet instead of WiFi
->3. Try turning your VPN off/on
->4. As a last resort try another network entirely and make sure your internet provider is not having any disturbances.
+> 1. Try restarting your routers and PCs
+> 2. Try using ethernet instead of WiFi
+> 3. Try turning your VPN off/on
+> 4. As a last resort try another network entirely and make sure your internet provider is not having any disturbances.
 >
 ><b><u>NOTE:</u></b> In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Chose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
 </details>
