@@ -338,13 +338,6 @@ e in Weeping Penninsula to get respective drops).
 </details>
 
 <details markdown="block">
-<summary>Whenever my partner mounts Torrent, they're flickering/invisible!</summary>
-
-> Visual bug.  
-> Torrent tends to go to (0,0,0) in some areas. Reloading the areas (through warping to the local grace) should fix it.
-</details>
-
-<details markdown="block">
 <summary>I entered an evergaol and now I'm stuck as a spectator!</summary>
 
 > Known bug, for now - don't die in evergaols.  
@@ -368,19 +361,6 @@ e in Weeping Penninsula to get respective drops).
 <summary>The ensnaring chest at Agheel Lake doesn't teleport me to Caelid!</summary>
 
 > Known bug, for now - doesn't work.
-</details>
-
-<details markdown="block">
-<summary>Rold's Lift disconnects everyone!</summary>
-
-> Known bug, for now - don't do it, or reconnect after doing it.  
-> Happens due to the area movement script having a disconnect event, which will have to be disabled.
-</details>
-
-<details markdown="block">
-<summary>Dectus Lift has no interact prompt!</summary>
-
-> Known bug, do it solo and reconnect after doing it.  
 </details>
 
 <details markdown="block">
