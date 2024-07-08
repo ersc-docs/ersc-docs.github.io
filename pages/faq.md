@@ -389,32 +389,6 @@ e in Weeping Penninsula to get respective drops).
 > Known bug. Currently they only become regular enemies for the host.
 </details>
 
-<details markdown="block">
-<summary>Milicent's and DLC Needle knight Leda's Invasion sign cannot be done.</summary>
-
-> Known bug, due to unique invasion completion state.  
-> For now, cannot be done in Seamless Coop.
->
-> If you can't wait for a fix. [Workaround for Milicent's and DLC Needle Knight Leda's Invasion signs.](https://ersc-docs.github.io/workarounds/)
-</details>
-
-<details markdown="block">
-<summary> Sellen's Assisting sign. </summary>
-
-> Known bug, due to unique invasion location.  
-> For now, cannot be done in Seamless Coop.
->
-> If you can not wait for a fix [Workaround Sellen's Assisting sign.](https://ersc-docs.github.io/workarounds/)
-</details>
-
-<details markdown="block">
-<summary>Can't enter the capital with 2 or more great runes.</summary>
-
-> Known bug.
-> Mist out and warp to the `Outer Wall Battleground` site of grace and sit at it and speak to Melina if available, afterwards you should be able to enter the capital.
-</details>
-
-
 
 
 ## Invasion bugs
