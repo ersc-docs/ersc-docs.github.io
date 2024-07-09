@@ -7,7 +7,7 @@ nav_order: 3
 # Workarounds
 
 <details markdown="block">
-<summary> For all golden signs </summary>
+<summary> For the Leda final fight </summary>
 
 > <b><u> You need to have at least 2 players to complete them. </u></b>
 >
