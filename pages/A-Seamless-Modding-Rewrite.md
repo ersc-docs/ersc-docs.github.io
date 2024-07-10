@@ -232,7 +232,7 @@ For optimal experience, all players should use the same mods together - with the
 <details markdown="block">
 <summary>4. Adding aditional mods.</summary>
 
-> <b><u> MAKE SURE TO READ THE MODS YOU WANT TO USE DESCRIPTION AND/OR READ ME</u></b> 
+> <b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
 
 <details markdown="block">
 <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
