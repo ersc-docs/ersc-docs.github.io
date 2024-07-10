@@ -530,7 +530,7 @@ It should look like this.
     enabled = false
     ```
 
-18. Save the changes
+<b><u>Save the changes</u></b>
 
 
 <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment.<br />
