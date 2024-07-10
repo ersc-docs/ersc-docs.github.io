@@ -471,7 +471,7 @@ PostureBarMod.dll.dll = 1
 > 12. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
 >
 > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
-<
+>
 > 13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
 >
 > 14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
