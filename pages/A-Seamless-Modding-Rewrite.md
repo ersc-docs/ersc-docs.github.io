@@ -59,7 +59,8 @@ Make sure that you have:
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
 1.3 Place the `ME2` folder into your `Game` folder. 
-    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ed82a130-51c8-47aa-85c8-4f2e2963e898)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/268b828a-51e9-4d8d-bc03-6b5ff8b519ea)
+
 
 
 <details markdown="block">
