@@ -1,4 +1,4 @@
-![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/90c7a6dc-3037-40a9-889b-30536c18ea8b)---
+---
 layout: page
 title: A Seamless Modding Rewrite
 permalink: /ASMR/
