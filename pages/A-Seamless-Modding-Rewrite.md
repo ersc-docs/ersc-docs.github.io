@@ -416,7 +416,7 @@ For optimal experience, all players should use the same mods together - with the
           </details>
         
         </details>
-      
+    </details>    
 </details>
 
 
