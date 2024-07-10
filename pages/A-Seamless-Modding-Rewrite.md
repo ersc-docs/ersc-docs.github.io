@@ -432,7 +432,7 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 <details markdown="block">
 <summary>I want to use a randomizer</summary>
 
-1. m Download [Elden Ring Item Randomizer]()
+1. Download [Elden Ring Item Randomizer]()
 
 2. Open the zip file you downloaded with your prefered file archiver.
 
@@ -456,7 +456,7 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 8. If you want to use the Randomizer with other `file based` mods you can click on `Merge other mod`.
 
-  <b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
+    <b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
 
 9. In the pop up select the option that suites your needs but easiest is to just click `Select mod directory to merge`.
 
@@ -501,10 +501,8 @@ It should look like this.
     ```
 
 
-  <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
-
-   
-   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
+   <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
 
 18. Save the changes.
@@ -519,8 +517,7 @@ It should look like this.
 5.1 Open your `ME2` folder located in your `Game` folder.
 
 5.2 Launch the game with the `launchmod_eldenring.bat`
-
-   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
 
 </details>
 
