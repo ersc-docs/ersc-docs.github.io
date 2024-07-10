@@ -560,6 +560,7 @@ You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launch
 <details markdown="block">
 <summary>5. Launching the game</summary>
 
+
 5.1 Open your `ME2` folder located in your `Game` folder.
 
 5.2 Launch the game with the `launchmod_eldenring.bat`
