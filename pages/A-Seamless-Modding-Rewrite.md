@@ -177,7 +177,7 @@ save_file_extension = `co2`
 </details>
 
 <details markdown="block">
-  <summary>3. Seting up Mod Engine 2</summary>
+  <summary>3. Setting up Mod Engine 2</summary>
 
 > 3.1 Open your `ME2` folder. 
 > 
