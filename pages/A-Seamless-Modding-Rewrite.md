@@ -49,7 +49,6 @@ Make sure that you have:
 <details markdown="block">
 <summary>1. Where to put the files.</summary>
 
->
 > 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
 >
 > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
@@ -64,7 +63,6 @@ Make sure that you have:
 
 <details markdown="block">
 <summary>Where is my Game folder</summary>
-
 
 > *Browser local files in steam.*
 >
@@ -83,7 +81,6 @@ Make sure that you have:
 
 </details>
 
->
 > 1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
 > 
 > 1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
@@ -101,7 +98,6 @@ Make sure that you have:
 <details markdown="block">
 <summary>2. Set a Password and configure the ersc_settings.ini</summary>
 
->
 > 2.1 Open your `SeamlessCoop` folder in your `ME2` folder. 
 > 
 > 2.2 Open the `ersc_settings.ini` file with text editor of choise.
@@ -181,7 +177,6 @@ save_file_extension = `co2`
 <details markdown="block">
 <summary>3. Seting up Mod Engine 2</summary>
 
->
 > 3.1 Open your `ME2` folder. 
 > 
 > 3.2 Open the `config_eldenring.toml` with your prefered text editor.
@@ -247,13 +242,11 @@ enabled = false
 <details markdown="block">
 <summary>4. Adding aditional mods.</summary>
 
->
 > <b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
 
 <details markdown="block">
 <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
 
->
 > `File based` mods are mods that would have to replace game file to function, which we get around by using `Mod Engein 2` to launch the game. 
 > This means that if you are using 2 mods that are file based they may replace eachothers files which can and most likely will cause issues.
 > 
@@ -264,7 +257,6 @@ enabled = false
 <details markdown="block">
 <summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
->
 > `File based` mods are usually overhauls like Clever's moveset packs, Convergence and Elden Ring Reforged or something like a armor replacer but can also be simple edits to the `regulation.bin`. 
 > Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
 > 
@@ -277,7 +269,6 @@ enabled = false
 <details markdown="block">
 <summary>My mod is a file based mod.</summary>
 
->
 > <b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
 > 
 > 1. Open the zip file you have downloaded with prefered file archiver. by selecting open archive or double left clicking.
@@ -311,7 +302,6 @@ enabled = false
 <details markdown="block">
 <summary>My mod is a .dll mod.</summary>
 
->
 > You can use `Mod Engine 2` or `Elden Ring Mod Loader` for `.ddl` mods.
 > 
 > Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will only work with `Elden Ring Mod Loader`.
@@ -321,7 +311,6 @@ enabled = false
 <details markdown="block">
 <summary>Using `Mod Engine 2`</summary>
 
->
 > 1. Download what ever .dll mod you want to use. I.ll be using the Posture bar mod as an example.
 > 
 > 2. Open the downloaded zip and navigate to where you see it's `.dll` file. 
@@ -400,7 +389,6 @@ enabled = false
 <details markdown="block">
 <summary>Using Mod Loader</summary>
 
->
 > Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 > 
 > <b>THIS WILL MAKE YOU UNABLE TO LAUNCH VANILLA ELDEN RING IN OFFLINE MODE. UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.
@@ -442,7 +430,6 @@ PostureBarMod.dll.dll = 1
 <details markdown="block">
 <summary>5. Launching the game</summary>
 
->
 > 5.1 Open your `ME2` folder located in your `Game` folder.
 > 
 > 5.2 Launch the game with the `launchmod_eldenring.bat`
