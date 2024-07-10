@@ -51,38 +51,38 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
- 1.1 Extract `Mod Engine 2` using your prefered file archiver. <br />
+1.1 Extract `Mod Engine 2` using your prefered file archiver. <br />
  Like [7zip](https://www.7-zip.org/download.html) as an example.
-  
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
  
- 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
-  
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
+1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
- 1.3 Place the `ME2` folder into your `Game` folder. 
-  
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
+1.3 Place the `ME2` folder into your `Game` folder. 
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ed82a130-51c8-47aa-85c8-4f2e2963e898)
+
 
 <details markdown="block">
   <summary>Where is my Game folder</summary>
 
  *Browser local files in steam.*
 
- 1. Open Steam
- 2. Right click `Elden Ring`
- 3. Go down to `Manage`
- 4. Click on `Browser local files`
+1. Open Steam
+  
+2. Right click `Elden Ring`
  
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/4ec7754c-956a-4699-b53f-e458deb91ad1)
-
- This will open your `Elden Ring` folder and inside it is the `Game` Folder. 
+3. Go down to `Manage`
  
- You can pin the `Game` folder to `Quick acces` <br />
- by right clicking the `Game` folder -> `Pin to Quick acces`. <br />
- Which will make it available in the left side of the file explorer under Quick acces.
+4. Click on `Browser local files`
+ 
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/4ec7754c-956a-4699-b53f-e458deb91ad1)
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/50750f3b-2030-4248-ad9a-a225a44ab415)
+This will open your `Elden Ring` folder and inside it is the `Game` Folder. 
+ 
+You can pin the `Game` folder to `Quick acces` <br />
+by right clicking the `Game` folder -> `Pin to Quick acces`. <br />
+Which will make it available in the left side of the file explorer under Quick acces.
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/50750f3b-2030-4248-ad9a-a225a44ab415)
 
 </details>
 
