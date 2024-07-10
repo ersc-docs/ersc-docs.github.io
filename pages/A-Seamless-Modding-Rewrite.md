@@ -7,7 +7,7 @@ nav_order: 6
 
 
 
-#Using Seamless Coop with other mods.
+# Using Seamless Coop with other mods.
 
 ## INSTALLATION GUIDE:  
 This guide will go over using Seamless Coop in conjunction with other mods. If you want to just use seamless coop with no other mods follow [How to install](https://ersc-docs.github.io/how-to-install-and-update/) instead.
