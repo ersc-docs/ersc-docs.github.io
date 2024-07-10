@@ -501,7 +501,8 @@ It should look like this.
     ```
 
 
-   <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
+   <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment. 
+    You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
 
