@@ -420,9 +420,6 @@ PostureBarMod.dll.dll = 1
 </details>
 
 </details>
-
-</details>
-
 <details markdown="block">
 <summary>5. Launching the game</summary>
 
@@ -431,7 +428,11 @@ PostureBarMod.dll.dll = 1
 > 5.2 Launch the game with the `launchmod_eldenring.bat`
 >
 > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
+
 </details>
+
+</details>
+
 
 </details>
 
