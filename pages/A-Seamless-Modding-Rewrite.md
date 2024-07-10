@@ -94,7 +94,7 @@ Make sure that you have:
 </details>
 
 <details markdown="block">
-  <summary>2. Set a Password and configure the ersc_settings.ini</summary>
+<summary>2. Set a Password and configure the ersc_settings.ini</summary>
 
  2.1 Open your `SeamlessCoop` folder in your `ME2` folder. 
  
@@ -183,56 +183,56 @@ save_file_extension = `co2`
  
  3.3 Copy and paste `external_dlls = [ "SeamlessCoop/ersc.dll" ]` into your `config_eldenring.toml` in the location shown below. 
 
-```
-# Global mod engine configuration
-[modengine]
-# If set to true the debug console will appear while the game is running
-debug = false
+    ```
+    # Global mod engine configuration
+    [modengine]
+    # If set to true the debug console will appear while the game is running
+    debug = false
 
-# List of files that will be loaded into the game as DLL mods.
-# Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod.dll, you must enter
-# the path in the config as "E:\\coolstuff\\coolmod.dll".
-# If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod.dll" will tell
-# Mod Engine 2 to look for the directory mod inside the Mod Engine 2 directory with the launcher.
-#
-# Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
-# external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
-external_dlls = [ "SeamlessCoop/ersc.dll" ]
+    # List of files that will be loaded into the game as DLL mods.
+    # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod.dll, you must enter
+    # the path in the config as "E:\\coolstuff\\coolmod.dll".
+    # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod.dll" will tell
+    # Mod Engine 2 to look for the directory mod inside the Mod Engine 2 directory with the launcher.
+    #
+    # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
+    # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
+    external_dlls = [ "SeamlessCoop/ersc.dll" ]
 
-# Mod loader configuration
-[extension.mod_loader]
-enabled = true
+    # Mod loader configuration
+    [extension.mod_loader]
+    enabled = true
 
-# Not currently supported for Elden Ring
-loose_params = false
+    # Not currently supported for Elden Ring
+    loose_params = false
 
-# List of directories that contain modded files in order of prioritization. Inside each specified mod directory must have the game
-# assets in Fromsoft's asset structure. I.e. if you mod parts/something.partsbnd.dcx, the modded version must be at mod/parts/something.partsbnd.dcx.
-# Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod, you must enter
-# the path in the config as "E:\\coolstuff\\coolmod".
-# If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod" will tell
-# modengine 2 to look for the directory mod inside the mod engine 2 directory with the launcher.
-#
-# Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
-# mods = [
-#    { enabled = true, name = "coolmod", path = "mod1" },
-#    { enabled = true, name = "nicemod", path = "mod2" },
-#    { enabled = true, name = "sosomod", path = "mod3" }
-# ]
-# Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
-# will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
-# a future release.
-mods = [
-{ enabled = true, name = "default", path = "mod"}
+    # List of directories that contain modded files in order of prioritization. Inside each specified mod directory must have the game
+    # assets in Fromsoft's asset structure. I.e. if you mod parts/something.partsbnd.dcx, the modded version must be at mod/parts/something.partsbnd.dcx.
+    # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod, you must enter
+    # the path in the config as "E:\\coolstuff\\coolmod".
+    # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod" will tell
+    # modengine 2 to look for the directory mod inside the mod engine 2 directory with the launcher.
+    #
+    # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
+    # mods = [
+    #    { enabled = true, name = "coolmod", path = "mod1" },
+    #    { enabled = true, name = "nicemod", path = "mod2" },
+    #    { enabled = true, name = "sosomod", path = "mod3" }
+    # ]
+    # Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
+    # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
+    # a future release.
+    mods = [
+    { enabled = true, name = "default", path = "mod"}
 
-]
+    ]
 
-# When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
-# debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
-# is probably not for you.
-[extension.scylla_hide]
-enabled = false
-```
+    # When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
+    # debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
+    # is probably not for you.
+    [extension.scylla_hide]
+    enabled = false
+    ```
 
 3.4 Save the changes.
 
@@ -240,15 +240,15 @@ enabled = false
 
 
 <details markdown="block">
-  <summary>4. Adding aditional mods.</summary>
+<summary>4. Adding aditional mods.</summary>
 
 <b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
 
 <details markdown="block">
-  <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
+<summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
 
- `File based` mods are mods that would have to replace game file to function, which we get around by using `Mod Engein 2` to launch the game. 
-This means that if you are using 2 mods that are file based they may replace eachothers files which can and most likely will cause issues.
+`File based` mods are mods that would have to replace game file to function, which we get around by using `Mod Engein 2` to launch the game. 
+  This means that if you are using 2 mods that are file based they may replace eachothers files which can and most likely will cause issues.
  
  
 `.dll` mods are mods that need to be injected into the game to function and would not replace game files.
@@ -258,7 +258,7 @@ This means that if you are using 2 mods that are file based they may replace eac
   <summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
  `File based` mods are usually overhauls like Clever's moveset packs, Convergence and Elden Ring Reforged or something like a armor replacer but can also be simple edits to the `regulation.bin`. 
- Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
+   Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
  
  `.dll` mods will generally speaking only have a .dll file, a config file aka a .ini file. The .ini file may be in a folder sometimes. The can also come with it's own .exe file like Seamless Coop.
  
@@ -287,10 +287,11 @@ This means that if you are using 2 mods that are file based they may replace eac
  
 <b><u>NOTE:</u></b> You can only have one `regulation.bin` mod at a time. Aka mods that come with a `regulation.bin` file.
  
-<b><u>NOTE2:</u></b> Only you will see the texture and modle modifications you are using. If you are using `parts` mods like armor and weapon mods and you want it to be shown on the other players in your session when they wear this equipment.
-Make sure that the `parts` files in your `parts` folder come with a regular version and a `_l` version. (`l` is a lowercase `L`)
+<b><u>NOTE2:</u></b> Only you will see the texture and modle modifications you are using. 
+  If you are using `parts` mods like armor and weapon mods and you want it to be shown on the other players in your session when they wear this equipment.
+  Make sure that the `parts` files in your `parts` folder come with a regular version and a `_l` version. (`l` is a lowercase `L`)
 
-    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d436a59f-031e-46fa-b923-cb6067f729c9)
+   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d436a59f-031e-46fa-b923-cb6067f729c9)
  
 If they do not then make a copy and rename it.
  
@@ -413,14 +414,14 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 7. Add the mods you have installed to your load order. Lowest number has highest load priority. Increase the load delay if some `.dll` mods fail to load properly.
 
 
-  ```
-  [modloader]
-  load_delay = 5000
-  show_terminal = 0
-  
-  [loadorder]
-  PostureBarMod.dll.dll = 1
-  ```
+    ```
+    [modloader]
+    load_delay = 5000
+    show_terminal = 0
+
+    [loadorder]
+    PostureBarMod.dll.dll = 1
+    ```
 
 8. Save the changes when you are done.
 
@@ -431,7 +432,7 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 <details markdown="block">
 <summary>I want to use a randomizer</summary>
 
-1. p Download [Elden Ring Item Randomizer]()
+1. m Download [Elden Ring Item Randomizer]()
 
 2. Open the zip file you downloaded with your prefered file archiver.
 
@@ -455,57 +456,58 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 8. If you want to use the Randomizer with other `file based` mods you can click on `Merge other mod`.
 
-<b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
+  <b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
 
 9. In the pop up select the option that suites your needs but easiest is to just click `Select mod directory to merge`.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/405aee65-af84-4bad-8aa4-6b795b0497b6)
-
-10. Navigate to the `ME2` folder and click on the `mod` folder and then click on `Select Folder`.
+   
+11. Navigate to the `ME2` folder and click on the `mod` folder and then click on `Select Folder`.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
 
-11. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
+12. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
 
 
-12. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
+13. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
 
 
-13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
+14. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
 
-14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
+15. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
 
-15. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
+16. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
 
-16. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
+17. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
 
 It should look like this.
 
-```
-# Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
-# will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
-# a future release.
-mods = [
-    { enabled = true, name = "default", path = "mod" },
-    { enabled = true, name = "default", path = "randomizer" },
-]
+    ```
+    # Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
+    # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
+    # a future release.
+    mods = [
+       { enabled = true, name = "default", path = "mod" },
+       { enabled = true, name = "default", path = "randomizer" },
+    ]
 
-# When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
-# debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
-# is probably not for you.
-[extension.scylla_hide]
-enabled = false
-```
+    # When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
+    # debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
+    # is probably not for you.
+    [extension.scylla_hide]
+    enabled = false
+    ```
 
-<b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it    
+
+  <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
 
    
    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
 
-17. Save the changes.
+18. Save the changes.
 
 </details>
 
