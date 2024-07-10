@@ -430,6 +430,84 @@ PostureBarMod.dll.dll = 1
 
 </details>
 
+<details markdown="block">
+  <summary>I want to use a randomizer</summary>
+
+> 1. Download [Elden Ring Item Randomizer]()
+>
+> 2. Open the zip file you downloaded with your prefered file archiver.
+>
+> 3. Drag and drop the `randomizer` folder into your `ME2` folder located in your `Game` folder.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/6744e648-8425-4d3d-ba37-c5e0b81cf256)
+
+> 4. Open the `randomizer` folder and run the `EldenRingRandomizer.exe`.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1077db6e-6c5f-4bea-80fd-fb15e4aa9853)
+
+> 5. In the Randomizer window click on `Select game exe`
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/79ee827b-822c-4b02-997a-bdbdc5fb3763)
+
+> 6. Navigate to your `Game` folder, select the `eldenring.exe` and press `Open`.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d2dac3bb-f90d-411b-b087-a7e3af1e65f4)
+
+> 7. Change the settings to your likeing in the `Item Randomizer`, `Enemy Randomizer` and `Misc Options` tabs. 
+>
+> 8. If you want to use the Randomizer with other `file based` mods you can click on `Merge other mod`.
+>
+> <b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
+>
+> 9. In the pop up select the option that suites your needs but easiest is to just click `Select mod directory to merge`.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/405aee65-af84-4bad-8aa4-6b795b0497b6)
+
+> 10. Navigate to the `ME2` folder and click on the `mod` folder and then click on `Select Folder`.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
+
+> 11. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
+>
+> 
+> 12. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
+
+> 13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
+>
+> 14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
+>
+> 15. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
+>
+> 16. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
+>
+> It should look like this.
+
+```
+# Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
+# will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
+# a future release.
+mods = [
+    { enabled = true, name = "default", path = "mod" },
+	  { enabled = true, name = "default", path = "randomizer" },
+]
+
+# When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
+# debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
+# is probably not for you.
+[extension.scylla_hide]
+enabled = false
+```
+
+> <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it    
+
+![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
+
+> 17. Save the changes.
+
+</details>
+
 </details>
 
 <details markdown="block">
