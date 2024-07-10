@@ -51,7 +51,7 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
-<br />
+
 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.<br />
 <br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
@@ -69,7 +69,7 @@ Make sure that you have:
 <details markdown="block">
   <summary>Where is my Game folder</summary>
 
-<br />
+
 *Browser local files in steam.*
 
 1. Open Steam
