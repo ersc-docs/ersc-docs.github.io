@@ -257,6 +257,7 @@ save_file_extension = `co2`
 <details markdown="block">
 <summary>4. Adding aditional mods.</summary>
 
+<br />
 <b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
 
 <details markdown="block">
