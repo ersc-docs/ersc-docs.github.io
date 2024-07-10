@@ -330,7 +330,8 @@ Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will 
 
 6. Go back into your `ME2` folder and open the `config_eldenring.toml`
 
-7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step. Separate the `.dll` mods you are using with a `,`.
+7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step.\ 
+   Separate the `.dll` mods you are using with a `,`.
 
   ```
   # Global mod engine configuration
@@ -393,7 +394,8 @@ Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will 
 
 Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
-<b>THIS WILL MAKE YOU UNABLE TO LAUNCH VANILLA ELDEN RING IN OFFLINE MODE. UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.
+<b>THIS WILL MAKE YOU UNABLE TO LAUNCH VANILLA ELDEN RING IN OFFLINE MODE.\ 
+UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.</b>
 
 1. Download [Elden Ring Mod Loader](https://www.nexusmods.com/eldenring/mods/117)
 
@@ -403,7 +405,8 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 3. Download whatever `.dll` mod you want to use. I.ll be using the Posture bar mod as an example.
 
-4. Open the zip and navigate to where you can see the `.dll` file. Then drag and drop it's content into the `mods` folder located in your `Game` folder. 
+4. Open the zip and navigate to where you can see the `.dll` file.\  
+   Then drag and drop it's content into the `mods` folder located in your `Game` folder.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/fe2bf108-3377-4337-b4e1-a77a108b5cdd)
 
@@ -411,7 +414,8 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 6. Open `Elden Ring Mod Loader`'s `mod_loader_config.ini` file.
 
-7. Add the mods you have installed to your load order. Lowest number has highest load priority. Increase the load delay if some `.dll` mods fail to load properly.
+7. Add the mods you have installed to your load order. Lowest number has highest load priority.\
+   Increase the load delay if some `.dll` mods fail to load properly.
 
 
     ```
@@ -466,7 +470,8 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
 
-12. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
+12. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish.\ 
+    If you uncheck a tab the `Randomize` button will reflect this.
 
 
 13. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
@@ -500,13 +505,15 @@ It should look like this.
     enabled = false
     ```
 
+18. Save the changes
 
-   <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment. 
-    You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
+
+<b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment.\
+You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
 
-18. Save the changes.
+
 
 </details>
 
