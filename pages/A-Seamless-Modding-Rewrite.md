@@ -102,57 +102,58 @@ For optimal experience, all players should use the same mods together - with the
 > 2.2 Open the `ersc_settings.ini` file with text editor of choise.
 > 
 > 2.3 Change the settings to your/your groups liking and set a password.
+
 ```
 [GAMEPLAY]
 
-  ; Invaders are other players that will join your world uninvited and try to kill you and your party.  0=FALSE  1=TRUE
-  allow_invaders = 1
-  
-  ; Debuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire.  0=FALSE  1=TRUE
-  death_debuffs = 1
-  
-  ; Spirit summons can aid you in multiplayer.  0=FALSE  1=TRUE
-  allow_summons = 1
-  
-  ; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level | 4 = Display player death count
-  overhead_player_display = 0
-  
-  
-  [SCALING]
-  
-  ; Amount of enemy health (%) per player for each enemy. (Default: 35 = 35% more enemy health per player)
-  enemy_health_scaling = 35
-  
-  ; Amount of enemy damage (%) per player for each enemy. (Default: 0 = 0% more enemy damage per player)
-  enemy_damage_scaling = 0
-  
-  ; Amount of enemy posture absorption (%) per player for each enemy. (Default: 15 = 15% more per player)
-  enemy_posture_scaling = 15
-  
-  ; Amount of boss health (%) per player for bosses. (Default: 100 = 100% more boss health per player)
-  boss_health_scaling = 100
-  
-  ; Amount of enemy damage (%) per player for bosses. (Default: 0 = 0% more enemy damage towards players, per player)
-  boss_damage_scaling = 0
-  
-  ; Amount of boss posture absorption (%) per player for bosses. (Default: 20 = 20% more boss posture per player)
-  boss_posture_scaling = 20
-  
-  [PASSWORD]
-  
-  ; Session password
-  cooppassword = I Made A Password
-  
-  [SAVE]
-  
-  ;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
-  save_file_extension = co2
-  
-  [LANGUAGE]
-  
-  ;Leave this blank unless you want to load a custom locale file. The mod will default to your game language.
-  mod_language_override = 
- ```
+; Invaders are other players that will join your world uninvited and try to kill you and your party.  0=FALSE  1=TRUE
+allow_invaders = 1
+
+; Debuffs (Rot Essence) will be acquired when you die, and will only be cured when you sit at a bonfire.  0=FALSE  1=TRUE
+death_debuffs = 1
+
+; Spirit summons can aid you in multiplayer.  0=FALSE  1=TRUE
+allow_summons = 1
+
+; 0 = Normal | 1 = None | 2 = Display player ping | 3 = Display player soul level | 4 = Display player death count
+overhead_player_display = 0
+
+
+[SCALING]
+
+; Amount of enemy health (%) per player for each enemy. (Default: 35 = 35% more enemy health per player)
+enemy_health_scaling = 35
+
+; Amount of enemy damage (%) per player for each enemy. (Default: 0 = 0% more enemy damage per player)
+enemy_damage_scaling = 0
+
+; Amount of enemy posture absorption (%) per player for each enemy. (Default: 15 = 15% more per player)
+enemy_posture_scaling = 15
+
+; Amount of boss health (%) per player for bosses. (Default: 100 = 100% more boss health per player)
+boss_health_scaling = 100
+
+; Amount of enemy damage (%) per player for bosses. (Default: 0 = 0% more enemy damage towards players, per player)
+boss_damage_scaling = 0
+
+; Amount of boss posture absorption (%) per player for bosses. (Default: 20 = 20% more boss posture per player)
+boss_posture_scaling = 20
+
+[PASSWORD]
+
+; Session password
+cooppassword = I Made A Password
+
+[SAVE]
+
+;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
+save_file_extension = co2
+
+[LANGUAGE]
+
+;Leave this blank unless you want to load a custom locale file. The mod will default to your game language.
+mod_language_override = 
+```
 
 > 2.4 When you are done `Save` the changes.
 > 
@@ -163,77 +164,77 @@ For optimal experience, all players should use the same mods together - with the
 > <b>Optional</b> You can cahnge the save file extension you use for a save depending on what mod you use.
 ```
 [SAVE]
-  
-  ;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
-  save_file_extension = `co2`
+
+;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
+save_file_extension = `co2`
 ```
 > and change wher it says `co2` into as an example `Moddedco2`, then make a copy of your `ER0000.co2` file and rename the copy into `ER0000.Moddedco2`. 
 > This will separate Seamless Coop only saves and saves using other mods so you dont accidently open them up and lose a lot of modded items on those characters.
 
 </details>
     
-  <details markdown="block">
-  <summary>3. Seting up Mod Engine 2</summary>
-  
-  > 3.1 Open your `ME2` folder. 
-  > 
-  > 3.2 Open the `config_eldenring.toml` with your prefered text editor.
-  > 
-  > 3.3 Copy and paste `external_dlls = [ "SeamlessCoop/ersc.dll" ]` into your `config_eldenring.toml` in the location shown below.
-  > 
-  ```
-  # Global mod engine configuration
-  [modengine]
-  # If set to true the debug console will appear while the game is running
-  debug = false
-  
-  # List of files that will be loaded into the game as DLL mods.
-  # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod.dll, you must enter
-  # the path in the config as "E:\\coolstuff\\coolmod.dll".
-  # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod.dll" will tell
-  # Mod Engine 2 to look for the directory mod inside the Mod Engine 2 directory with the launcher.
-  #
-  # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
-  # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
-  <b><u>external_dlls = [ "SeamlessCoop/ersc.dll" ]</u></b>
-  
-  # Mod loader configuration
-  [extension.mod_loader]
-  enabled = true
-  
-  # Not currently supported for Elden Ring
-  loose_params = false
-  
-  # List of directories that contain modded files in order of prioritization. Inside each specified mod directory must have the game
-  # assets in Fromsoft's asset structure. I.e. if you mod parts/something.partsbnd.dcx, the modded version must be at mod/parts/something.partsbnd.dcx.
-  # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod, you must enter
-  # the path in the config as "E:\\coolstuff\\coolmod".
-  # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod" will tell
-  # modengine 2 to look for the directory mod inside the mod engine 2 directory with the launcher.
-  #
-  # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
-  # mods = [
-  #    { enabled = true, name = "coolmod", path = "mod1" },
-  #    { enabled = true, name = "nicemod", path = "mod2" },
-  #    { enabled = true, name = "sosomod", path = "mod3" }
-  # ]
-  # Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
-  # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
-  # a future release.
-  mods = [
-  { enabled = true, name = "default", path = "mod"}
-  
-  ]
-  
-  # When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
-  # debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
-  # is probably not for you.
-  [extension.scylla_hide]
-  enabled = false
-  ```
-   
-  > 3.4 Save the changes.
-  </details>
+<details markdown="block">
+<summary>3. Seting up Mod Engine 2</summary>
+
+> 3.1 Open your `ME2` folder. 
+> 
+> 3.2 Open the `config_eldenring.toml` with your prefered text editor.
+> 
+> 3.3 Copy and paste `external_dlls = [ "SeamlessCoop/ersc.dll" ]` into your `config_eldenring.toml` in the location shown below.
+> 
+```
+# Global mod engine configuration
+[modengine]
+# If set to true the debug console will appear while the game is running
+debug = false
+
+# List of files that will be loaded into the game as DLL mods.
+# Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod.dll, you must enter
+# the path in the config as "E:\\coolstuff\\coolmod.dll".
+# If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod.dll" will tell
+# Mod Engine 2 to look for the directory mod inside the Mod Engine 2 directory with the launcher.
+#
+# Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
+# external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
+<b><u>external_dlls = [ "SeamlessCoop/ersc.dll" ]</u></b>
+
+# Mod loader configuration
+[extension.mod_loader]
+enabled = true
+
+# Not currently supported for Elden Ring
+loose_params = false
+
+# List of directories that contain modded files in order of prioritization. Inside each specified mod directory must have the game
+# assets in Fromsoft's asset structure. I.e. if you mod parts/something.partsbnd.dcx, the modded version must be at mod/parts/something.partsbnd.dcx.
+# Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod, you must enter
+# the path in the config as "E:\\coolstuff\\coolmod".
+# If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod" will tell
+# modengine 2 to look for the directory mod inside the mod engine 2 directory with the launcher.
+#
+# Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
+# mods = [
+#    { enabled = true, name = "coolmod", path = "mod1" },
+#    { enabled = true, name = "nicemod", path = "mod2" },
+#    { enabled = true, name = "sosomod", path = "mod3" }
+# ]
+# Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
+# will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
+# a future release.
+mods = [
+{ enabled = true, name = "default", path = "mod"}
+
+]
+
+# When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
+# debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
+# is probably not for you.
+[extension.scylla_hide]
+enabled = false
+```
+
+> 3.4 Save the changes.
+</details>
     
     
 <details markdown="block">
