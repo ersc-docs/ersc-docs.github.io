@@ -28,7 +28,8 @@ For optimal experience, all players should use the same mods together - with the
 >
 >
 > A guide on how to setup Seamless Coop with ModEngine 2 + other mods. 
->
+> &nbsp;
+> &nbsp;
 > **Required**
 >
 > You MUST launch Seamless Coop with either the launcher or ModEngine2. DLL injectors like Elden Mod Loader and Lazy Loader won't work.
