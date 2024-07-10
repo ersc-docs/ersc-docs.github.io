@@ -17,7 +17,7 @@ For optimal experience, all players should use the same mods together - with the
 > <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
 
 <details markdown="block">
-<summary>Windows</summary>
+  <summary>Windows</summary>
 
 
 > <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**. If some file names do not match what you're seeing, please turn this setting on in File Explorer:  
@@ -26,7 +26,7 @@ For optimal experience, all players should use the same mods together - with the
 
 
 <details markdown="block">
-<summary>Mod Engine 2 only</summary>
+  <summary>Mod Engine 2 only</summary>
 
 >
 > A guide on how to setup ModEngine 2 with Seamless Coop
@@ -47,7 +47,7 @@ Make sure that you have:
 
 
 <details markdown="block">
-<summary>1. Where to put the files.</summary>
+  <summary>1. Where to put the files.</summary>
 
 > 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
 >
@@ -62,7 +62,7 @@ Make sure that you have:
 > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
 <details markdown="block">
-<summary>Where is my Game folder</summary>
+  <summary>Where is my Game folder</summary>
 
 > *Browser local files in steam.*
 >
@@ -96,7 +96,7 @@ Make sure that you have:
 </details>
 
 <details markdown="block">
-<summary>2. Set a Password and configure the ersc_settings.ini</summary>
+  <summary>2. Set a Password and configure the ersc_settings.ini</summary>
 
 > 2.1 Open your `SeamlessCoop` folder in your `ME2` folder. 
 > 
@@ -175,7 +175,7 @@ save_file_extension = `co2`
 </details>
 
 <details markdown="block">
-<summary>3. Seting up Mod Engine 2</summary>
+  <summary>3. Seting up Mod Engine 2</summary>
 
 > 3.1 Open your `ME2` folder. 
 > 
@@ -240,12 +240,12 @@ enabled = false
 
 
 <details markdown="block">
-<summary>4. Adding aditional mods.</summary>
+  <summary>4. Adding aditional mods.</summary>
 
 > <b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
 
 <details markdown="block">
-<summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
+  <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
 
 > `File based` mods are mods that would have to replace game file to function, which we get around by using `Mod Engein 2` to launch the game. 
 > This means that if you are using 2 mods that are file based they may replace eachothers files which can and most likely will cause issues.
@@ -255,7 +255,7 @@ enabled = false
 </details>
 
 <details markdown="block">
-<summary>How do I know if it's a file based mod or a .dll mod?</summary>
+  <summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
 > `File based` mods are usually overhauls like Clever's moveset packs, Convergence and Elden Ring Reforged or something like a armor replacer but can also be simple edits to the `regulation.bin`. 
 > Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
@@ -267,7 +267,7 @@ enabled = false
 </details>
 
 <details markdown="block">
-<summary>My mod is a file based mod.</summary>
+  <summary>My mod is a file based mod.</summary>
 
 > <b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
 > 
@@ -300,7 +300,7 @@ enabled = false
 </details>
 
 <details markdown="block">
-<summary>My mod is a .dll mod.</summary>
+  <summary>My mod is a .dll mod.</summary>
 
 > You can use `Mod Engine 2` or `Elden Ring Mod Loader` for `.ddl` mods.
 > 
@@ -330,6 +330,7 @@ enabled = false
 > 6. Go back into your `ME2` folder and open the `config_eldenring.toml`
 > 
 > 7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step. Separate the `.dll` mods you are using with a `,`.
+
 ```
 # Global mod engine configuration
 [modengine]
@@ -387,7 +388,7 @@ enabled = false
 </details>
 
 <details markdown="block">
-<summary>Using Mod Loader</summary>
+  <summary>Using Mod Loader</summary>
 
 > Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 > 
@@ -411,6 +412,7 @@ enabled = false
 > 
 > 7. Add the mods you have installed to your load order. Lowest number has highest load priority. Increase the load delay if some `.dll` mods fail to load properly.
 > 
+
 ```
 [modloader]
 load_delay = 5000
@@ -419,6 +421,7 @@ show_terminal = 0
 [loadorder]
 PostureBarMod.dll.dll = 1
 ```
+
 > 8. Save the changes when you are done.
 
 </details>
@@ -428,7 +431,7 @@ PostureBarMod.dll.dll = 1
 </details>
 
 <details markdown="block">
-<summary>5. Launching the game</summary>
+  <summary>5. Launching the game</summary>
 
 > 5.1 Open your `ME2` folder located in your `Game` folder.
 > 
