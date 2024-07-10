@@ -25,8 +25,6 @@ For optimal experience, all players should use the same mods together - with the
 
 
 
-<details markdown="block">
-  <summary>Mod Engine 2 only</summary>
 
 >
 > A guide on how to setup ModEngine 2 with Seamless Coop
@@ -521,7 +519,7 @@ enabled = false
 
 </details>
 
-</details>
+
 
 
 </details>
