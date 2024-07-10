@@ -95,7 +95,7 @@ For optimal experience, all players should use the same mods together - with the
 </details>
     
 <details markdown="block">
-<summary>2. Set a Password and configure `ersc_settings.ini`</summary>
+<summary>2. Set a Password and configure the ersc_settings.ini</summary>
     
 > 2.1 Open your `SeamlessCoop` folder in your `ME2` folder. 
 > 
