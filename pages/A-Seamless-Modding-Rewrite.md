@@ -472,6 +472,7 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
 
+{:start="13"}
 13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
 
 14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
@@ -502,6 +503,7 @@ enabled = false
 
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
+{:start="17"}
 17. Save the changes.
 
 </details>
