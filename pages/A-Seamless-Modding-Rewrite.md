@@ -47,14 +47,16 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
- 1.1
-  Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
+ 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
+  
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
- 1.2
-  Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
+ 
+ 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
+  
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
  1.3 Place the `ME2` folder into your `Game` folder. 
+  
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
 <details markdown="block">
@@ -232,7 +234,7 @@ mods = [
 enabled = false
 ```
 
-> 3.4 Save the changes.
+3.4 Save the changes.
 
 </details>
 
@@ -476,7 +478,7 @@ PostureBarMod.dll.dll = 1
 
   15. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
 
-  16. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
+    16. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
 
  It should look like this.
 
@@ -500,7 +502,7 @@ enabled = false
 
 ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
- 17. Save the changes.
+    17. Save the changes.
 
 </details>
 
