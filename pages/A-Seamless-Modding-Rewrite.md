@@ -19,6 +19,7 @@ For optimal experience, all players should use the same mods together - with the
 <details markdown="block">
 <summary>Windows</summary>
 
+
 > <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**. If some file names do not match what you're seeing, please turn this setting on in File Explorer:  
 <a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
 
@@ -26,6 +27,7 @@ For optimal experience, all players should use the same mods together - with the
 
 <details markdown="block">
 <summary>Mod Engine 2 only</summary>
+
 
 > A guide on how to setup ModEngine 2 with Seamless Coop
 >
