@@ -51,14 +51,16 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
-1.1 Extract `Mod Engine 2` using your prefered file archiver. <br />
- Like [7zip](https://www.7-zip.org/download.html) as an example.<br />
+1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.<br />
+<br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
  
 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`<br />
+<br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
 1.3 Place the `ME2` folder into your `Game` folder. <br />
+<br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/268b828a-51e9-4d8d-bc03-6b5ff8b519ea)
 
 
