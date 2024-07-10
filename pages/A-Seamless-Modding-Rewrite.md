@@ -418,6 +418,6 @@ PostureBarMod.dll.dll = 1
 
 </details>
 
-</details>
+
 
 
