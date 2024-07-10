@@ -330,7 +330,7 @@ Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will 
 
 6. Go back into your `ME2` folder and open the `config_eldenring.toml`
 
-7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step.\ 
+7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step.<br /> 
    Separate the `.dll` mods you are using with a `,`.
 
   ```
@@ -414,7 +414,7 @@ UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.</b>
 
 6. Open `Elden Ring Mod Loader`'s `mod_loader_config.ini` file.
 
-7. Add the mods you have installed to your load order. Lowest number has highest load priority.\
+7. Add the mods you have installed to your load order. Lowest number has highest load priority.<br />
    Increase the load delay if some `.dll` mods fail to load properly.
 
 
@@ -470,7 +470,7 @@ UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.</b>
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
 
-12. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish.\ 
+12. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish.<br /> 
     If you uncheck a tab the `Randomize` button will reflect this.
 
 
@@ -508,7 +508,7 @@ It should look like this.
 18. Save the changes
 
 
-<b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment.\
+<b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment.<br />
 You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
