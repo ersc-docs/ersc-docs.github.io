@@ -158,11 +158,11 @@ mod_language_override =
 
 > 2.4 When you are done `Save` the changes.
 > 
-> <b>Note:</b> Host's `ersc_settings.ini` determins the worlds `Scaling`, `Player Invasions`, `Rot` and `Spirit Summons`
+> <b>Note:</b> Host's `ersc_settings.ini` determins the worlds `Scaling`, `Player Invasions`, `Rot` and `Spirit Summons`.
 > 
-> <b>Note2:</b> You need to set the password in this location, When you are using Mod Engine 2 to launch the game.
+> <b>Note2:</b> You need to set the password in this location, When you are using `Mod Engine 2` to launch the game.
 > 
-> <b>Optional</b> You can cahnge the save file extension you use for a save depending on what mod you use.
+> <b>Optional</b> You can change the save file extension you use for a save depending on what mods you use.
 
 ```
 [SAVE]
@@ -170,7 +170,8 @@ mod_language_override =
 ;Your save file extension (in the vanilla game this is .sl2). Use any alphanumeric characters (limit = 120)
 save_file_extension = `co2`
 ```
-> and change wher it says `co2` into as an example `Moddedco2`, then make a copy of your `ER0000.co2` file and rename the copy into `ER0000.Moddedco2`. 
+
+> Change where it says `co2` into as an example `Moddedco2`, then make a copy of your `ER0000.co2` file and rename the copy into `ER0000.Moddedco2`. 
 > This will separate Seamless Coop only saves and saves using other mods so you dont accidently open them up and lose a lot of modded items on those characters.
 
 </details>
