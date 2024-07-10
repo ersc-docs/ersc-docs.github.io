@@ -258,7 +258,8 @@ save_file_extension = `co2`
 <summary>4. Adding aditional mods.</summary>
 
 <br />
-<b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
+<b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b>
+<br />
 
 <details markdown="block">
 <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
