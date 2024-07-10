@@ -51,6 +51,7 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
+<br />
 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.<br />
 <br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
@@ -68,7 +69,8 @@ Make sure that you have:
 <details markdown="block">
   <summary>Where is my Game folder</summary>
 
- *Browser local files in steam.*
+<br />
+*Browser local files in steam.*
 
 1. Open Steam
   
@@ -89,18 +91,18 @@ Which will make it available in the left side of the file explorer under Quick a
 
 </details>
 
- 1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
+1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
  
- 1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
+1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
  
- 1.6 Place the `SeamlessCoop` folder into the `ME2` folder that is in your `Game` folder.
+1.6 Place the `SeamlessCoop` folder into the `ME2` folder that is in your `Game` folder.
+<br />
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/e79276d1-956b-499d-8ea5-2296a8c663cf)
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/e79276d1-956b-499d-8ea5-2296a8c663cf)
-
- 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. <br />
- They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
-
- ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
+1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. <br />
+They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
+<br />
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
 
 </details>
 
@@ -273,6 +275,7 @@ save_file_extension = `co2`
 <details markdown="block">
   <summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
+<br />
  `File based` mods are usually overhauls like <br />
  Clever's moveset packs, Convergence and Elden Ring Reforged<br />
  or something like a armor replacer but can also be simple edits to the `regulation.bin`.<br /> 
@@ -289,6 +292,7 @@ save_file_extension = `co2`
 <details markdown="block">
   <summary>My mod is a file based mod.</summary>
 
+<br />
 <b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
  
 1. Open the zip file you have downloaded with prefered file archiver,<br /> 
@@ -338,6 +342,7 @@ It could also mean that the mod is outdated</b>
 <details markdown="block">
 <summary>Using `Mod Engine 2`</summary>
 
+<br />
 1. Download what ever .dll mod you want to use. I.ll be using the Posture bar mod as an example.
 
 2. Open the downloaded zip and navigate to where you see it's `.dll` file. 
@@ -420,6 +425,7 @@ It could also mean that the mod is outdated</b>
 <details markdown="block">
 <summary>Using Mod Loader</summary>
 
+<br />
 Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 <b>THIS WILL MAKE YOU UNABLE TO LAUNCH VANILLA ELDEN RING IN OFFLINE MODE.\ 
@@ -464,6 +470,7 @@ UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.</b>
 <details markdown="block">
 <summary>I want to use a randomizer</summary>
 
+<br />
 1. Download [Elden Ring Item Randomizer]()
 
 2. Open the zip file you downloaded with your prefered file archiver.
@@ -537,7 +544,8 @@ It should look like this.
 
 
 <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment.<br />
-You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.    
+You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it.
+<br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
 
@@ -553,6 +561,7 @@ You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launch
 5.1 Open your `ME2` folder located in your `Game` folder.
 
 5.2 Launch the game with the `launchmod_eldenring.bat`
+<br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
 
 </details>
