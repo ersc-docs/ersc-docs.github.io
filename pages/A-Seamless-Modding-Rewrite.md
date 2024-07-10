@@ -12,7 +12,8 @@ nav_order: 6
 ## INSTALLATION GUIDE:  
 This guide will go over using Seamless Coop in conjunction with other mods. If you want to just use seamless coop with no other mods follow [How to install](https://ersc-docs.github.io/how-to-install-and-update/) instead.
 For optimal experience, all players should use the same mods together - with the exception for visual mods, which can remain personal.
-
+&nbsp;
+&nbsp;
  <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.  
  <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
 
@@ -28,8 +29,8 @@ For optimal experience, all players should use the same mods together - with the
 >
 >
 > A guide on how to setup Seamless Coop with ModEngine 2 + other mods. 
-> &nbsp;
-> &nbsp;
+> 
+> 
 > **Required**
 >
 > You MUST launch Seamless Coop with either the launcher or ModEngine2. DLL injectors like Elden Mod Loader and Lazy Loader won't work.
