@@ -422,6 +422,7 @@ PostureBarMod.dll.dll = 1
 </details>
 
 </details>
+
 <details markdown="block">
 <summary>5. Launching the game</summary>
 
