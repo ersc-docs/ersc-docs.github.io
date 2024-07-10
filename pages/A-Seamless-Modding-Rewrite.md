@@ -429,20 +429,20 @@ PostureBarMod.dll.dll = 1
 <details markdown="block">
   <summary>I want to use a randomizer</summary>
 
->  1. n Download [Elden Ring Item Randomizer]()
->
+>  1. d Download [Elden Ring Item Randomizer]()
+  >
 >  2. Open the zip file you downloaded with your prefered file archiver.
->
+  >
 >  3. Drag and drop the `randomizer` folder into your `ME2` folder located in your `Game` folder.
->
+  >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/6744e648-8425-4d3d-ba37-c5e0b81cf256)
->
+  >
 >  4. Open the `randomizer` folder and run the `EldenRingRandomizer.exe`.
->
+  >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1077db6e-6c5f-4bea-80fd-fb15e4aa9853)
->
+  >
 >  5. In the Randomizer window click on `Select game exe`
->
+  >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/79ee827b-822c-4b02-997a-bdbdc5fb3763)
 >
 >  6. Navigate to your `Game` folder, select the `eldenring.exe` and press `Open`.
