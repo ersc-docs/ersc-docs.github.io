@@ -429,7 +429,7 @@ PostureBarMod.dll.dll = 1
 <details markdown="block">
   <summary>I want to use a randomizer</summary>
 
->  1. Download [Elden Ring Item Randomizer]()
+>  1. n Download [Elden Ring Item Randomizer]()
 >
 >  2. Open the zip file you downloaded with your prefered file archiver.
 >
