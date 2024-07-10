@@ -199,7 +199,7 @@ debug = false
 #
 # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
 # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
-<b><u>external_dlls = [ "SeamlessCoop/ersc.dll" ]</u></b>
+external_dlls = [ "SeamlessCoop/ersc.dll" ]
 
 # Mod loader configuration
 [extension.mod_loader]
@@ -347,7 +347,7 @@ debug = false
 #
 # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
 # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
-<b>external_dlls = ["SeamlessCoop/ersc.dll", "dllMods/PostureBarMod.dll"]</b>
+<bexternal_dlls = ["SeamlessCoop/ersc.dll", "dllMods/PostureBarMod.dll"]
 
 # Mod loader configuration
 [extension.mod_loader]
