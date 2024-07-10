@@ -54,8 +54,8 @@ For optimal experience, all players should use the same mods together - with the
         >
         > 1.3 Place the `ME2` folder into your `Game` folder. 
         > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
-        >
-        > <details markdown="block">
+        
+        <details markdown="block">
           <summary>Where is my `Game` folder?</summary>
 
           > *Browser local files in steam.*
@@ -71,7 +71,8 @@ For optimal experience, all players should use the same mods together - with the
           > You can pin the `Game` folder to `Quick acces` by right clicking the `Game` folder -> `Pin to Quick acces`. Which will make it available in the left side of the file explorer under Quick acces.
           > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/50750f3b-2030-4248-ad9a-a225a44ab415)
           
-          </details>
+        </details>
+        
         >
         > 1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
         > 
@@ -83,7 +84,7 @@ For optimal experience, all players should use the same mods together - with the
         > 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
         > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
        
-        </details>
+      </details>
 
       <details markdown="block">
         <summary>2. Set a Password and configure `ersc_settings.ini`</summary>
