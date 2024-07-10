@@ -10,17 +10,20 @@ nav_order: 6
 # Using Seamless Coop with other mods.
 
 ## INSTALLATION GUIDE:  
-This guide will go over using Seamless Coop in conjunction with other mods. If you want to just use seamless coop with no other mods follow [How to install](https://ersc-docs.github.io/how-to-install-and-update/) instead.
+This guide will go over using Seamless Coop in conjunction with other mods.<br /> 
+If you want Seamless coop with no other mods follow [How to install](https://ersc-docs.github.io/how-to-install-and-update/) instead.<br />
 For optimal experience, all players should use the same mods together - with the exception for visual mods, which can remain personal.
 
- <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.  
+ <u><b>IMPORTANT NOTE</b></u>: Mods have to be compatible with the version of Elden Ring you're using. <br />
+ Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.<br />  
  <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
 
 <details markdown="block">
   <summary>Windows</summary>
 
 
-  <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**. If some file names do not match what you're seeing, please turn this setting on in File Explorer:  
+  <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**.<br /> 
+  If some file names do not match what you're seeing, please turn this setting on in File Explorer:<br />  
  <a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
 
 
@@ -31,7 +34,8 @@ For optimal experience, all players should use the same mods together - with the
  
  **Required**
 
- You MUST launch Seamless Coop with either the launcher or ModEngine2. DLL injectors like Elden Mod Loader and Lazy Loader won't work.
+ You MUST launch Seamless Coop with either the launcher or ModEngine2.<br /> 
+ DLL injectors like Elden Mod Loader and Lazy Loader won't work.
 
 
 ## Files you need
@@ -47,7 +51,8 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
- 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
+ 1.1 Extract `Mod Engine 2` using your prefered file archiver. <br />
+ Like [7zip](https://www.7-zip.org/download.html) as an example.
   
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
  
@@ -73,7 +78,9 @@ Make sure that you have:
 
  This will open your `Elden Ring` folder and inside it is the `Game` Folder. 
  
- You can pin the `Game` folder to `Quick acces` by right clicking the `Game` folder -> `Pin to Quick acces`. Which will make it available in the left side of the file explorer under Quick acces.
+ You can pin the `Game` folder to `Quick acces` <br />
+ by right clicking the `Game` folder -> `Pin to Quick acces`. <br />
+ Which will make it available in the left side of the file explorer under Quick acces.
 
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/50750f3b-2030-4248-ad9a-a225a44ab415)
 
@@ -87,7 +94,8 @@ Make sure that you have:
 
   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/e79276d1-956b-499d-8ea5-2296a8c663cf)
 
- 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
+ 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. <br />
+ They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
 
  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
 
@@ -169,8 +177,10 @@ mod_language_override =
 save_file_extension = `co2`
 ```
 
- Change where it says `co2` into as an example `Moddedco2`, then make a copy of your `ER0000.co2` file and rename the copy into `ER0000.Moddedco2`. 
- This will separate Seamless Coop only saves and saves using other mods so you dont accidently open them up and lose a lot of modded items on those characters.
+ Change where it says `co2` into as an example `Moddedco2`,<br /> 
+ then make a copy of your `ER0000.co2` file and rename the copy into `ER0000.Moddedco2`.<br /> 
+ This will separate Seamless Coop only saves and saves using other mods.<br />
+ So you dont accidently open them up and lose a lot of modded items on those characters.
 
 </details>
 
@@ -247,22 +257,29 @@ save_file_extension = `co2`
 <details markdown="block">
 <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
 
-`File based` mods are mods that would have to replace game file to function, which we get around by using `Mod Engein 2` to launch the game. 
-  This means that if you are using 2 mods that are file based they may replace eachothers files which can and most likely will cause issues.
+`File based` mods are mods that would have to replace game file to function,<br />
+ which we get around by using `Mod Engein 2` to launch the game.<br /> 
+ This means that if you are using 2 mods that are file based<br />
+ they may replace eachothers files which can and most likely will cause issues.
  
  
 `.dll` mods are mods that need to be injected into the game to function and would not replace game files.
+
 </details>
 
 <details markdown="block">
   <summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
- `File based` mods are usually overhauls like Clever's moveset packs, Convergence and Elden Ring Reforged or something like a armor replacer but can also be simple edits to the `regulation.bin`. 
+ `File based` mods are usually overhauls like <br />
+ Clever's moveset packs, Convergence and Elden Ring Reforged<br />
+ or something like a armor replacer but can also be simple edits to the `regulation.bin`.<br /> 
    Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
  
- `.dll` mods will generally speaking only have a .dll file, a config file aka a .ini file. The .ini file may be in a folder sometimes. The can also come with it's own .exe file like Seamless Coop.
+ `.dll` mods will generally speaking only have a .dll file, a config file aka a .ini file.<br />
+ The .ini file may be in a folder sometimes. The can also come with it's own .exe file like Seamless Coop.
  
- You can `preview` what files a mod has on NexusMods before downloading by going to the mods `file` page and click on `Preview file contents`. 
+ You can `preview` what files a mod has on NexusMods before downloading<br />
+ by going to the mods `file` page and click on `Preview file contents`. 
 
 </details>
 
@@ -271,7 +288,8 @@ save_file_extension = `co2`
 
 <b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
  
-1. Open the zip file you have downloaded with prefered file archiver. by selecting open archive or double left clicking.
+1. Open the zip file you have downloaded with prefered file archiver,<br /> 
+   by selecting open archive or double clicking.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/b9ffedb1-c36f-4c47-b934-2f62d007c7df)
  
@@ -285,11 +303,14 @@ save_file_extension = `co2`
  
 5. The mod is now installed.
  
-<b><u>NOTE:</u></b> You can only have one `regulation.bin` mod at a time. Aka mods that come with a `regulation.bin` file.
+<b><u>NOTE:</u></b> You can only have one `regulation.bin` mod at a time.<br /> 
+Aka mods that come with a `regulation.bin` file.
  
-<b><u>NOTE2:</u></b> Only you will see the texture and modle modifications you are using. 
-  If you are using `parts` mods like armor and weapon mods and you want it to be shown on the other players in your session when they wear this equipment.
-  Make sure that the `parts` files in your `parts` folder come with a regular version and a `_l` version. (`l` is a lowercase `L`)
+<b><u>NOTE2:</u></b> Only you will see the texture and modle modifications you are using.<br /> 
+  If you are using `parts` mods like armor and weapon mods<br />
+  and you want it to be shown on the other players in your session when they wear this equipment.<br />
+  Make sure that the `parts` files in your `parts` folder<br />
+  come with a regular version and a `_l` version. (`l` is a lowercase `L`)
 
    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d436a59f-031e-46fa-b923-cb6067f729c9)
  
@@ -307,7 +328,9 @@ You can use `Mod Engine 2` or `Elden Ring Mod Loader` for `.ddl` mods.
 
 Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will only work with `Elden Ring Mod Loader`.
 
-<b>If the `.dll` mod you are using is giving a Error saying "Could not find signature!" try loading it last in `Mod Engine 2` or try using `Elden Ring Mod Loader` and making a load order in . It could also mean that the mod is outdated</b>
+<b>If the `.dll` mod you are using is giving a Error saying "Could not find signature!"<br />
+try loading it last in `Mod Engine 2` or try using `Elden Ring Mod Loader` and making a load order in .<br />
+It could also mean that the mod is outdated</b>
 
 <details markdown="block">
 <summary>Using `Mod Engine 2`</summary>
@@ -320,17 +343,19 @@ Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will 
  
 3. Go to your `ME2` folder in your `Game` folder.
 
-4. Make a new folder and name it into `dllMods`. (You can name the folder to whatever you want, if you do replace `ddMods` with what ever you named the folder into)
+4. Make a new folder and name it into `dllMods`.<br /> 
+  (You can name the folder to whatever you want,<br />
+   if you do replace `ddMods` with what ever you named the folder into)
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/30b9991b-4d33-4797-a276-ac54d079468b)
 
-5. Drag and drop the `.dll` mods content into the `dllMods` folder.
+6. Drag and drop the `.dll` mods content into the `dllMods` folder.
 
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/10820f1a-17bc-4b19-8b0a-5bbae3132854)
 
-6. Go back into your `ME2` folder and open the `config_eldenring.toml`
+7. Go back into your `ME2` folder and open the `config_eldenring.toml`
 
-7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step.<br /> 
+8. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step.<br /> 
    Separate the `.dll` mods you are using with a `,`.
 
   ```
