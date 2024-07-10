@@ -277,7 +277,7 @@ save_file_extension = `co2`
 <details markdown="block">
   <summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
-<br />
+
  `File based` mods are usually overhauls like <br />
  Clever's moveset packs, Convergence and Elden Ring Reforged<br />
  or something like a armor replacer but can also be simple edits to the `regulation.bin`.<br /> 
@@ -472,7 +472,7 @@ UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.</b>
 <details markdown="block">
 <summary>I want to use a randomizer</summary>
 
-<br />
+
 1. Download [Elden Ring Item Randomizer]()
 
 2. Open the zip file you downloaded with your prefered file archiver.
