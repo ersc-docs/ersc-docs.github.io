@@ -47,16 +47,14 @@ Make sure that you have:
 <details markdown="block">
   <summary>1. Where to put the files.</summary>
 
-> 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
->
+> 1.1
+>  Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
->
-> 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
->
+> 1.2
+>  Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 >
 > 1.3 Place the `ME2` folder into your `Game` folder. 
->
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
 <details markdown="block">
@@ -431,54 +429,54 @@ PostureBarMod.dll.dll = 1
 <details markdown="block">
   <summary>I want to use a randomizer</summary>
 
-> 1. Download [Elden Ring Item Randomizer]()
+>  1. Download [Elden Ring Item Randomizer]()
 >
-> 2. Open the zip file you downloaded with your prefered file archiver.
+>  2. Open the zip file you downloaded with your prefered file archiver.
 >
-> 3. Drag and drop the `randomizer` folder into your `ME2` folder located in your `Game` folder.
+>  3. Drag and drop the `randomizer` folder into your `ME2` folder located in your `Game` folder.
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/6744e648-8425-4d3d-ba37-c5e0b81cf256)
 >
-> 4. Open the `randomizer` folder and run the `EldenRingRandomizer.exe`.
+>  4. Open the `randomizer` folder and run the `EldenRingRandomizer.exe`.
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1077db6e-6c5f-4bea-80fd-fb15e4aa9853)
 >
-> 5. In the Randomizer window click on `Select game exe`
+>  5. In the Randomizer window click on `Select game exe`
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/79ee827b-822c-4b02-997a-bdbdc5fb3763)
 >
-> 6. Navigate to your `Game` folder, select the `eldenring.exe` and press `Open`.
+>  6. Navigate to your `Game` folder, select the `eldenring.exe` and press `Open`.
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d2dac3bb-f90d-411b-b087-a7e3af1e65f4)
 >
-> 7. Change the settings to your likeing in the `Item Randomizer`, `Enemy Randomizer` and `Misc Options` tabs. 
+>  7. Change the settings to your likeing in the `Item Randomizer`, `Enemy Randomizer` and `Misc Options` tabs. 
 >
-> 8. If you want to use the Randomizer with other `file based` mods you can click on `Merge other mod`.
+>  8. If you want to use the Randomizer with other `file based` mods you can click on `Merge other mod`.
 >
-> <b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
+>  <b>NOTE:</b> Trying to use Randomizers merge option with mods that make map edits can cause the randmizer to fail to randomize and spit out an error.
 >
-> 9. In the pop up select the option that suites your needs but easiest is to just click `Select mod directory to merge`.
+>  9. In the pop up select the option that suites your needs but easiest is to just click `Select mod directory to merge`.
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/405aee65-af84-4bad-8aa4-6b795b0497b6)
 >
-> 10. Navigate to the `ME2` folder and click on the `mod` folder and then click on `Select Folder`.
+>  10. Navigate to the `ME2` folder and click on the `mod` folder and then click on `Select Folder`.
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
 >
-> 11. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
+>  11. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
 >
 > 
-> 12. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
+>  12. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
 >
 >  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
 >
-> 13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
+>  13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
 >
-> 14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
+>  14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
 >
-> 15. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
+>  15. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
 >
-> 16. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
+>  16. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
 >
 > It should look like this.
 
