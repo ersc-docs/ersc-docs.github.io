@@ -57,7 +57,7 @@ For optimal experience, all players should use the same mods together - with the
   > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
     
   <details markdown="block">
-    <summary>Where is my `Game` folder?</summary>
+    <summary>Where is my Game folder?</summary>
     
   > *Browser local files in steam.*
   >
@@ -235,7 +235,7 @@ For optimal experience, all players should use the same mods together - with the
 > <b><u> MAKE SURE TO READ THE MODS YOU WANT TO USE DESCRIPTION AND/OR READ ME</u></b> 
 
 <details markdown="block">
-<summary>What is the difference between what's refered to as `file based` mods and `.dll` mods?</summary>
+<summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
 
 > `File based` mods are mods that would have to replace game file to function, which we get around by using `Mod Engein 2` to launch the game. 
 > This means that if you are using 2 mods that are file based they may replace eachothers files which can and most likely will cause issues.
@@ -245,7 +245,7 @@ For optimal experience, all players should use the same mods together - with the
 </details>
 
 <details markdown="block">
-<summary>How do I know if it's a `file based` mod or a `.dll` mod?</summary>
+<summary>How do I know if it's a file based mod or a .dll mod?</summary>
 
 > `File based` mods are usually overhauls like Clever's moveset packs, Convergence and Elden Ring Reforged or something like a armor replacer but can also be simple edits to the `regulation.bin`. 
 > Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
@@ -256,7 +256,7 @@ For optimal experience, all players should use the same mods together - with the
 </details>
 
 <details markdown="block">
-<summary>My mod is a `file based` mod.</summary>
+<summary>My mod is a file based mod.</summary>
 
 > <b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
 > 
@@ -286,7 +286,7 @@ For optimal experience, all players should use the same mods together - with the
 </details>
 
 <details markdown="block">
-<summary>My mod is a `.dll` mod.</summary>
+<summary>My mod is a .dll mod.</summary>
 
 > You can use `Mod Engine 2` or `Elden Ring Mod Loader` for `.ddl` mods.
 > 
