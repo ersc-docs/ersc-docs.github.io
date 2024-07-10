@@ -17,86 +17,89 @@ For optimal experience, all players should use the same mods together - with the
 > <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
 
 <details markdown="block">
-  <summary>Windows</summary>
+<summary>Windows</summary>
 
-  > <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**. If some file names do not match what you're seeing, please turn this setting on in File Explorer:  
-  <a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
+> <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**. If some file names do not match what you're seeing, please turn this setting on in File Explorer:  
+<a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
 
 
-  
-  <details markdown="block">
-  <summary>Mod Engine 2 only</summary>
-    
-  > A guide on how to setup ModEngine 2 with Seamless Coop
-  >
-  > **Required**
-  >
-  > You MUST launch Seamless Coop with either the launcher or ModEngine2. DLL injectors like Elden Mod Loader and Lazy Loader won't work.
-  
-  
-  ## Files you need
-  Seamless Coop and ModEngine2.
-  
-  Make sure that you have:
-  - [ModEngine2](https://github.com/soulsmods/ModEngine2/releases/latest)
-  - [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510)
-    
-    ## Setup 
-    
-    
-  <details markdown="block">
-  <summary>1. Where to put the files.</summary>
-    
-  > 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
-  >
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
-  >
-  > 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
-  >
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
-  >
-  > 1.3 Place the `ME2` folder into your `Game` folder. 
-  >
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
-    
-  <details markdown="block">
-    <summary>Where is my Game folder?</summary>
-    
-  > *Browser local files in steam.*
-  >
-  > 1. Open Steam
-  > 2. Right click `Elden Ring`
-  > 3. Go down to `Manage`
-  > 4. Click on `Browser local files`
-  > 
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/4ec7754c-956a-4699-b53f-e458deb91ad1)
-  >
-  > This will open your `Elden Ring` folder and inside it is the `Game` Folder. 
-  > 
-  > You can pin the `Game` folder to `Quick acces` by right clicking the `Game` folder -> `Pin to Quick acces`. Which will make it available in the left side of the file explorer under Quick acces.
-  >
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/50750f3b-2030-4248-ad9a-a225a44ab415)
-      
+
+<details markdown="block">
+<summary>Mod Engine 2 only</summary>
+
+> A guide on how to setup ModEngine 2 with Seamless Coop
+>
+> **Required**
+>
+> You MUST launch Seamless Coop with either the launcher or ModEngine2. DLL injectors like Elden Mod Loader and Lazy Loader won't work.
+
+
+## Files you need
+Seamless Coop and ModEngine2.
+
+Make sure that you have:
+- [ModEngine2](https://github.com/soulsmods/ModEngine2/releases/latest)
+- [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510)
+
+## Setup 
+
+
+<details markdown="block">
+<summary>1. Where to put the files.</summary>
+
+
+> 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
+>
+> 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
+>
+> 1.3 Place the `ME2` folder into your `Game` folder. 
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
+
+<details markdown="block">
+<summary>Where is my Game folder</summary>
+
+
+> *Browser local files in steam.*
+>
+> 1. Open Steam
+> 2. Right click `Elden Ring`
+> 3. Go down to `Manage`
+> 4. Click on `Browser local files`
+> 
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/4ec7754c-956a-4699-b53f-e458deb91ad1)
+>
+> This will open your `Elden Ring` folder and inside it is the `Game` Folder. 
+> 
+> You can pin the `Game` folder to `Quick acces` by right clicking the `Game` folder -> `Pin to Quick acces`. Which will make it available in the left side of the file explorer under Quick acces.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/50750f3b-2030-4248-ad9a-a225a44ab415)
+
 </details>
-    
-    
-  > 1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
-  > 
-  > 1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
-  > 
-  > 1.6 Place the `SeamlessCoop` folder into the `ME2` folder that is in your `Game` folder.
-  >
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/e79276d1-956b-499d-8ea5-2296a8c663cf)
-  >
-  > 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
-  >
-  > ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
-    
+
+
+> 1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
+> 
+> 1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
+> 
+> 1.6 Place the `SeamlessCoop` folder into the `ME2` folder that is in your `Game` folder.
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/e79276d1-956b-499d-8ea5-2296a8c663cf)
+>
+> 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
+>
+> ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
+
 </details>
-    
+
 <details markdown="block">
 <summary>2. Set a Password and configure the ersc_settings.ini</summary>
-    
+
+
 > 2.1 Open your `SeamlessCoop` folder in your `ME2` folder. 
 > 
 > 2.2 Open the `ersc_settings.ini` file with text editor of choise.
@@ -172,9 +175,10 @@ save_file_extension = `co2`
 > This will separate Seamless Coop only saves and saves using other mods so you dont accidently open them up and lose a lot of modded items on those characters.
 
 </details>
-    
+
 <details markdown="block">
 <summary>3. Seting up Mod Engine 2</summary>
+
 
 > 3.1 Open your `ME2` folder. 
 > 
@@ -235,10 +239,11 @@ enabled = false
 
 > 3.4 Save the changes.
 </details>
-    
-    
+
+
 <details markdown="block">
 <summary>4. Adding aditional mods.</summary>
+
 
 > <b><u> MAKE SURE TO READ THE DESCRIPTION AND/OR READ ME OF MODS YOU WANT TO USE </u></b> 
 
@@ -261,10 +266,12 @@ enabled = false
 > `.dll` mods will generally speaking only have a .dll file, a config file aka a .ini file. The .ini file may be in a folder sometimes. The can also come with it's own .exe file like Seamless Coop.
 > 
 > You can `preview` what files a mod has on NexusMods before downloading by going to the mods `file` page and click on `Preview file contents`. 
+
 </details>
 
 <details markdown="block">
 <summary>My mod is a file based mod.</summary>
+
 
 > <b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
 > 
@@ -308,6 +315,7 @@ enabled = false
 <details markdown="block">
 <summary>Using `Mod Engine 2`</summary>
 
+
 > 1. Download what ever .dll mod you want to use. I.ll be using the Posture bar mod as an example.
 > 
 > 2. Open the downloaded zip and navigate to where you see it's `.dll` file. 
@@ -327,7 +335,7 @@ enabled = false
 > 6. Go back into your `ME2` folder and open the `config_eldenring.toml`
 > 
 > 7. Add the `.dll` mods `.dll` file into the config where you added Seamless Coop in a previous step. Separate the `.dll` mods you are using with a `,`.
- ```
+```
 # Global mod engine configuration
 [modengine]
 # If set to true the debug console will appear while the game is running
@@ -367,7 +375,7 @@ loose_params = false
 # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
 # a future release.
 mods = [
-    { enabled = true, name = "default", path = "mod" }
+{ enabled = true, name = "default", path = "mod" }
 ]
 
 # When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
@@ -385,6 +393,7 @@ enabled = false
 
 <details markdown="block">
 <summary>Using Mod Loader</summary>
+
 
 > Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 > 
@@ -426,6 +435,7 @@ PostureBarMod.dll.dll = 1
 
 <details markdown="block">
 <summary>5. Launching the game</summary>
+
 
 > 5.1 Open your `ME2` folder located in your `Game` folder.
 > 
