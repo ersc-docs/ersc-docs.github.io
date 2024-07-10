@@ -488,7 +488,7 @@ PostureBarMod.dll.dll = 1
 # a future release.
 mods = [
     { enabled = true, name = "default", path = "mod" },
-	  { enabled = true, name = "default", path = "randomizer" },
+    { enabled = true, name = "default", path = "randomizer" },
 ]
 
 # When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
