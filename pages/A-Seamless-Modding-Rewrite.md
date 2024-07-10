@@ -391,7 +391,7 @@ enabled = false
 > Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 > 
 > <b>THIS WILL MAKE YOU UNABLE TO LAUNCH VANILLA ELDEN RING IN OFFLINE MODE. UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.
-> 
+>  n
 > 1. Download [Elden Ring Mod Loader](https://www.nexusmods.com/eldenring/mods/117)
 > 
 > 2. Open the zip file you downloaded and drag and drop it's content into the `Game` folder. 
