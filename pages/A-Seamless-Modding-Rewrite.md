@@ -273,7 +273,7 @@ This means that if you are using 2 mods that are file based they may replace eac
  
 1. Open the zip file you have downloaded with prefered file archiver. by selecting open archive or double left clicking.
 
-   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/b9ffedb1-c36f-4c47-b934-2f62d007c7df)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/b9ffedb1-c36f-4c47-b934-2f62d007c7df)
  
 2. Open your file exploerer and go to the `ME2` folder in your `Game` folder.
  
@@ -281,7 +281,7 @@ This means that if you are using 2 mods that are file based they may replace eac
  
 4. Drag and drop the files from the mod into the `mod` folder.
  
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/61b427ec-560a-49de-8657-3357f20cebe9)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/61b427ec-560a-49de-8657-3357f20cebe9)
  
 5. The mod is now installed.
  
@@ -290,7 +290,7 @@ This means that if you are using 2 mods that are file based they may replace eac
 <b><u>NOTE2:</u></b> Only you will see the texture and modle modifications you are using. If you are using `parts` mods like armor and weapon mods and you want it to be shown on the other players in your session when they wear this equipment.
 Make sure that the `parts` files in your `parts` folder come with a regular version and a `_l` version. (`l` is a lowercase `L`)
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d436a59f-031e-46fa-b923-cb6067f729c9)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d436a59f-031e-46fa-b923-cb6067f729c9)
  
 If they do not then make a copy and rename it.
  
@@ -315,17 +315,17 @@ Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will 
 
 2. Open the downloaded zip and navigate to where you see it's `.dll` file. 
  
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1acd630c-6d23-4843-81e6-34630f528264)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1acd630c-6d23-4843-81e6-34630f528264)
  
 3. Go to your `ME2` folder in your `Game` folder.
 
 4. Make a new folder and name it into `dllMods`. (You can name the folder to whatever you want, if you do replace `ddMods` with what ever you named the folder into)
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/30b9991b-4d33-4797-a276-ac54d079468b)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/30b9991b-4d33-4797-a276-ac54d079468b)
 
 5. Drag and drop the `.dll` mods content into the `dllMods` folder.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/10820f1a-17bc-4b19-8b0a-5bbae3132854)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/10820f1a-17bc-4b19-8b0a-5bbae3132854)
 
 6. Go back into your `ME2` folder and open the `config_eldenring.toml`
 
@@ -398,13 +398,13 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 2. Open the zip file you downloaded and drag and drop it's content into the `Game` folder. 
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/64a510d5-4695-4946-9dd9-74cb0a77dec5)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/64a510d5-4695-4946-9dd9-74cb0a77dec5)
 
 3. Download whatever `.dll` mod you want to use. I.ll be using the Posture bar mod as an example.
 
 4. Open the zip and navigate to where you can see the `.dll` file. Then drag and drop it's content into the `mods` folder located in your `Game` folder. 
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/fe2bf108-3377-4337-b4e1-a77a108b5cdd)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/fe2bf108-3377-4337-b4e1-a77a108b5cdd)
 
 5. Go back into your `Game` folder
 
@@ -437,19 +437,19 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 3. Drag and drop the `randomizer` folder into your `ME2` folder located in your `Game` folder.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/6744e648-8425-4d3d-ba37-c5e0b81cf256)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/6744e648-8425-4d3d-ba37-c5e0b81cf256)
 
 4. Open the `randomizer` folder and run the `EldenRingRandomizer.exe`.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1077db6e-6c5f-4bea-80fd-fb15e4aa9853)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/1077db6e-6c5f-4bea-80fd-fb15e4aa9853)
 
 5. In the Randomizer window click on `Select game exe`
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/79ee827b-822c-4b02-997a-bdbdc5fb3763)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/79ee827b-822c-4b02-997a-bdbdc5fb3763)
 
 6. Navigate to your `Game` folder, select the `eldenring.exe` and press `Open`.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d2dac3bb-f90d-411b-b087-a7e3af1e65f4)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/d2dac3bb-f90d-411b-b087-a7e3af1e65f4)
 
 7. Change the settings to your likeing in the `Item Randomizer`, `Enemy Randomizer` and `Misc Options` tabs. 
 
@@ -459,20 +459,20 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 
 9. In the pop up select the option that suites your needs but easiest is to just click `Select mod directory to merge`.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/405aee65-af84-4bad-8aa4-6b795b0497b6)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/405aee65-af84-4bad-8aa4-6b795b0497b6)
 
 10. Navigate to the `ME2` folder and click on the `mod` folder and then click on `Select Folder`.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7f5186e7-d4d5-40e5-8914-cb4a3b419916)
 
 11. When you feel happy with your options click `Randomize items and enemies` and wait for the randomizer to finish. If you uncheck a tab the `Randomize` button will reflect this.
 
 
 12. Uppon a succesful Randomization the Randomizer will say Done in green at the bottom.
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
+    ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/7a68777a-b287-4f38-8f7e-e7bca17210ec)
 
-{:start="13"}
+
 13. Close the Randomizer window and go back into your `ME2` folder and open the `config_eldenring.toml`.
 
 14. At the botton find the line `{ enabled = true, name = "default", path = "mod" }`
@@ -501,9 +501,10 @@ enabled = false
 
 <b>NOTE:</b> If you do not want to use the randomizer anymore or just disable it for the moment you can add a `#` to the beginig of the line and `Mod Engine 2` will skip launching it    
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
+   
+   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/f2920cb1-7f18-4b69-9d75-e5bd37b73770)
 
-{:start="17"}
+
 17. Save the changes.
 
 </details>
@@ -517,7 +518,7 @@ enabled = false
 
 5.2 Launch the game with the `launchmod_eldenring.bat`
 
-  ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
+   ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
 
 </details>
 
