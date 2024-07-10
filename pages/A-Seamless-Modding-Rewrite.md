@@ -22,9 +22,10 @@ For optimal experience, all players should use the same mods together - with the
   <summary>Windows</summary>
 
 
-  <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**.<br /> 
-  If some file names do not match what you're seeing, please turn this setting on in File Explorer:<br />  
- <a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
+<b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**.<br /> 
+If some file names do not match what you're seeing, please turn this setting on in File Explorer:<br />
+<br />
+    <a href="https://i.imgur.com/sBU3kWt.png"><img src="https://i.imgur.com/sBU3kWt.png" width="600"></a>
 
 
 
