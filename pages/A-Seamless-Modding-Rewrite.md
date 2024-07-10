@@ -431,7 +431,7 @@ Some `.dll` mods may require `Elden Ring Mod Loader` to load properly.
 <details markdown="block">
 <summary>I want to use a randomizer</summary>
 
-1. d Download [Elden Ring Item Randomizer]()
+1. p Download [Elden Ring Item Randomizer]()
 
 2. Open the zip file you downloaded with your prefered file archiver.
 
