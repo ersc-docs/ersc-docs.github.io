@@ -163,6 +163,7 @@ mod_language_override =
 > <b>Note2:</b> You need to set the password in this location, When you are using Mod Engine 2 to launch the game.
 > 
 > <b>Optional</b> You can cahnge the save file extension you use for a save depending on what mod you use.
+
 ```
 [SAVE]
 
@@ -181,8 +182,8 @@ save_file_extension = `co2`
 > 
 > 3.2 Open the `config_eldenring.toml` with your prefered text editor.
 > 
-> 3.3 Copy and paste `external_dlls = [ "SeamlessCoop/ersc.dll" ]` into your `config_eldenring.toml` in the location shown below.
-> 
+> 3.3 Copy and paste `external_dlls = [ "SeamlessCoop/ersc.dll" ]` into your `config_eldenring.toml` in the location shown below. 
+
 ```
 # Global mod engine configuration
 [modengine]
