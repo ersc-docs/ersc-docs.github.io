@@ -1,8 +1,8 @@
 ---
 layout: page
-title: A Seamless Modding Rewrite
-permalink: /ASMR/
-nav_order: 6
+title: Seamless Modding
+permalink: /seamless-modding/
+nav_order: 4
 ---
 
 
