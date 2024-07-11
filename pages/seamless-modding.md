@@ -18,9 +18,6 @@ For optimal experience, all players should use the same mods together - with the
  Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.<br />  
  <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
 
-<details markdown="block">
-  <summary>Windows</summary>
-
 <br />
 <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**.<br /> 
 If some file names do not match what you're seeing, please turn this setting on in File Explorer:<br />
@@ -51,16 +48,13 @@ Make sure that you have:
   <summary>1. Where to put the files.</summary>
 
 
-1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.<br />
-<br />
+> 1.1 Extract `Mod Engine 2` using your prefered file archiver. Like [7zip](https://www.7-zip.org/download.html) as an example.<br /><br /><br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ef067a95-3968-4e70-8c7e-5fb42b88802d)
  
-1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`<br />
-<br />
+> 1.2 Rename the folder `ModEngine-2.1.0.0-win64` into `ME2`<br /><br /><br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/5687de17-a960-4d45-b0e7-7251f8cc4107)
 
-1.3 Place the `ME2` folder into your `Game` folder. <br />
-<br />
+> 1.3 Place the `ME2` folder into your `Game` folder. <br /><br /><br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/268b828a-51e9-4d8d-bc03-6b5ff8b519ea)
 
 
@@ -90,17 +84,15 @@ Which will make it available in the left side of the file explorer under Quick a
 
 </details>
 
-1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
+> 1.4 Go back to where your `Seamless Co-op v1.x.x.zip` is located and extract it as well.
  
-1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
+> 1.5 Open the `Seamless Co-op v1.x.x` folder and inside you should see a `SeamlessCoop` folder and a `ersc_launcher.exe`
  
-1.6 Place the `SeamlessCoop` folder into the `ME2` folder that is in your `Game` folder.
-<br />
+> 1.6 Place the `SeamlessCoop` folder into the `ME2` folder that is in your `Game` folder.<br /><br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/e79276d1-956b-499d-8ea5-2296a8c663cf)
 
-1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. <br />
-They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`
-<br />
+> 1.7 You can now delete the files unrelated to `Elden Ring` from the `ME2` Folder. <br />
+They are `config_armoredcore6.toml`, `config_darksouls3.toml`, `launchmod_darksouls3.bat` and `launchmod_armoredcore6.bat`<br /><br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/ae2278af-4cce-4ee7-ad0c-8425a0a34774)
 
 </details>
@@ -168,7 +160,7 @@ mod_language_override =
 
  2.4 When you are done `Save` the changes.
  
- <b>Note:</b> Host's `ersc_settings.ini` determins the worlds `Scaling`, `Player Invasions`, `Rot` and `Spirit Summons`.
+ <b>Note:</b> Host's `ersc_settings.ini` determines the world's `Scaling`, `Player Invasions`, `Rot` and `Spirit Summons`.
  
  <b>Note2:</b> You need to set the password in this location, When you are using `Mod Engine 2` to launch the game.
  
@@ -191,64 +183,11 @@ save_file_extension = `co2`
 <details markdown="block">
   <summary>3. Setting up Mod Engine 2</summary>
 
- 3.1 Open your `ME2` folder. 
+  > 3.1 Download the [preconfigured Elden Ring ModEngine2 toml](https://ersc-docs.github.io/assets/txt/config_eldenring.toml).  
+  
+  > 3.2 Open your `ME2` folder.  
  
- 3.2 Open the `config_eldenring.toml` with your prefered text editor.
- 
- 3.3 Copy and paste `external_dlls = [ "SeamlessCoop/ersc.dll" ]` into your `config_eldenring.toml` in the location shown below. 
-
-    ```
-    # Global mod engine configuration
-    [modengine]
-    # If set to true the debug console will appear while the game is running
-    debug = false
-
-    # List of files that will be loaded into the game as DLL mods.
-    # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod.dll, you must enter
-    # the path in the config as "E:\\coolstuff\\coolmod.dll".
-    # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod.dll" will tell
-    # Mod Engine 2 to look for the directory mod inside the Mod Engine 2 directory with the launcher.
-    #
-    # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
-    # external_dlls = [ "coolmod.dll", "D:\\nicemods\\nicemod.dll", "sosofolder\sosomod.dll" ]
-    external_dlls = [ "SeamlessCoop/ersc.dll" ]
-
-    # Mod loader configuration
-    [extension.mod_loader]
-    enabled = true
-
-    # Not currently supported for Elden Ring
-    loose_params = false
-
-    # List of directories that contain modded files in order of prioritization. Inside each specified mod directory must have the game
-    # assets in Fromsoft's asset structure. I.e. if you mod parts/something.partsbnd.dcx, the modded version must be at mod/parts/something.partsbnd.dcx.
-    # Absolute paths to mods are supported but must use '\\' to separate path items. For example, if your mod is at E:\coolstuff\coolmod, you must enter
-    # the path in the config as "E:\\coolstuff\\coolmod".
-    # If there's no drive specifier (C:, D:, etc), the path is relative to where the launcher is located. For example, having the path as "mod" will tell
-    # modengine 2 to look for the directory mod inside the mod engine 2 directory with the launcher.
-    #
-    # Multiple mods must be separated with commas. For example if you have 3 mods, you will have something like the following:
-    # mods = [
-    #    { enabled = true, name = "coolmod", path = "mod1" },
-    #    { enabled = true, name = "nicemod", path = "mod2" },
-    #    { enabled = true, name = "sosomod", path = "mod3" }
-    # ]
-    # Note that modengine 2 currently has no way to resolve conflicting files including regulation.bin, and thus the mod with the highest priority
-    # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
-    # a future release.
-    mods = [
-    { enabled = true, name = "default", path = "mod"}
-
-    ]
-
-    # When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
-    # debuggers such as Cheat Engine, x64dbg, windbg, etc to the game without as much trouble. If you're not reverse engineering the game, this option
-    # is probably not for you.
-    [extension.scylla_hide]
-    enabled = false
-    ```
-
-3.4 Save the changes.
+  > 3.3 Paste the downloaded file from step 3.1 into it, overwriting the exisiting one.
 
 </details>
 
@@ -294,7 +233,7 @@ save_file_extension = `co2`
   <summary>My mod is a file based mod.</summary>
 
 <br />
-<b>Will be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
+<b>We'll be using Clever's moveset modpack to demonstrate since it comes with no additional `.dll` mods or `Mod Engine 2`</b>
  
 1. Open the zip file you have downloaded with prefered file archiver,<br /> 
    by selecting open archive or double clicking.
@@ -563,17 +502,8 @@ You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launch
 <summary>5. Launching the game</summary>
 
 
-5.1 Open your `ME2` folder located in your `Game` folder.
+> 5.1 Open your `ME2` folder located in your `Game` folder.
 
-5.2 Launch the game with the `launchmod_eldenring.bat`
-<br />
+> 5.2 Launch the game with the `launchmod_eldenring.bat`<br /><br />
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
-
 </details>
-
-
-
-
-</details>
-
-
