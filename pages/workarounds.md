@@ -9,7 +9,8 @@ nav_order: 3
 <details markdown="block">
 <summary> For the Leda final fight </summary>
 
-> <b><u> You need to have at least 2 players to complete them. </u></b>
+
+> <b><u> You need to be at least 2 players in the session to complete it. </u></b>
 >
 > 1. Interact with the sign.
 > 2. Kill the hostile NPCs.
