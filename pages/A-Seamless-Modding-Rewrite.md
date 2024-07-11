@@ -522,7 +522,8 @@ UNLESS YOU RENAME `dinput8.dll` INTO `_dinput8.dll`.</b>
 
 16. Add a `,` to the end of this line like so `{ enabled = true, name = "default", path = "mod" },`
 
-17. Copy the line and paste it in the line below and change where it says `"mod"` into `"randomizer"`
+17. Move the line down once, copy the line and paste it in the line above.<br />
+    and change where it says `"mod"` into `"randomizer"`
 
 It should look like this.
 
