@@ -334,7 +334,8 @@ Example:
 
 You can use `Mod Engine 2` or `Elden Ring Mod Loader` for `.ddl` mods.
 
-Some `.dll` mods needs to be last in `Mod Engine 2` for them to work. Some will only work with `Elden Ring Mod Loader`.
+Some `.dll` mods needs to be last in `Mod Engine 2` for them to work.<br /> 
+Some will only work with `Elden Ring Mod Loader`.
 
 <b>If the `.dll` mod you are using is giving a Error saying "Could not find signature!"<br />
 try loading it last in `Mod Engine 2` or try using `Elden Ring Mod Loader` and making a load order in .<br />
