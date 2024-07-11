@@ -1,5 +1,4 @@
 
-# Seamless Modding
 
 A guide on how to setup ModEngine 2 with Seamless Coop
 
