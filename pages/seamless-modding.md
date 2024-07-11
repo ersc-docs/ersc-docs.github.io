@@ -18,9 +18,6 @@ For optimal experience, all players should use the same mods together - with the
  Typically only the latest version of Elden Ring is supported, and if the mod has been abandoned you will not be able to use it.<br />  
  <u><b>IMPORTANT NOTE</b></u>: All players must use the same mods in order to connect to each other.
 
-<details markdown="block">
-  <summary>Windows</summary>
-
 <br />
 <b><u>NOTE</u></b>: This guide was written with file extensions **ENABLED**.<br /> 
 If some file names do not match what you're seeing, please turn this setting on in File Explorer:<br />
@@ -517,10 +514,3 @@ You can add a `#` to the beginig of the line and `Mod Engine 2` will skip launch
     ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/9bd45726-c29e-478a-9e8e-b77dc64e62dd)
 
 </details>
-
-
-
-
-</details>
-
-
