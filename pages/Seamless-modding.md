@@ -264,7 +264,7 @@ save_file_extension = `co2`
 <summary>What is the difference between what's refered to as file based mods and .dll mods?</summary>
 
 `File based` mods are mods that would have to replace game file to function,<br />
- which we get around by using `Mod Engein 2` to launch the game.<br /> 
+ which we get around by using `Mod Engine 2` to launch the game.<br /> 
  This means that if you are using 2 mods that are file based<br />
  they may replace eachothers files which can and most likely will cause issues.
  
