@@ -531,8 +531,9 @@ It should look like this.
     # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
     # a future release.
     mods = [
-       { enabled = true, name = "default", path = "mod" },
        { enabled = true, name = "default", path = "randomizer" },
+       { enabled = true, name = "default", path = "mod" },
+       
     ]
 
     # When enabled, scylla hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
