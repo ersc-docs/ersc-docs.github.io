@@ -9,9 +9,10 @@ nav_order: 3
 <details markdown="block">
 <summary>For the Leda final fight</summary>
 
-> <b><u> You need to be at least 2 players in the session to complete it. </u></b>  
+> <b><u> You need to be at least 2 players in the session to complete it. </u></b>
+> <b><u> Only the person that interact with the sign will see the enemies. </u></b><br /> 
 >  
-> 1. Interact with the sign.  
+> 1. Have the host interact with the sign.  
 > 2. Kill the hostile NPCs.  
 > 3. Have Wanderers use the Finger Severer when host enters the loadingscreen after the fight: ![image](https://github.com/ersc-docs/ersc-docs.github.io/assets/174225858/303b3ff6-c435-48c4-ba12-52d299d898c0)  
 > 4. Have Wanderers rejoin the session.
