@@ -370,6 +370,27 @@ nav_order: 2
 > Known bug. Currently they only become regular enemies for the host.
 </details>
 
+<details markdown="block">
+<summary>Coop Items, greyed out use option and can't warp.</summary>
+
+> Known bug. Incorrectly set flags.
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+</details>
+
+<details markdown="block">
+<summary>The crater to Nokron does not appear after killing Radahn.</summary>
+
+> Known bug. Incorrectly set flags.
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+</details>
+
+<details markdown="block">
+<summary>Stuck at Ranni's Rise. Invisible wall and can't warp.</summary>
+
+> Known bug. Incorrectly set flags.
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+</details>
+
 
 
 ## Invasion bugs
