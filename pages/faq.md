@@ -328,7 +328,8 @@ nav_order: 2
 > Moreover, specific encounters are currently non-functional:  
 > * Needle Knight Leda  
 > * Sorceress Sellen/Witch-Hunter Jerren  
-> * Millicent  
+> * Millicent 
+> * Volcano Manor 3rd request Vargram. Can't be completed atm. <br /> 
 > Refer to [Workarounds](https://ersc-docs.github.io/workarounds/) if you'd like to get them working, while solo.
 </details>
 
@@ -398,6 +399,18 @@ nav_order: 2
 > Verify game files through Steam by right clicking: <br />
 > Elden Ring => Properties => Local Files => Verify integrity of game files.<br />
 > A full data compare is around 450-600 files.
+</details>
+
+<details markdown="block">
+<summary>Burning down the Sealing Tree, after Romina - missing interaction prompt in session.</summary>
+
+> Known bug, mist out and do the interaction solo.
+</details>
+
+<details markdown="block">
+<summary>"Touch Memory" interaction after DLC Radahn fight not showing..</summary>
+
+> Known bug, mist out and do the interaction solo.
 </details>
 
 ## Invasion bugs
