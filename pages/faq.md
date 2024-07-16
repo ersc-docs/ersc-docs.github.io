@@ -373,25 +373,32 @@ nav_order: 2
 <details markdown="block">
 <summary>Coop Items, greyed out use option and can't warp.</summary>
 
-> Known bug. Incorrectly set flags.
+> Known bug. Incorrectly set flags.<br />
 > A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
 </details>
 
 <details markdown="block">
 <summary>The crater to Nokron does not appear after killing Radahn.</summary>
 
-> Known bug. Incorrectly set flags.
+> Known bug. Incorrectly set flags.<br />
 > A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
 </details>
 
 <details markdown="block">
 <summary>Stuck at Ranni's Rise. Invisible wall and can't warp.</summary>
 
-> Known bug. Incorrectly set flags.
+> Known bug. Incorrectly set flags.<br />
 > A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
 </details>
 
+<details markdown="block">
+<summary>Texture Corruption Ingame or missing textures.</summary>
 
+> Not a Seamless Coop bug.<br />
+> Verify game files through Steam by right clicking: <br />
+> Elden Ring => Properties => Local Files => Verify integrity of game files.<br />
+> A full data compare is around 450-600 files.
+</details>
 
 ## Invasion bugs
 
