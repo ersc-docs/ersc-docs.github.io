@@ -34,13 +34,44 @@ nav_order: 3
 > If you coop items are greyed out and you can't warp to graces.
 > <br/>
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
-> 2. Open the tool when you are loaded in on your character. <br/>
+> 2. Open the tool when you are loaded in on your character while solo. <br/>
 > 3. Go to the grace tab in teh tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
-> 4. In the debug tool go to the misc tab and type in 310. <br/>
+> 4. In the debug tool go to the `misc` tab and type in `310`. <br/>
 > 5. Press check <br/>
 > 6. If the power button turns Green, click disable and quit to main menu. Then press continue from the main menu. 
 
 This should fix this issue for you.
+</details>
+
+<details markdown="block">
+<summary>The crater to Nokron is not there after killing Radahn. </summary>
+
+> <br/>
+> 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
+> 2. Open the tool when you are loaded in on your character while solo. <br/>
+> 3. Go to the grace tab in teh tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
+> 4. In the debug tool go to the `misc` tab and type in `310`. <br/>
+> 5. Press check <br/>
+> 6. If the power button turns Green,  Then press continue from the main menu.
+
+<details markdown="block">
+<summary>If the power button is RED </summary>
+
+
+> 7. Click enable and quit to main menu.<br />
+> 8. Press continiue in the main menu. <br />
+> 9. Check if you can see the crater marker on the map.<br />
+> 10. Follow the steps for `If the power button is GREEN`
+</details>
+
+<details markdown="block">
+<summary>If the power button is GREEN </summary>
+
+
+> 7. Click disable and quit to main menu.<br />
+> 8. Check if you can see the crater marker on the map.<br />
+</details>
+
 </details>
 
 <details markdown="block">
@@ -49,7 +80,7 @@ This should fix this issue for you.
 
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
 > 2. Extract the zip file with your prefered file archiver. <br />
-> 3. Open the tool when you are loaded in on your character. <br/>
+> 3. Open the tool when you are loaded in on your character while solo. <br/>
 > 4. Make sure you are close to Ranni's rise. <br />
 > 5. In the Debug tool go to the `misc` tab at the bottom of the tool. <br />
 > <br /> <b>NOTE:</b> <br />
