@@ -149,7 +149,7 @@ nav_order: 2
 <details markdown="block">
 <summary>What are the Seamless Coop item IDs?</summary>
 
-> The usable items in Seamless Coop have the following IDs:
+> The usable items in Seamless Coop have the following IDs:  
 > 8380001 - Tiny Great Pot (lobby open item)  
 > 8380002 - Effigy of Malenia (lobby join item, cooperator)  
 > 8380003 - Challenger's Lynchpin (lobby join item, invader)  
