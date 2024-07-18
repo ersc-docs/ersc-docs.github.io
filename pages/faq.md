@@ -150,12 +150,12 @@ nav_order: 2
 <summary>What are the Seamless Coop item IDs?</summary>
 
 > The usable items in Seamless Coop have the following IDs:
-> 8380001 - Tiny Great Pot (lobby open item)
-> 8380002 - Effigy of Malenia (lobby join item, cooperator)
-> 8380003 - Challenger's Lynchpin (lobby join item, invader)
-> 8380004 - Separation Mist (lobby disconnect item)
-> 8380005 - Judicator's Rulebook (friendly fire modes)
-> 8380006 - Rune Decanter (rune arc shop)
+> 8380001 - Tiny Great Pot (lobby open item)  
+> 8380002 - Effigy of Malenia (lobby join item, cooperator)  
+> 8380003 - Challenger's Lynchpin (lobby join item, invader)  
+> 8380004 - Separation Mist (lobby disconnect item)  
+> 8380005 - Judicator's Rulebook (friendly fire modes)  
+> 8380006 - Rune Decanter (rune arc shop)  
 </details>
 
 ## Messages,issues and solutions when using the Seamless Coop items
