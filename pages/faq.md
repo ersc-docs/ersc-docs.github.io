@@ -437,7 +437,7 @@ nav_order: 2
 <details markdown="block">
 <summary>I can't get to the other players!</summary>
 
-> Known bug. Currently spawnpoints don't follow all the checks they do in vanilla.
+> Fixed in 1.8.0.
 </details>
 
 <details markdown="block">
