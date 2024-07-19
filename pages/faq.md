@@ -75,14 +75,14 @@ nav_order: 2
 > - Quest progression can be erratic. Best to be solo when doing anything, but make sure to make a backup save before playing. Ending choices could have unknown effects during gameplay too.  
 > 
 > **ITEM PROGRESS:**  
-> - Item pick ups are based on instanced loot, meaning any random drops picked up are diferent for each player.  
-> - Loot that is given on persistent enemy defeat (Bosses and Scarabs for example) is collected by everyone joining the host when within the area limits (when all players are in Weeping Penninsula to get respective drops).  
+> - Item pick ups are based on instanced loot, meaning any random drops picked up are different for each player.  
+> - Loot that is given on persistent enemy defeat (Bosses and Scarabs for example) is collected by everyone joining the host when within the area limits (when all players are in Weeping Peninsula to get respective drops).  
 > - Items like Golden Seed or Sacred Tear must be picked up individually. Wanderer's cannot gain items again if they already received them in their world upon joining Host.  
 > - When it comes to bell bearing items, it is based on Host. Only Host should turn in items, restart session, and any who rejoin should see items in the shop. In the event of missing items for any bell bearings, consult [(Discord) Missing reward items from Quests/NPC/Bosses with dialogue](https://discord.com/channels/979042878091329587/1129602576996900864).  
 >  
-> **‼️CAUTION‼️**  
+> **!!CAUTION!!**  
 > If you are going to attempt playing with others who have different progressions (e.g. different endings, different NPC states), **you should make a backup of your save before joining!.**  
-> Event flags toggled in the session may persist, so it's very possible to have mismatched progression and may ruin characters involved. See possible work arounds in [(Discord) #troubleshooting](https://discord.com/channels/979042878091329587/1097343990480777266). Keep the same host when possible to reduce chances. This is a coop, not an MMO.
+> Event flags toggled in the session may persist, so it's very possible to have mismatched progression and may ruin characters involved. See possible workarounds in [(Discord) #troubleshooting](https://discord.com/channels/979042878091329587/1097343990480777266). Keep the same host when possible to reduce chances. This is coop, not an MMO.
 </details>
 
 <details markdown="block">
@@ -158,7 +158,7 @@ nav_order: 2
 > 8380006 - Rune Decanter (rune arc shop)  
 </details>
 
-## Messages,issues and solutions when using the Seamless Coop items
+## Messages, issues and solutions when using the Seamless Coop items
 
 <details markdown="block">
 <summary> Failed, no session found </summary>
@@ -175,7 +175,7 @@ nav_order: 2
 > 5. Make sure everyone has set the same password in the seamlesscoopsettings.ini. You must save the file and restart the game entirely for the new password to be registered.  
 > 6. Everyone must be connected to Steam's Friends network.  
 > 7. If you have installed Riot's Vanguard installed try turning it off. If you have any other games anti cheat that is known to be intrusive turn them off as well.  
-> 8. Verify game files in steam. It should verify rougly 450-600 files else try again.  
+> 8. Verify game files in steam.  
 > <b><u>NOTE:</u></b> During Steam maintenance, connectivity will go offline. This usually doesn't last more than a few minutes.  
 > 8. Do not block any players  on Steam in your group.  
 > 9. If all the above checks out, test out your connection in vanilla Elden Ring. If that works, Seamless Coop has been blocked by your firewall or antivirus.  
@@ -259,10 +259,10 @@ nav_order: 2
 > - <u>If it happens during vanilla launch</u>.  
 >   It means that you have disabled EAC by using other mods/bypasses, such as Mod Engine 2 and Mod Loader. The most common hook is Mod Loader, which is done through dinput8.dll - renaming or moving it to another folder will let you run vanilla Elden Ring.  
 > 
-> - <u>If this happens when launchg the game through Mod Engine 2.1's launchmod_eldenring.bat</u>.  
->   It means you have not followed the instructions in [Seamless Modding](https://ersc-docs.github.io/seamless-modding/) to use seamless coop with other mods.  
+> - <u>If this happens when launch the game through Mod Engine 2.1's launchmod_eldenring.bat</u>.  
+>   It means you have not followed the instructions in [Seamless Modding](https://ersc-docs.github.io/seamless-modding/) to use Seamless Coop with other mods.  
 > 
-> - <u>If it happens when launching the game throgh the <b>Randomizer</b>.</u>  
+> - <u>If it happens when launching the game through the <b>Randomizer</b>.</u>  
 >   It means your version of Seamless Coop is no longer up to date, make sure you have the latest version of Seamless Coop installed in your <b>mods</b> folder. You can find the latest version of Seamless Coop here: [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files).  
 > 
 > <b>NOTE:</b> Seamless Coop, by itself, can run in parallel to vanilla playthroughs without any file renaming.  
@@ -282,7 +282,7 @@ nav_order: 2
 > 
 > White list the game folder in your antivirus. If you are using anything other than Windows Defender as an antivirus try disabling it.   
 > 
-> Make sure ersc.dll  is present within the SeamlesCoop folder. Right click it and click on Properties. Press Unblock, if that option is visible.  
+> Make sure ersc.dll is present within the SeamlesCoop folder. Right click it and click on Properties. Press Unblock, if that option is visible.  
 > 
 > Make sure you've correctly installed the mod by following ⁠⁠⁠[How to install and update](https://ersc-docs.github.io/how-to-install-and-update/).
 </details>
@@ -316,9 +316,9 @@ nav_order: 2
 <details markdown="block">
 <summary> This version of seamless co-op(1.7.x) is depreciated and requires an update.  </summary>
 
-> It means this version is no longer supported and a new version is avaliable.  
+> It means this version is no longer supported and a new version is available.  
 > 
-> You can download the latest version of Seamless Coop from it's nexus mods page here. [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510/?tab=files) and follow the instalation steps in [How to install](https://ersc-docs.github.io/how-to-install-and-update/) to update to the new version.
+> You can download the latest version of Seamless Coop from its [Nexus Mods page](https://www.nexusmods.com/eldenring/mods/510/?tab=files). and follow the instalation steps in [How to install](https://ersc-docs.github.io/how-to-install-and-update/) to update to the new version.
 </details>
 
 <details markdown="block">
