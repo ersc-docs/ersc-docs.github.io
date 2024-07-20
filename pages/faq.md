@@ -435,12 +435,6 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>I can't get to the other players!</summary>
-
-> Fixed in 1.8.0.
-</details>
-
-<details markdown="block">
 <summary>I can pick up items during an invasion!</summary>
 
 > These are your own world items. Not a bug.
