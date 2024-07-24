@@ -51,7 +51,6 @@ nav_order: 2
 <details markdown="block">
 <summary>Can I do White Mask Varre's Quest in Coop?</summary>
 
-><b><u>Invasion Signs</u> can currently only be completed if you have an open session and another friendly player with you</b>.  
 > As of Elden Ring 1.06, an NPC was added to be able to complete this requirement. <b>His invasion sign is in the Writheblood Ruins</b>.
 </details>
 
@@ -337,11 +336,11 @@ nav_order: 2
 <details markdown="block">
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
 
-> NPC invasions only work in a session with other people at the moment.  
 > Moreover, specific encounters are currently non-functional:  
 > * Needle Knight Leda  
 > * Sorceress Sellen/Witch-Hunter Jerren  
-> * Millicent 
+> * Millicent
+> * Ansbach
 > * Volcano Manor 3rd request Vargram. Can't be completed atm. <br /> 
 > Refer to [Workarounds](https://ersc-docs.github.io/workarounds/) if you'd like to get them working, while solo.
 </details>
