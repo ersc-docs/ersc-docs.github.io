@@ -162,8 +162,6 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 
 </details>
 
-</details>
-
 <details markdown="block">
 <summary>Missing reward items from Quests/NPC/Bosses with dialogue </summary>
 
