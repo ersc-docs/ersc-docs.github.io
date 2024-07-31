@@ -77,11 +77,11 @@ nav_order: 2
 > - Item pick ups are based on instanced loot, meaning any random drops picked up are different for each player.  
 > - Loot that is given on persistent enemy defeat (Bosses and Scarabs for example) is collected by everyone joining the host when within the area limits (when all players are in Weeping Peninsula to get respective drops).  
 > - Items like Golden Seed or Sacred Tear must be picked up individually. Wanderer's cannot gain items again if they already received them in their world upon joining Host.  
-> - When it comes to bell bearing items, it is based on Host. Only Host should turn in items, restart session, and any who rejoin should see items in the shop. In the event of missing items for any bell bearings, consult [(Discord) Missing reward items from Quests/NPC/Bosses with dialogue](https://discord.com/channels/979042878091329587/1129602576996900864).  
+> - When it comes to bell bearing items, it is based on Host. Only Host should turn in items, restart session, and any who rejoin should see items in the shop. In the event of missing items for any bell bearings, consult [Workarounds](https://ersc-docs.github.io/workarounds/).  
 >  
 > **!!CAUTION!!**  
 > If you are going to attempt playing with others who have different progressions (e.g. different endings, different NPC states), **you should make a backup of your save before joining!.**  
-> Event flags toggled in the session may persist, so it's very possible to have mismatched progression and may ruin characters involved. See possible workarounds in [(Discord) #troubleshooting](https://discord.com/channels/979042878091329587/1097343990480777266). Keep the same host when possible to reduce chances. This is coop, not an MMO.
+> Event flags toggled in the session may persist, so it's very possible to have mismatched progression and may ruin characters involved. See possible workarounds in [Workarounds](https://ersc-docs.github.io/workarounds/). Keep the same host when possible to reduce chances. This is coop, not an MMO.
 </details>
 
 <details markdown="block">
