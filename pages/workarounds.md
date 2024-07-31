@@ -162,3 +162,16 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 
 </details>
 
+</details>
+
+<details markdown="block">
+<summary>Missing reward items from Quests/NPC/Bosses with dialogue </summary>
+
+
+> Rewards from certain events like quests or NPC's may not drop for all. Event flags sync to the host and may have issues for wanderers present in a session. <br />
+> These cases should be done while being solo to progress/obtain anything that may not be while in session.<br />
+>
+> If you are in dire need of any items missed, use the [debug tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest), and review the readme file for instructions to use.
+</details>
+
+
