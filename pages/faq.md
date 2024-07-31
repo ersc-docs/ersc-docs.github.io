@@ -417,9 +417,25 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>"Touch Memory" interaction after DLC Radahn fight not showing..</summary>
+<summary>"Touch Memory" interaction after DLC Radahn fight not showing.</summary>
 
 > Known bug, mist out and do the interaction solo.
+</details>
+
+<details markdown="block">
+<summary>Bosses dying prematurly, mid fight.</summary>
+
+> Known bug, very rear. <br />
+> Make sure you rest often at graces. <br />
+> Make sure to keep backups in case it happens. <br />
+> <br />
+> You can make a backup by leaving an item on the ground and then copy your save file and place the copy in a new folder.
+</details>
+
+<details markdown="block">
+<summary>Not getting warp to second stage boss arena or caant warp to Plasidusax.</summary>
+
+> Known bug, Everyone mist out and rejoin the session.
 </details>
 
 ## Invasion bugs
