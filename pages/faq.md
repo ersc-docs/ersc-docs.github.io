@@ -337,12 +337,9 @@ nav_order: 2
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
 
 > Moreover, specific encounters are currently non-functional:  
-> * Needle Knight Leda  
+> * Needle Knight Leda (Last one at Enir-llim work)  
 > * Sorceress Sellen/Witch-Hunter Jerren  
-> * Millicent
 > * Ansbach
-> * Volcano Manor 3rd request Vargram. Can't be completed atm. <br /> 
-> Refer to [Workarounds](https://ersc-docs.github.io/workarounds/) if you'd like to get them working, while solo.
 </details>
 
 <details markdown="block">
