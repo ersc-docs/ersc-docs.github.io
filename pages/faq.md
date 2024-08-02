@@ -388,6 +388,13 @@ nav_order: 2
 </details>
 
 <details markdown="block">
+<summary>Festival won't start even with prerequisites completed. </summary>
+
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+
+</details>
+
+<details markdown="block">
 <summary>The crater to Nokron does not appear after killing Radahn.</summary>
 
 > Known bug. Incorrectly set flags.<br />
