@@ -63,6 +63,19 @@ This should fix this issue for you.
 </details>
 
 <details markdown="block">
+<summary>Festival won't start even with prerequisites completed. </summary>
+
+> <br/>
+> 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
+> 2. Open the tool when you are loaded in on your character while solo or if you are the host. <br/>
+> 3. Recommended to have everyone in the session be in the plaza area before you set the flag in the next step. <br/>
+> 4. In the debug tool go to the `misc` tab and type in `9411`. <br/>
+> 5. Click on Enable. <br/>
+
+</details>
+
+
+<details markdown="block">
 <summary> Stuck at Ranni's rise. Invisible wall and can't warp.  </summary>
 
 
