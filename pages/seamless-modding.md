@@ -41,7 +41,7 @@ Make sure that you have:
 - [ModEngine2](https://github.com/soulsmods/ModEngine2/releases/latest)
 - [Seamless Coop](https://www.nexusmods.com/eldenring/mods/510)
 
-## Setup 
+## Setup (Click on the steps to show their content)
 
 
 <details markdown="block">
