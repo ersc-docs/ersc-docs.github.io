@@ -336,16 +336,22 @@ nav_order: 2
 <details markdown="block">
 <summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
 
-> Moreover, specific encounters are currently non-functional:  
-> * Needle Knight Leda (Last one at Enir-llim work)  
-> * Sorceress Sellen/Witch-Hunter Jerren  
-> * Ansbach
+> * Sorceress Sellen/Witch-Hunter Jerren  (Is in a no attack zone use ashes to kill)
 </details>
 
 <details markdown="block">
 <summary>I get a long loading screen when entering an NPC invasion!</summary>
 
 > Known bug, cause unknown - for now, just wait it out (around 30 seconds).
+</details>
+
+<details markdown="block">
+<summary> Spectral Steed Wisttle is Greyed out (Torrent). </summary>
+
+> Not a bug. <br />
+> Caused by having corrupt game files or outdated regulation.bin file. <br />
+> Delete your <b>regulation.bin</b> file in your <b>game</b> and verify game files in steam. Should verify 450 - 600 files.<br />
+> Make sure your <b>regulation.bin</b> altering mods are not outdated. <br />
 </details>
 
 <details markdown="block">
