@@ -192,7 +192,7 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 >
 > 1. Download the debug tool: [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br />
 > 2. Open the tool when you are loaded in on your character while solo.<br />
-> 3. In the debug tool go to the misc tab. <br />
+> 3. In the debug tool go to the `misc` tab. <br />
 
 <details markdown="block">
 <summary>If you are pre-Fire Giant or have not burnt the Erdtree: </summary>
