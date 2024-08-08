@@ -185,4 +185,45 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 > If you are in dire need of any items missed, use the [debug tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest), and review the readme file for instructions to use.
 </details>
 
+<details markdown="block">
+<summary>My Erdtree has the wrong state/is flickering!</summary>
+
+> Typically caused by inherited flags from invasions.
+>
+> 1. Download the debug tool: [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br />
+> 2. Open the tool when you are loaded in on your character while solo.<br />
+> 3. In the debug tool go to the misc tab. <br />
+
+<details markdown="block">
+<summary>If you are pre-Fire Giant or have not burnt the Erdtree: </summary>
+
+> 1. Type in 300 and click Disable. <br />
+> 2. Type in 301 and click Disable.<br />
+> 3. Type in 302 and click Disable.<br />
+> 4. Warp to a grace.<br />
+
+</details>
+
+<details markdown="block">
+<summary>IF you have burnt the tree but not defeated Maliketh: </summary>
+
+> 1. Type in 300 and click Disable.<br />
+> 2. Type in 301 and click Disable.<br />
+> 3. Type in 302 and click Enable.<br />
+> 4. Warp to a grace.<br /> 
+
+</details>
+
+<details markdown="block">
+<summary>If you have defeated Maliketh. </summary>
+
+> 1. Type in 300 and click Enable.<br />
+> 2. Type in 301 and click Enable.<br />
+> 3. Type in 302 and click Disable.<br />
+> 4. Warp to a grace.<br /> 
+
+</details>
+
+</details>
+
 
