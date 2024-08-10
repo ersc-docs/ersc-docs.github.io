@@ -216,7 +216,7 @@ nav_order: 2
 >
 > - Try making exclusions in your antivirus for your `game` folder and `ersc.dll`  
 > - Try restarting your router.  
-> - If you have installed Riot's Vanguard installed, try turning it off. If you have any other games' anti-cheat that is known to be intrusive, turn them off as well.
+> - If you have installed Riot's Vanguard, try turning it off. If you have any other games' anti-cheat that is known to be intrusive, turn them off as well.
 </details>
 
 <details markdown="block">
@@ -235,8 +235,9 @@ nav_order: 2
 
 > 1. Try restarting your routers and PCs  
 > 2. Try using ethernet instead of WiFi  
-> 3. Try turning your VPN off/on  
-> 4. As a last resort try another network entirely and make sure your internet provider is not having any disturbances.  
+> 3. Try turning your VPN off/on
+> 4. If you have installed Riot's Vanguard try turning it off. If you have any other games anti cheat that is known to be intrusive turn them off as well.
+> 5. As a last resort try another network entirely and make sure your internet provider is not having any disturbances.  
 > <b><u>NOTE:</u></b> In Steam go to Steam -> Settings -> In-Game -> Steam Networking -> Choose Friends only (If you are steam friends) or Always. <b><u>This will share your IP address with people you connect with.</u></b>
 </details>
 
