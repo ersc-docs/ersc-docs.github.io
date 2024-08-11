@@ -80,7 +80,6 @@ This should fix this issue for you.
 > 6. Click Disable and quit to main menu.<br />
 > 7. Press continiue in the main menu. <br />
 > 8. Follow the steps for `If the power button is GREEN`<br/>
-<br/>
 </details>
 
 <details markdown="block">
@@ -89,7 +88,6 @@ This should fix this issue for you.
 
 > 6. Click Enable and quit to main menu.<br />
 > 7. This should prompt the cutsceen and set all flags correctly.<br />
-<br/>
 </details>
 <br/>
 </details>
