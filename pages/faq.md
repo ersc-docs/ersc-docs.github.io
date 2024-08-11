@@ -335,15 +335,16 @@ nav_order: 2
 ## Known bugs
 
 <details markdown="block">
-<summary>I'm trying to invade/assist an NPC, and it doesn't work!</summary>
-
-> * Sorceress Sellen/Witch-Hunter Jerren  (Is in a no attack zone use ashes to kill)
-</details>
-
-<details markdown="block">
 <summary>I get a long loading screen when entering an NPC invasion!</summary>
 
 > Known bug, cause unknown - for now, just wait it out (around 30 seconds).
+</details>
+
+<details markdown="block">
+<summary>Incorrect boss healthbar for field bosses, and no rewards.</summary>
+
+> <br />
+> Known bug, Disengage, warp and rest at a grace. This should force reset the boss and engage bosses together. 
 </details>
 
 <details markdown="block">
@@ -379,6 +380,13 @@ nav_order: 2
 <summary>The ensnaring chest at Agheel Lake doesn't teleport me to Caelid!</summary>
 
 > Known bug, for now - doesn't work.
+</details>
+
+<details markdown="block">
+<summary>Can't interact with NPC's after someone rested at a grace.</summary>
+
+> <br />
+> Known bug, rest at a grace or warp to be able to speak to them again.
 </details>
 
 <details markdown="block">
@@ -446,18 +454,6 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>Burning down the Sealing Tree, after Romina - missing interaction prompt in session.</summary>
-
-> Known bug, mist out and do the interaction solo.
-</details>
-
-<details markdown="block">
-<summary>"Touch Memory" interaction after DLC Radahn fight not showing.</summary>
-
-> Known bug, mist out and do the interaction solo.
-</details>
-
-<details markdown="block">
 <summary>Bosses dying prematurly, mid fight.</summary>
 
 > Known bug, very rear. <br />
@@ -468,7 +464,7 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>Not getting warp to second stage boss arena or caant warp to Plasidusax.</summary>
+<summary>Not getting warp to second stage boss arena or cant warp to Plasidusax.</summary>
 
 > Known bug, Everyone mist out and rejoin the session.
 </details>
