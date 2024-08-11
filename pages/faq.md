@@ -416,6 +416,27 @@ nav_order: 2
 </details>
 
 <details markdown="block">
+<summary>Sealingtree is burnt and Romina is not there.</summary>
+
+> Known bug. Incorrectly set flags from joining another world. <br />
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+</details>
+
+<details markdown="block">
+<summary>Burnt and Unburnt Capital at the same time.</summary>
+
+> Known bug. Incorrectly set flags due to dying at Maliketh or set from joining another world.<br />
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+</details>
+
+<details markdown="block">
+<summary>My Erdtree has the wrong state/is flickering!</summary>
+
+> Known bug. Incorrectly set flags due to dying at Maliketh or set from joining another world.<br />
+> A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
+</details>
+
+<details markdown="block">
 <summary>Texture Corruption Ingame or missing textures.</summary>
 
 > Not a Seamless Coop bug.<br />
