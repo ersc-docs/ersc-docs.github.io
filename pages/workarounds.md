@@ -19,11 +19,12 @@ nav_order: 3
 <details markdown="block">
 <summary>Coop items, use option greyed out and can't warp. </summary>
 
+> <br/>
 > If you coop items are greyed out and you can't warp to graces.
 > <br/>
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
 > 2. Open the tool when you are loaded in on your character while solo. <br/>
-> 3. Go to the grace tab in teh tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
+> 3. Go to the grace tab in the tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
 > 4. In the debug tool go to the `misc` tab and type in `310`. <br/>
 > 5. Press check <br/>
 > 6. If the power button turns Green, click disable and quit to main menu. Then press continue from the main menu. 
@@ -37,27 +38,88 @@ This should fix this issue for you.
 > <br/>
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
 > 2. Open the tool when you are loaded in on your character while solo. <br/>
-> 3. Go to the grace tab in teh tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
+> 3. Go to the grace tab in the tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
 > 4. In the debug tool go to the `misc` tab and type in `310`. <br/>
 > 5. Press check <br/>
-> 6. If the power button turns Green,  Then press continue from the main menu.
 
 <details markdown="block">
 <summary>If the power button is RED </summary>
 
-
-> 7. Click enable and quit to main menu.<br />
-> 8. Press continiue in the main menu. <br />
-> 9. Check if you can see the crater marker on the map.<br />
-> 10. Follow the steps for `If the power button is GREEN`
+><br/>
+> 6. Click enable and quit to main menu.<br />
+> 7. Press continiue in the main menu. <br />
+> 8. Check if you can see the crater marker on the map.<br />
+> 9. Follow the steps for `If the power button is GREEN`
 </details>
 
 <details markdown="block">
 <summary>If the power button is GREEN </summary>
 
+><br/>
+> 6. Click disable and quit to main menu.<br />
+> 7. Check if you can see the crater marker on the map.<br />
+</details>
 
-> 7. Click disable and quit to main menu.<br />
-> 8. Check if you can see the crater marker on the map.<br />
+</details>
+
+<details markdown="block">
+<summary>Burnt and Unburnt capital at the same time. </summary>
+
+> <br/>
+> 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
+> 2. Open the tool when you are loaded in on your character while solo. <br/>
+> 3. (recommended)Go to the grace tab in the tool and warp to a grace in Farum Azula.  <br/>
+> 4. In the debug tool go to the `misc` tab and type in `9116`. <br/>
+> 5. Press check <br/>
+
+<details markdown="block">
+<summary>If the power button is GREEN </summary>
+
+><br/>
+> 6. Click Disable and quit to main menu.<br />
+> 7. Press continiue in the main menu. <br />
+> 8. Follow the steps for `If the power button is GREEN`
+</details>
+
+<details markdown="block">
+<summary>If the power button is RED </summary>
+
+><br/>
+> 6. Click Enable and quit to main menu.<br />
+> 7. This should prompt the cutsceen and set all flags correctly.<br />
+</details>
+
+</details>
+
+<details markdown="block">
+<summary>Sealingtree is burnt and Romina is not there. </summary>
+
+> <br/>
+> 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
+> 2. Open the tool when you are loaded in on your character while solo. <br/>
+> 3. Go to the `grace` tab in the tool and warp to `Church of the Bud: Main Entrance`.  <br/>
+
+<details markdown="block">
+<summary>I have not fought Romina or burnt the tree </summary>
+
+> <br/>
+<b>NOTE:</b> If you see a grace in the middle of the church it means Romina is dead in your world. <br />
+> 6. In the `debug tool` go to the `misc` tab and type in `20010196` <br />
+> 7. Click check, if it is GREEN click `Disable`. <br />
+> 8. In the `debug tool` go to the `misc` tab and type in `330` <br />
+> 9. Click check, if it is GREEN click `Disable`. <br />
+> 10. Warp to `Church of the Bud: Main Entrance` sit of grace. <br />
+< 11. This will set the world state to before the Sealingtree is burnt.
+</details>
+
+<details markdown="block">
+<summary>I have fought Romina but there is no Sealingtree to burn.</summary>
+
+><br/>
+> 6. In the `debug tool` go to the `misc` tab and type in `20010196` <br />
+> 7. Click check, if it is RED click `Enable`. <br />
+> 8. Warp to `Church of the Bud: Main Entrance` sit of grace. <br />
+> 9. This will warp you to Enir-Ilim. <br /> 
 </details>
 
 </details>
