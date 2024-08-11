@@ -58,8 +58,9 @@ This should fix this issue for you.
 ><br/>
 > 6. Click disable and quit to main menu.<br />
 > 7. Check if you can see the crater marker on the map.<br />
+<br/>
 </details>
-
+<br/>
 </details>
 
 <details markdown="block">
@@ -78,7 +79,8 @@ This should fix this issue for you.
 ><br/>
 > 6. Click Disable and quit to main menu.<br />
 > 7. Press continiue in the main menu. <br />
-> 8. Follow the steps for `If the power button is GREEN`
+> 8. Follow the steps for `If the power button is GREEN`<br/>
+<br/>
 </details>
 
 <details markdown="block">
@@ -87,8 +89,9 @@ This should fix this issue for you.
 ><br/>
 > 6. Click Enable and quit to main menu.<br />
 > 7. This should prompt the cutsceen and set all flags correctly.<br />
+<br/>
 </details>
-
+<br/>
 </details>
 
 <details markdown="block">
