@@ -189,7 +189,7 @@ save_file_extension = `co2`
  
   > 3.3 Paste the downloaded file from step 3.1 into it, overwriting the exisiting one.
 
-  > 3.4 <u><b>IMPORTANT<b/> Go back into your `ME2` and launch the game with `launchmod_eldenring.bat` this is so you crate a save file and update an existing save file to the latest `regulation.bin` version. <b> THIS HAS TO BE DONE BY LAUNCHING ONLY SEAMLESS COOP WITH NO OTHER MODS.<b/><u/>
+  > 3.4 <u><b>IMPORTANT<b/> Go back into your ME2 and launch the game with launchmod_eldenring.bat this is so you crate a save file and update an existing save file to the latest regulation.bin version. <b> THIS HAS TO BE DONE BY LAUNCHING ONLY SEAMLESS COOP WITH NO OTHER MODS.<b/><u/>
 
 </details>
 
