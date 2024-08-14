@@ -30,7 +30,7 @@ If some file names do not match what you're seeing, please turn this setting on 
  
  **Required**
 
- You MUST launch Seamless Coop with either the launcher or ModEngine2.<br /> 
+ You <b><u>MUST<u/><b/> launch Seamless Coop with either `ersc_launcher.exe` or `ModEngine2`.<br /> 
  DLL injectors like Elden Mod Loader and Lazy Loader won't work.
 
 
