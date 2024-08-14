@@ -14,7 +14,7 @@ nav_order: 3
 >   
 > [The Grand Archives Cheat Table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/) has a script to get out of the loading screen.  
 > You can find it at `Scripts -> Seamless Co-op -> Loading screen stuck fix` in the cheat table.<br />
-> <b> You have to use CHEAT ENGINE to be able to use the table. <b/>
+> <b> You have to use CHEAT ENGINE to be able to use the table. </b>
 </details>
 
 <details markdown="block">
