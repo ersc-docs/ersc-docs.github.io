@@ -48,7 +48,7 @@ This should fix this issue for you.
 
 
 > 6. Click enable and quit to main menu.<br />
-> 7. Press continiue in the main menu. <br />
+> 7. Press continue in the main menu. <br />
 > 8. Check if you can see the crater marker on the map.<br />
 > 9. Follow the steps for `If the power button is GREEN`
 </details>
@@ -78,15 +78,15 @@ This should fix this issue for you.
 
 
 > 6. Click Disable and quit to main menu.<br />
-> 7. Press continiue in the main menu. <br />
-> 8. Follow the steps for `If the power button is GREEN`
+> 7. Press continue in the main menu. <br />
+> 8. Follow the steps for `If the power button is RED`
 </details>
 
 <details markdown="block">
 <summary>If the power button is RED </summary>
 
 
-> 6. Click Enable and quit to main menu.<br />
+> 6. Click Enable.<br />
 > 7. This should prompt the cutsceen and set all flags correctly.
 </details>
 <br/>
@@ -139,7 +139,7 @@ This should fix this issue for you.
 
 
 <details markdown="block">
-<summary> Stuck at Ranni's rise. Invisible wall and can't warp.  </summary>
+<summary>Stuck at Ranni's rise. Invisible wall and can't warp. </summary>
 
 
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
@@ -289,4 +289,44 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 
 </details>
 
+<details markdown="block">
+<summary>The Forager near the Church of the Crusade can't be healed. </summary>
+
+> Vanilla bug. Cause unknown, but most likely multiplayer-related.
+> 
+> 1. Download the debug tool: [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br />
+> 2. Open the tool when you are loaded in on your character while solo.<br />
+> 3. In the debug tool go to the `misc` tab. <br />
+> 4. Type in `4956` and click Disable.<br />
+> 5. Quit to main menu, then press continue from main menu. Note that you will still have to heal the Forager yourself. <br />
+[comment]: # Flag is actually 2250460308 but current public version of debug tool is signed.
+
+</details>
+
+<details markdown="block">
+<summary>The Ruins of Unte are still blocked even after killing the Furnace Golem. </summary>
+
+> You can climb up the back of the Ruins via a couple pieces of the back wall that jut out. If you don't feel like engaging in horse parkour, the wall can be broken manually.
+>
+> 1. Download the debug tool: [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br />
+> 2. Open the tool when you are loaded in on your character while solo.<br />
+> 3. In the debug tool go to the `misc` tab. <br />
+> 4. Type in `-2044506988` and click Enable.<br />
+> 5. Quit to main menu, then press continue from main menu. <br />
+
+</details>
+
+<details markdown="block">
+<summary>DLC final boss died instantly! </summary>
+
+> Vanilla bug. Cause unknown, but most likely multiplayer-related.
+> If you want to earn your keep, the boss can be respawned.
+> 
+> 1. Download the debug tool: [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br />
+> 2. Open the tool when you are loaded in on your character while solo.<br />
+> 3. In the debug tool go to the `misc` tab. <br />
+> 4. Type in `20010800` and click Disable.<br />
+> 5. Rest at a site of grace.<br />
+
+</details>
 
