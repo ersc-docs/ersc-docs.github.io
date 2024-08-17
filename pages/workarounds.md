@@ -299,7 +299,6 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 > 3. In the debug tool go to the `misc` tab. <br />
 > 4. Type in `4956` and click Disable.<br />
 > 5. Quit to main menu, then press continue from main menu. Note that you will still have to heal the Forager yourself. <br />
-[comment]: # Flag is actually 2250460308 but current public version of debug tool is signed.
 
 </details>
 
