@@ -224,7 +224,7 @@ save_file_extension = `co2`
    Big overhauls will sometimes come bundled with `.dll` mods and `Mod Engine 2`.
  
  `.dll` mods will generally speaking only have a .dll file, a config file aka a .ini file.<br />
- The .ini file may be in a folder sometimes. The can also come with it's own .exe file like Seamless Coop.
+ The .ini file may be in a folder sometimes. They can also come with it's own .exe file like Seamless Coop.
  
  You can `preview` what files a mod has on NexusMods before downloading<br />
  by going to the mods `file` page and click on `Preview file contents`. 
