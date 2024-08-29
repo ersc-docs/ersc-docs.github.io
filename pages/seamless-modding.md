@@ -183,7 +183,27 @@ save_file_extension = `co2`
 <details markdown="block">
   <summary>3. Setting up Mod Engine 2</summary>
 
-  > 3.1 Download the [preconfigured Elden Ring ModEngine2 toml](https://ersc-docs.github.io/assets/txt/config_eldenring.toml).  
+  > 3.1 Download the [preconfigured Elden Ring ModEngine2 toml](https://ersc-docs.github.io/assets/txt/config_eldenring.toml) or configure it manually like the following example:
+  > <details markdown="block">
+  >  <summary>config_eldenring.toml</summary>
+  > 
+  > ```toml
+  > [modengine]
+  > debug = false
+  > external_dlls = [ "SeamlessCoop/ersc.dll" ]
+  > 
+  > [extension.mod_loader]
+  > enabled = true
+  > loose_params = false
+  > 
+  > mods = [
+  >     { enabled = true, name = "default", path = "mod" }
+  > ]
+  > 
+  > [extension.scylla_hide]
+  > enabled = false
+  > ```
+  > </details>
   
   > 3.2 Open your `ME2` folder.  
  
