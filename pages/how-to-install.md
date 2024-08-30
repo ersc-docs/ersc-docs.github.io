@@ -100,11 +100,11 @@ mod_language_override = hungarian
 
 **NOTE**: If you are getting `Inappropriate Activity Detected` after mod launch, that means that it failed to load. Some antiviruses can false flag and prevent the mod from hooking into the game - disable or uninstall them to resolve this.
 
-(Optional) Create a shortcut to `launch_elden_ring_seamlesscoop.exe` on your desktop - this can be done by right clicking the launcher and pressing Create shortcut (under More options in Windows 11). Drag and drop the resulting shortcut to your desktop.
+(Optional) Create a shortcut to `ersc_launcher.exe` on your desktop - this can be done by right clicking the launcher and pressing Create shortcut (under More options in Windows 11). Drag and drop the resulting shortcut to your desktop.
 
 **If you are on Linux**, add `ersc_launcher.exe` to Steam as a Non-Steam game, and launch it from there:
 1. On Desktop (desktop mode for Steam Deck) this can be done from the "Add a game" button in the lower left corner of the Steam client, then find and select the the executable in the game folder.
-2. Open up the properties menu of the new `launch_elden_ring_seamlesscoop.exe` entry in Steam. Feel free to rename it to whatever you like
+2. Open up the properties menu of the new `ersc_launcher.exe` entry in Steam. Feel free to rename it to whatever you like
 3. On the "Compatibility" page, you'll want to set your preferred Proton version. If you don't know what to pick, Proton 8.0 or 7.0 should work fine.
 
 # How to Update
