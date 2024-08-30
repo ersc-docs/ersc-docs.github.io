@@ -454,9 +454,9 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>Bosses dying prematurly, mid fight.</summary>
+<summary>Bosses dying prematurely, mid fight.</summary>
 
-> Known bug, very rear. <br />
+> Known bug, very rare. <br />
 > Make sure you rest often at graces. <br />
 > Make sure to keep backups in case it happens. <br />
 > <br />
