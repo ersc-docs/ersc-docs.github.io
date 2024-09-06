@@ -148,7 +148,7 @@ This should fix this issue for you.
 > 4. Make sure you are close to Ranni's rise. <br />
 > 5. In the Debug tool go to the `misc` tab at the bottom of the tool. <br />
 > 6. Select either <b>Short version.</b> or <b>Long and proper way</b> below and follow instructions. <br />
-> <b><mark> Long and proper way recommended ! </mark></b> <br />
+> <b> Long and proper way recommended ! </b> <br />
 > <br /> <b>NOTE:</b> <br />
 > 1 = Enabled = GREEN. <br />
 > 0 = Disabled = RED. <br /> 
