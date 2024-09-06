@@ -238,6 +238,8 @@ Advancing Ranni's Questline to the point where she goes into her slumber -
 > Check if you can leave.
 </details>
 
+&nbsp;
+
 </details>
 
 <details markdown="block">
