@@ -46,6 +46,8 @@ nav_order: 2
 10. Your vanilla characters will now show in Seamless Coop!
 </details>
 
+&nbsp;
+
 </details>
 
 <details markdown="block">
