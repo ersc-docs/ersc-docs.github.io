@@ -147,6 +147,7 @@ This should fix this issue for you.
 > 3. Open the tool when you are loaded in on your character while solo. <br/>
 > 4. Make sure you are close to Ranni's rise. <br />
 > 5. In the Debug tool go to the `misc` tab at the bottom of the tool. <br />
+> 6. Select either <b>Short version.</b> or <b>Long and proper way</b> below and follow instructions. <b><mark> Long and proper way recommended ! </mark></b> <br />
 > <br /> <b>NOTE:</b> <br />
 > 1 = Enabled = GREEN. <br />
 > 0 = Disabled = RED. <br /> 
@@ -155,24 +156,24 @@ This should fix this issue for you.
 <summary>Short version. </summary>
 
 
-> 6. Enter `1034509416` and click check. <br />
+> 7. Enter `1034509416` and click check. <br />
 
 <details markdown="block">
 <summary>If the power button is GREEN </summary>
 
 
-> 7. Click disable and sit at the grace.<br />
-> 8. Check if you can leave.<br />
-> 9. If it has not do the steps for if the power button is RED. <br />
+> 8. Click disable and sit at the grace.<br />
+> 9. Check if you can leave.<br />
+> 10. If it has not do the steps for if the power button is RED. <br />
 </details>
 
 <details markdown="block">
 <summary>If the power button is RED </summary>
 
 
-> 7. Click enable and sit at the grace.<br />
-> 8. Check if you can leave.<br />
-> 9. Else follow the `Long and proper way`.
+> 8. Click enable and sit at the grace.<br />
+> 9. Check if you can leave.<br />
+> 10. Else follow the `Long and proper way`.
 </details>
 
 </details>
