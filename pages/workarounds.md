@@ -197,6 +197,7 @@ This should fix this issue for you.
 
 </details>
 
+<br />
 </details>
 
 <details markdown="block">
