@@ -304,13 +304,14 @@ nav_order: 2
 > These are including, but not limited to:
 > - AMD Ryzen Master
 > - AMD Adrenaline
-> - Rivia Tuner
+> - RivaTuner
 > - MSI Afterburner
 > - Medal
 > - Overwolf
 > - Process Lasso
 > - System Explorer
-> - And might also include Discord and GeForce overlays.
+> - Discord Overlay
+> - May also include GeForce overlay.
 >
 > Run <b>ersc_launcher.exe</b> as admin
 </details>
@@ -350,11 +351,11 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary> Spectral Steed Wisttle is Greyed out (Torrent). </summary>
+<summary>Spectral Steed Whistle is Greyed out (Torrent). </summary>
 
-> Not a bug. <br />
-> Caused by having corrupt game files or outdated regulation.bin file. <br />
-> Delete your <b>regulation.bin</b> file in your <b>game</b> and verify game files in steam. Should verify 450 - 600 files.<br />
+> Not a Seamless bug. <br />
+> Caused by having corrupt game files or an outdated regulation.bin file. <br />
+> Delete your <b>regulation.bin</b> file in your <b>game</b> and verify game files in Steam. Should verify 450 - 600 files.<br />
 > Make sure your <b>regulation.bin</b> altering mods are not outdated. <br />
 </details>
 
@@ -398,7 +399,7 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>Coop Items, greyed out use option and can't warp.</summary>
+<summary>Unable to use Co-op items or warp.</summary>
 
 > Known bug. Incorrectly set flags.<br />
 > A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)
@@ -426,7 +427,7 @@ nav_order: 2
 </details>
 
 <details markdown="block">
-<summary>Sealingtree is burnt and Romina is not there.</summary>
+<summary>Sealing Tree is burnt and Romina is not there.</summary>
 
 > Known bug. Incorrectly set flags from joining another world. <br />
 > A workaround is in [Workarounds](https://ersc-docs.github.io/workarounds/)

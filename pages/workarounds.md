@@ -10,19 +10,19 @@ nav_order: 3
 <summary>Infinite loading screen</summary>
 
 > This could have multiple causes, but most likely you're stuck at an invalid location.  
-> For example, DLC region without owning the correct DLC.
+> For example, attempting to enter a DLC region without owning the correct DLC.
 >   
 > [The Grand Archives Cheat Table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/) has a script to get out of the loading screen.  
 > You can find it at `Scripts -> Seamless Co-op -> Loading screen stuck fix` in the cheat table.<br />
 > <b> You have to use CHEAT ENGINE to be able to use the table. </b>
+>
+> Note: The script currently only works if your character is in the overworld or a legacy dungeon. If you warped into a side dungeon, the loading bar will get stuck at 99%. In this case, you can either buy the DLC, or ask for support in Discord.
 </details>
 
 <details markdown="block">
-<summary>Coop items, use option greyed out and can't warp. </summary>
+<summary>Unable to use Co-op items or warp. </summary>
 
 
-> If you coop items are greyed out and you can't warp to graces.
-> <br/>
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
 > 2. Open the tool when you are loaded in on your character while solo. <br/>
 > 3. Go to the grace tab in the tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
@@ -30,7 +30,6 @@ nav_order: 3
 > 5. Press check <br/>
 > 6. If the power button turns Green, click disable and quit to main menu. Then press continue from the main menu. 
 
-This should fix this issue for you.
 </details>
 
 <details markdown="block">
@@ -69,7 +68,7 @@ This should fix this issue for you.
 
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
 > 2. Open the tool when you are loaded in on your character while solo. <br/>
-> 3. (recommended)Go to the grace tab in the tool and warp to a grace in Farum Azula.  <br/>
+> 3. (Recommended) Go to the grace tab in the tool and warp to a grace in Farum Azula.  <br/>
 > 4. In the debug tool go to the `misc` tab and type in `9116`. <br/>
 > 5. Press check <br/>
 
@@ -93,7 +92,7 @@ This should fix this issue for you.
 </details>
 
 <details markdown="block">
-<summary>Sealingtree is burnt and Romina is not there. </summary>
+<summary>Sealing Tree is burnt and Romina is not there. </summary>
 
 
 > 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
@@ -110,11 +109,11 @@ This should fix this issue for you.
 > 8. In the `debug tool` go to the `misc` tab and type in `330` <br />
 > 9. Click check, if it is GREEN click `Disable`. <br />
 > 10. Warp to `Church of the Bud: Main Entrance` sit of grace. <br />
-< 11. This will set the world state to before the Sealingtree is burnt.
+< 11. This will set the world state to before the Sealing Tree is burnt.
 </details>
 
 <details markdown="block">
-<summary>I have fought Romina but there is no Sealingtree to burn.</summary>
+<summary>I have fought Romina but there is no Sealing Tree to burn.</summary>
 
 
 > 6. In the `debug tool` go to the `misc` tab and type in `20010196` <br />
