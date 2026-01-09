@@ -9,26 +9,28 @@ nav_order: 3
 <details markdown="block">
 <summary>Infinite loading screen</summary>
 
-> This could have multiple causes, but most likely you're stuck at an invalid location.  
-> For example, attempting to enter a DLC region without owning the correct DLC.
->   
-> [The Grand Archives Cheat Table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/) has a script to get out of the loading screen.  
-> You can find it at `Scripts -> Seamless Co-op -> Loading screen stuck fix` in the cheat table.<br />
-> <b> You have to use CHEAT ENGINE to be able to use the table. </b>
->
-> Note: The script currently only works if your character is in the overworld or a legacy dungeon. If you warped into a side dungeon, the loading bar will get stuck at 99%. In this case, you can either buy the DLC, or ask for support in Discord.
+> This has multiple causes, such as being in an invalid location, such as attempting to enter a DLC region without owning the correct DLC.
+> It can also occur if the game crashes, especially if you were riding Torrent at the time.
+>  
+> 1. Close Elden Ring completely. 
+> 2. Download the [ER Save File Fixer](https://www.nexusmods.com/eldenring/mods/9051). <br/>
+> 3. Select your save file, or use the Auto-Find button to attempt to locate it automatically. <br/>
+> 4. Select Load Characters. <br/>
+> 5. Select the character slot that is affected by the issue. <br/>
+> 6. Press Fix Selected Character. If the issue was caused by Torrent, it will be fixed. <br/>
+Otherwise, you can pick to either be teleported to Limgrave or to the Roundtable Hold, either will work. <br/>
 </details>
 
 <details markdown="block">
-<summary>Unable to use Co-op items or warp. </summary>
+<summary>Unable to use Co-op items or warp/I'm stuck in Ranni's Rise</summary>
 
 
-> 1. Download the debug tool : [Nordgaren's Elden Ring Debug Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool/releases/latest) <br/>
-> 2. Open the tool when you are loaded in on your character while solo. <br/>
-> 3. Go to the grace tab in the tool and warp to a grace in Caelid. Example Outside the plaza. <br/>
-> 4. In the debug tool go to the `misc` tab and type in `310`. <br/>
-> 5. Press check <br/>
-> 6. If the power button turns Green, click disable and quit to main menu. Then press continue from the main menu. 
+> 1. Close Elden Ring completely. 
+> 2. Download the [ER Save File Fixer](https://www.nexusmods.com/eldenring/mods/9051). <br/>
+> 3. Select your save file, or use the Auto-Find button to attempt to locate it automatically. <br/>
+> 4. Select Load Characters. <br/>
+> 5. Select the character slot that is affected by the issue. <br/>
+> 6. Press Fix Selected Character. <br/>
 
 </details>
 
@@ -133,17 +135,6 @@ nav_order: 3
 > 3. Recommended to have everyone in the session be in the plaza area before you set the flag in the next step. <br/>
 > 4. In the debug tool go to the `misc` tab and type in `9411`. <br/>
 > 5. Click on Enable. <br/>
-
-</details>
-
-
-<details markdown="block">
-<summary>Stuck at Ranni's rise. Invisible wall and can't warp. </summary>
-
-
-> [The Grand Archives Cheat Table](https://github.com/The-Grand-Archives/Elden-Ring-CT-TGA/) has a script to get out of Ranni's Rise.  
-> You can find it at `Scripts -> Seamless Co-op -> Ranni's tower fix` in the cheat table.<br />
-> <b> You have to use CHEAT ENGINE to be able to use the table. </b>
 
 </details>
 
