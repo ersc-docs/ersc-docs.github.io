@@ -8,30 +8,26 @@ nav_order: 3
 
 <details markdown="block">
 <summary>Infinite loading screen</summary>
-
-> This has multiple causes, such as being in an invalid location, such as attempting to enter a DLC region without owning the correct DLC.
-> It can also occur if the game crashes, especially if you were riding Torrent at the time.
+> This has multiple causes, such as being in an invalid location, or attempting to enter a DLC region without owning the correct DLC. It can also occur if the game crashes, especially if you were riding Torrent at the time.
 >  
 > 1. Close Elden Ring completely. 
-> 2. Download the [ER Save File Fixer](https://www.nexusmods.com/eldenring/mods/9051). <br/>
-> 3. Select your save file, or use the Auto-Find button to attempt to locate it automatically. <br/>
-> 4. Select Load Characters. <br/>
-> 5. Select the character slot that is affected by the issue. <br/>
-> 6. Press Fix Selected Character. If the issue was caused by Torrent, it will be fixed. <br/>
-Otherwise, you can pick to either be teleported to Limgrave or to the Roundtable Hold, either will work. <br/>
+> 2. Download the [ER Save Manager](https://www.nexusmods.com/eldenring/mods/9271). <br/>
+> 3. Press the Auto-Find button, and select your save file. <br/>
+> 4. Select the character slot that is affected by the issue. <br/>
+> 5. Press View All Issues. <br/>
+> 6. If the tool lists issues, press Fix All Issues. Otherwise, press Teleport Character to be warped to the Roundtable Hold.<br/>
+
 </details>
 
 <details markdown="block">
 <summary>Unable to use Co-op items or warp/I'm stuck in Ranni's Rise</summary>
-
-
 > 1. Close Elden Ring completely. 
-> 2. Download the [ER Save File Fixer](https://www.nexusmods.com/eldenring/mods/9051). <br/>
-> 3. Select your save file, or use the Auto-Find button to attempt to locate it automatically. <br/>
-> 4. Select Load Characters. <br/>
-> 5. Select the character slot that is affected by the issue. <br/>
-> 6. Press Fix Selected Character. <br/>
-
+> 2. Download the [ER Save Manager](https://www.nexusmods.com/eldenring/mods/9271). <br/>
+> 3. Press the Auto-Find button, and select your save file. <br/>
+> 4. Select the character slot that is affected by the issue. <br/>
+> 5. Press View All Issues. <br/>
+> 6. Press Fix All Issues. <br/>
+If the tool is repeatedly finding the `radahn_alive_warp` issue, it means that you have not killed Starscourge Radahn, but your host has. Killing Starscourge Radahn in your world and lighting his grace will permanently prevent that issue.
 </details>
 
 <details markdown="block">
